@@ -73,7 +73,7 @@
     left: 0;
     bottom: -5px; */
     display: block;
-    width: 100%;
+    width: 50%;
     height: 5px;
     background-color: rgb(250, 136, 0); 
     border-bottom-right-radius: 100%;
@@ -139,6 +139,13 @@
     z-index: 10;
     overflow-y: auto;
    
+}
+.deityImage{
+    position: sticky;
+    top: 100px;
+}
+.container{
+    position: relative;
 }
 
 .hidden {
@@ -206,8 +213,8 @@
 .deityImage {
     padding: 50px;
    
-    width: 100%;
-   
+    width: 400px;
+    background-attachment: fixed;
     height: auto;
     transition: transform 0.3s ease-in-out;
 }
@@ -234,5 +241,10 @@
     color: black;
     font-size: 18px;
 }
-
+.BackgImg {
+    background-image: url('/images/building1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
 
