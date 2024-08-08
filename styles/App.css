@@ -30,13 +30,18 @@
   .product-list ul {
     list-style: none;
     padding: 0;
+    display: flex;
   }
   
   .product-list li {
     padding: 10px;
     cursor: pointer;
+   
   }
-  
+  .product-list ul li{
+    display: flex;
+    flex-direction: column;
+  }
   .product-list li:hover {
     background-color: #f0f0f0;
   }

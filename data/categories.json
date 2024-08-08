@@ -5,15 +5,18 @@
     "products": [
       {
         "id": 101,
-        "name": "Product 1-1"
+        "name": "Product 1-1",
+        "image": "/images/products99/stone5.jpg"
       },
       {
         "id": 102,
-        "name": "Product 1-2"
+        "name": "Product 1-2",
+       "image": "/images/products99/stone5.jpg"
       },
       {
         "id": 103,
-        "name": "Product 1-3"
+        "name": "Product 1-3",
+        "image": "/images/products99/stone5.jpg"
       }
     ]
   },
@@ -23,15 +26,18 @@
     "products": [
       {
         "id": 201,
-        "name": "Product 2-1"
+        "name": "Product 2-1",
+        "image": "/images/products99/stone2.jpg"
       },
       {
         "id": 202,
-        "name": "Product 2-2"
+        "name": "Product 2-2",
+      "image": "/images/products99/stone2.jpg"
       },
       {
         "id": 203,
-        "name": "Product 2-3"
+        "name": "Product 2-3",
+       "image": "/images/products99/stone2.jpg"
       }
     ]
   },
@@ -41,15 +47,18 @@
     "products": [
       {
         "id": 301,
-        "name": "Product 3-1"
+        "name": "Product 3-1",
+        "image": "/images/products99/stone3.avif"
       },
       {
         "id": 302,
-        "name": "Product 3-2"
+        "name": "Product 3-2",
+         "image": "/images/products99/stone3.avif"
       },
       {
         "id": 303,
-        "name": "Product 3-3"
+        "name": "Product 3-3",
+         "image": "/images/products99/stone3.avif"
       }
     ]
   }

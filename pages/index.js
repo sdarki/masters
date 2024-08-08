@@ -11,7 +11,7 @@ import CompaniesComponent from '../components/Home/forCompanies/CompaniesCompone
 import SliderComponent from '../components/Home/SliderComponent';
 import PhotoGallery from '../components/Home/locationfol/PhotoGallery';
 import MasterAbout from '../components/about-us/MasterAbout';
-import ProductPage from '../components/ProductPage';
+// import ProductPage from '../components/ProductPage';
 const index = () => {
   return (
     <>
@@ -30,7 +30,7 @@ const index = () => {
       <ReviewComponent />
       {/* <ClientsComponent/> */}
       <PhotoGallery />
-      <ProductPage />;
+      {/* <ProductPage /> */}
       {/* <ClientTestimonialComponent/> */}
       <MasterAbout/>
     </>

@@ -3,36 +3,35 @@ import { useState, useEffect } from 'react';
 import SideMenu from '../../components/SideMenu';
 import productDetails from '../../data/productDetails.json';
 import categories from '../../data/categories.json';
+import SparesBreadcumb from '../../components/spares/SparesBreadcumb';
 
 const ProductDetailPage = () => {
   const router = useRouter();
   const { id } = router.query;
   const [product, setProduct] = useState(null);
-  const [allProducts, setAllProducts] = useState([]);
 
   useEffect(() => {
     if (id) {
-      // Fetch product details based on ID
       const productDetail = productDetails.find(p => p.id === parseInt(id));
       setProduct(productDetail);
-
-      // Fetch all products
-      setAllProducts(productDetails);
     }
   }, [id]);
 
-  const handleProductSelect = (productId) => {
-    router.push(`/product/${productId}`);
+  const handleCategorySelect = (categoryId) => {
+    router.push(`/category/${categoryId}`); // Adjust this URL as needed
   };
 
   return (
-    <div className="app">
-      <SideMenu categories={categories} onSelectCategory={() => router.push('/')}/>
+    <>
+    <SparesBreadcumb/>
+     <div className="app">
+      <SideMenu categories={categories} onSelectCategory={handleCategorySelect} />
       <div className="main-content">
         <div className="product-details">
           {product ? (
             <>
               <h2>{product.name}</h2>
+              <img src={product.image} alt={product.name} style={{ maxWidth: '100%', height: 'auto' }} />
               <p>{product.details}</p>
             </>
           ) : (
@@ -41,6 +40,8 @@ const ProductDetailPage = () => {
         </div>
       </div>
     </div>
+    </>
+   
   );
 };
 

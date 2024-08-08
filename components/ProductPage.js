@@ -4,7 +4,6 @@ import SideMenu from './SideMenu';
 import ProductList from './ProductList';
 import categories from '../data/categories.json';
 
-
 const ProductPage = () => {
   const [selectedCategoryId, setSelectedCategoryId] = useState(null);
   const [products, setProducts] = useState([]);
@@ -13,7 +12,7 @@ const ProductPage = () => {
   useEffect(() => {
     if (selectedCategoryId !== null) {
       const selectedCategory = categories.find(c => c.id === selectedCategoryId);
-      setProducts(selectedCategory.products);
+      setProducts(selectedCategory ? selectedCategory.products : []);
     }
   }, [selectedCategoryId]);
 
