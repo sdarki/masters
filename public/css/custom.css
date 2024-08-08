@@ -3120,6 +3120,7 @@ background-color: transparent;
     font-size: 30px !important;
 }
 
+
 /*valves site*/
 .nav_box{
     /*margin-top: 57px;*/
@@ -4196,6 +4197,7 @@ text-decoration: underline;
       .new-area {
         height: 70vh;
         background-image: url('/images/aeBanner-min.jpg');
+
       }
       .shop-account .form-control {
         border: 0 none;

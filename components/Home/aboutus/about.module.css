@@ -60,6 +60,43 @@
 .first_tab img {
     height: 167px;
 }
+/* AboutTabComponent.module.css */
+.whyGrid{
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 40px;
+    padding: 20px;
+}
+.whyGridContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+  }
+  .head{
+    font-weight: bold;
+    color: #898b8b;
+  }
+  .aboutTabComponent {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  }
+  
+  .image {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .content {
+    font-size: 26px;
+    color: #333;
+  }
+ 
 
 @media only screen and (max-width: 476px) {
     .first_tab h4 {
