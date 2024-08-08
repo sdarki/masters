@@ -4877,13 +4877,11 @@ background-color: #fff;
 .spare-pro :where(.css-dev-only-do-not-override-42nv3w).ant-card-bordered {
     border: 1px solid #00000073;
 }
-.spare-pro img {
-height: 300px;
-}
+
 .mt-10{
     margin-top: 10px;
 }
 .ml-0{
-    width: 1200px;
+    /* width: 1200px; */
     margin-left: 0px;
 }

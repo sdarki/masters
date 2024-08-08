@@ -1,166 +1,292 @@
 export const products = {
-    home:[
+    baluster: [
         {
-            title:'WASHING MACHINE: WATER INLET HOSES',
-            thumImg:'/images/products/home.png',
-            desc:' <h1>Washing Machine: Water Inlet Hoses</h1> <ul style="margin:0"> <li><strong>Function:</strong> Water inlet hoses connect washing machines to the water supply, facilitating the intake of water needed for washing cycles.</li> <li><strong>Material:</strong> Typically made from durable materials like rubber or reinforced synthetic fibers to withstand water pressure and ensure longevity.</li> <li><strong>Design Varieties:</strong> Available in various lengths and diameters to accommodate different installation setups and plumbing configurations.</li> <li><strong>Features:</strong> Some hoses include features like anti-corrosion coatings or burst-resistant constructions to enhance durability and safety.</li><li><strong>Compatibility:</strong> Designed to fit most standard washing machines, ensuring compatibility across different brands and models.</li> <li><strong>Installation:</strong> Easy to install with standard fittings, often requiring simple hand tools for connection to water sources and washing machines.</li> </ul>',
-            descImg:[
-                '/images/products/home.png',
-                '/images/products/home2.png'
-            ]
+          title: "Balcony White Concrete Balusters",
+          thumImg: "/images/products99/BRASS_FRP_HOLDERS.avif",
+          specification:
+            '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Railing Balusters</td>  </tr>  <tr>    <td>Surface Finish</td>    <td>Smooth</td>  </tr> <tr>    <td>Method</td>    <td>Casting</td>  </tr>  <tr>    <td>Size</td>    <td>1000x100x100 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Use</td>    <td>Decorative</td>  </tr>  <tr>    <td>Shape</td>    <td>Square</td>  </tr>  <tr>    <td>Height</td>    <td>36 in</td>  </tr>  <tr>    <td>Diameter</td>    <td>4 in</td>  </tr>  <tr>    <td>Thickness</td>    <td>20 mm</td>  </tr>  <tr>    <td>Mounting Type</td>    <td>Floor Mount</td>  </tr>  <tr>    <td>Density</td>    <td>2400 Kg/m³</td>  </tr>  <tr>    <td>Position</td>    <td>Balcony</td>  </tr>  <tr>    <td>Material Grade</td>    <td>A</td>  </tr>  <tr>    <td>Material</td>   <td>Concrete</td>  </tr>  <tr>    <td>Design</td>    <td>Traditional</td>  </tr>  <tr>   <td>Unit Height</td>    <td>3 in</td>  </tr>  <tr>    <td>Pattern</td>    <td>Floral</td>  </tr></table>',
+          desc: " Introducing our Balcony White Concrete Balusters, the perfect addition to your balcony railing. Crafted with precision, these railing balusters boast a height of 36 inches, a diameter of 4 inches, and a thickness of 20 millimeters. Featuring a delightful floral pattern, these traditional design balusters are made from top-grade concrete material with a smooth surface finish. With a square shape and a density of 2400, these balusters are built to last. Measuring 1000x100x100 millimeters, they are ideal for floor mounting on your balcony. Enhance your space with these decorative balusters and add a touch of elegance to your home.",
+          descImg: ["/images/products99/BRASS_FRP_HOLDERS.avif"],
         },
+        {
+          title: "Baluster Molding Design, Ornamental Railing Design",
+          thumImg:
+            "/images/products99/42B1C58EE32B460103FE8BDCDC_1638511936979.jpg",
+          // specification:'<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Railing Balusters</td>  </tr>  <tr>    <td>Surface Finish</td>    <td>Smooth</td>  </tr> <tr>    <td>Method</td>    <td>Casting</td>  </tr>  <tr>    <td>Size</td>    <td>1000x100x100 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Use</td>    <td>Decorative</td>  </tr>  <tr>    <td>Shape</td>    <td>Square</td>  </tr>  <tr>    <td>Height</td>    <td>36 in</td>  </tr>  <tr>    <td>Diameter</td>    <td>4 in</td>  </tr>  <tr>    <td>Thickness</td>    <td>20 mm</td>  </tr>  <tr>    <td>Mounting Type</td>    <td>Floor Mount</td>  </tr>  <tr>    <td>Density</td>    <td>2400 Kg/m³</td>  </tr>  <tr>    <td>Position</td>    <td>Balcony</td>  </tr>  <tr>    <td>Material Grade</td>    <td>A</td>  </tr>  <tr>    <td>Material</td>   <td>Concrete</td>  </tr>  <tr>    <td>Design</td>    <td>Traditional</td>  </tr>  <tr>   <td>Unit Height</td>    <td>3 in</td>  </tr>  <tr>    <td>Pattern</td>    <td>Floral</td>  </tr></table>',
+          desc: "Introducing our exquisite Baluster Molding Design, perfect for adding elegance and sophistication to any space. This ornamental railing design is crafted with meticulous attention to detail, ensuring a stunning visual impact. Made from high-quality materials, it boasts durability and longevity. The intricate patterns and intricate curves of the balusters create a timeless appeal that complements various architectural styles. Whether used for indoor or outdoor applications, this stunning design is sure to impress guests and enhance the overall aesthetic of your home or commercial space. Elevate your decor with our Baluster Molding Design and experience the beauty of fine craftsmanship.",
+          descImg: [
+            "/images/products99/42B1C58EE32B460103FE8BDCDC_1638511936979.jpg",
+          ],
+        },
+      ],
+    
+      precast_concrete: [
+        {
+          title: "Precast Concrete Baluster Railing (Durable Baluster)",
+          thumImg: "/images/products99/PreCast Concrete.avif",
+          specification:
+            '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Precast Concrete</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>india</td>  </tr> <tr>    <td>Compressive Strength</td>    <td>70 N/mm</td>  </tr>  </table>',
+          desc: "Introducing our durable Precast Concrete Baluster Railing, designed to enhance the beauty and safety of your space. Crafted from high-quality precast concrete, this baluster showcases exceptional strength with a compressive strength of 70 N/mm. Whether you are looking to upgrade your home or commercial property, our baluster railing is a perfect choice. Its sturdy construction ensures long-lasting durability, making it ideal for withstanding the Indian climate and everyday wear and tear. With a simple yet elegant design, this precast concrete baluster railing will add a touch of sophistication to any outdoor or indoor setting. Elevate your space with this reliable and attractive baluster railing today.",
+          descImg: ["/images/products99/PreCast Concrete.avif"],
+        },
+        {
+          title: "Precast Drain Slabs for Efficient Drainager)",
+          thumImg:
+            "/images/products99/Precast Drain Slabs for Efficient Drainage.avif.crdownload",
+          specification:
+            '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Use</td>    <td>	Wound Drainage</td>  </tr>  <tr>    <td>Wall Thickness</td>    <td>	6.5 mm</td>  </tr> <tr>    <td>Material</td>    <td>	Polyethylene</td>  </tr>  </table>',
+          desc: "Introducing our high-quality precast drain slabs for efficient drainage. Made from durable polyethylene material, these slabs are built to last. With a wall thickness of 6.5, our drain slabs provide exceptional strength and reliability. Designed for wound drainage, they offer an effective solution for managing excess liquids. These drain slabs are perfect for various applications, ensuring smooth water flow and preventing waterlogging. Easy to install and maintain, they are ideal for both residential and commercial use. Invest in our precast drain slabs to achieve efficient drainage and keep your surroundings dry and clean. Experience hassle-free water management today!",
+          descImg: [
+            "/images/products99/Precast Drain Slabs for Efficient Drainage.avif.crdownload",
+          ],
+        },
+        {
+          title: "Concrete Window Frame Mould Durable Frame Mold",
+          thumImg:
+            "/images/products99/Concrete Window Frame Mould Durable Frame Mold - Concrete - Master Industries, Ponda, Goa,_files/42E481154D854E5C07BC7AE3B8_1645426631772.jpg",
+          specification:
+            '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>type</td>    <td>	Precast Concrete</td>  </tr>  <tr>    <td>Country of origin</td>    <td>	India</td>  </tr> <tr>    <td>Compressive Strength</td>    <td>70 N/mm</td>  </tr>  </table>',
+          desc: "Introducing our Concrete Window Frame Mould - a durable and reliable frame mold designed specifically for precast concrete windows. Crafted with precision, this mold ensures the production of high-quality window frames that are built to last. Made from premium materials, it guarantees durability and strength, making it an ideal choice for construction projects. With a compressive strength of 70 N/mm, this mold ensures the frames can withstand the test of time. Whether you are a contractor or a DIY enthusiast, our Concrete Window Frame Mould is a must-have tool to create sturdy and long-lasting window frames for your building needs.",
+          descImg: [
+            "/images/products99/Concrete Window Frame Mould Durable Frame Mold - Concrete - Master Industries, Ponda, Goa,_files/42E481154D854E5C07BC7AE3B8_1645426631772.jpg",
+          ],
+        },
+        {
+          title: "Sturdy Precast Concrete Window Frame Mould",
+          thumImg:
+            "/images/products99/Sturdy Precast Concrete Window Frame Mould - Concrete - Master Industries, Ponda, Goa,_files",
+          specification:
+            '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>type</td>    <td>	Precast Concrete</td>  </tr>  <tr>    <td>Country of origin</td>    <td>	India</td>  </tr> <tr>    <td>Compressive Strength</td>    <td>80 N/mm</td>  </tr>  </table>',
+          desc: "Introducing our Sturdy Precast Concrete Window Frame Mould, perfect for all your construction needs. Made with high-quality precast concrete, this mould ensures durability and longevity. With a compressive strength of 80 N/mm, it guarantees exceptional stability and resistance. Crafted with precision, this mould creates window frames that are strong and reliable, suitable for Indian construction standards. Its easy-to-use design allows for efficient installation, saving you time and effort. Whether for residential or commercial projects, this mould provides the perfect solution for creating robust and long-lasting window frames. Invest in our Sturdy Precast Concrete Window Frame Mould and experience the reliability and quality it offers.",
+          descImg: [
+            "/images/products99/Sturdy Precast Concrete Window Frame Mould - Concrete - Master Industries, Ponda, Goa,_files",
+          ],
+        },
+        {
+          title: "Sturdy Precast Concrete Window Frame Mould",
+          thumImg:
+            "/images/products99/822D99092B634AB17926744B97_1645426504429.jpg",
+          specification:
+            '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>type</td>    <td>		Casement</td>  </tr>  <tr>    <td>Finish</td>    <td>	Powder coated</td>  </tr> <tr>    <td>root</td>    <td>	600 mm</td>  </tr>  <tr>    <td>Measurements</td>    <td>	Customizable</td>  </tr> <tr>    <td>Material Grade	</td>    <td>IS 2062</td>  </tr> <tr>    <td>Opening Pattern	</td>    <td>Tilt and Turn</td>  </tr> <tr>    <td>Frame Thickness</td>    <td>	2.5 inches (In in) in</td>  </tr> <tr>    <td>Material	</td>    <td>Aluminum</td>  </tr>   <tr>    <td>Style		</td>    <td>Classic</td>  </tr> </table>',
+          desc: "Introducing our high-quality Precast Window Frames, designed for quick construction in India. Crafted with precision, these casement frames are made from durable aluminum material, ensuring strength and longevity. The powder coated finish adds a touch of elegance, perfectly complementing the classic style. With customizable measurements and a frame thickness of 2.5 inches, these frames can be tailored to your specific requirements. Built to the IS 2062 material grade standard, these frames offer exceptional reliability. The tilt and turn opening pattern provides versatility and ease of use. Invest in our Precast Window Frames with a root size of 600 mm for a sturdy and attractive window solution.",
+          descImg: [
+            "/images/products99/822D99092B634AB17926744B97_1645426504429.jpg",
+          ],
+        },
+      ],
+    
+      interlocking_brick: [
+        {
+          title: "Interlocking Brick Design - Modular Building Material",
+          thumImg: "/images/products99/bricks.avif",
+          desc: `Introducing our revolutionary Interlocking Brick Design, the ultimate modular building material for all your construction needs. With its innovative interlocking system, this product offers unmatched ease of installation, allowing you to create sturdy structures quickly and efficiently. Crafted from high-quality materials, these bricks are built to last, ensuring durability and longevity for your projects. Whether you're constructing a garden wall, pathway, or even a complete building, our Interlocking Brick Design provides endless possibilities. Its versatile nature allows for easy customization and adaptation to any design concept. Invest in this game-changing modular building material and experience the future of construction today. `,
+          descImg: [
+              "/images/products99/bricks.avif" ,
+               "/images/products99/5typesofbrick.avif" ,
+               "/images/products99/BRICKS2.avif" ,
+               "/images/products99/wall.avif" ,
+          ],
+        }
+      ],
+    
+      kerb_stone: [
+        {
+          title: "Kerb stone - Durable Kerb Stone",
+          thumImg: "/images/products99/stone1.avif",
+          desc: 'Introducing our Durable Kerb Stone, the ideal solution for enhancing the safety and aesthetics of your outdoor spaces. Crafted with utmost precision, this high-quality kerb stone is built to withstand the test of time. Made from durable materials, it offers exceptional strength and resilience, ensuring longevity and minimal maintenance. Its sleek design seamlessly blends with any landscape, providing a visually appealing solution for defining boundaries and preventing vehicle encroachment. Whether used in parking lots, driveways, or walkways, our Durable Kerb Stone guarantees reliable performance and utmost safety. Invest in this versatile and long-lasting kerb stone to elevate the look and functionality of your surroundings today!',
+          descImg: [
+             "/images/products99/stone1.avif",
+             "/images/products99/stone2.jpg" ,
+             "/images/products99/stone3.avif",
+             "/images/products99/stone4.avif",
+             "/images/products99/stone5.jpg" ,
+          ]
+        }
+    ],
+        aver_block: [
+        {
+          title: "Flexible Rubber Kerbstone Rubber Mould",
+          thumImg: "/images/products99/rubberstone1.avif",
+          specification: '<table border="1">  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Frequency Range	</td>    <td>nan</td>  </tr>  <tr>    <td>Motor	</td>    <td>nan</td>  </tr> <tr>    <td>Material</td>    <td>	Rubber</td>  </tr>  </table>',
+          desc: "Introducing our innovative Kerbstone-Rubber Mould, a flexible rubber mould designed to revolutionize your construction projects. Crafted with precision, this product guarantees high-quality results while saving time and effort. Made from durable rubber, it offers exceptional flexibility, ensuring easy demoulding without any damage. Our Kerbstone-Rubber Mould is ideal for creating a variety of kerbstones with intricate patterns and designs. Its versatility allows it to be used for both residential and commercial applications. With this mould, you can achieve consistent and professional-looking kerbstones effortlessly. Invest in our Kerbstone-Rubber Mould today and experience a seamless construction process with exceptional results.",
+          descImg: [
+             "/images/products99/rubberstone1.avif" ,
+             "   /images/products99/rubber-mould-machine1.avif" ,
+             "/images/products99/rubbermould mCHINE2.avif" ,
+         "/images/products99/RMAChine3.avif" 
         
+       ],
+    
+     
+    },
+  ],
+    
+  Stylish_Balluster_for_Decoration :[
         {
-            title:'WASHING MACHINE: WATER EXHAUST HOSES',
-            thumImg:'/images/products/home4.png',
-            desc:"  <h1>Washing Machine: Water Exhaust Hoses</h1> <ul style='margin:0'><li><strong>Function:</strong> Water exhaust hoses are essential components that facilitate the drainage of wastewater from washing machines during the rinse and spin cycles.</li> <li><strong>Material:</strong> Typically made from durable materials such as PVC or reinforced rubber to withstand water pressure and the rigors of daily use.</li><li><strong>Design:</strong> Designed to be flexible yet sturdy, allowing for efficient water drainage without kinking or leaking.</li> <li><strong>Length and Diameter:</strong> Available in various lengths and diameters to accommodate different washing machine configurations and plumbing setups.</li> <li><strong>Compatibility:</strong> Compatible with most standard washing machines, ensuring easy integration into existing systems.</li> <li><strong>Installation:</strong> Easy to install with standard fittings, typically connecting to the washing machine's drainage outlet and the home's plumbing system.</li><li><strong>Maintenance:</strong> Regular inspection and cleaning are recommended to prevent clogs and ensure optimal drainage performance.</li> <li><strong>Safety:</strong> Constructed to meet safety standards, providing reliable drainage without risk of leakage or water damage.</li> </ul> ",
+            title:'Stylish Balluster for Decoration',
+            thumImg:'/images/products99/stylish_balluster.avif',
+            desc:`Introducing the Balluster - a stylish and contemporary addition to your home decor. Crafted with precision, this elegant balluster is designed to enhance the aesthetic appeal of any space. Its sleek and modern look effortlessly complements various architectural styles, making it a versatile choice for both indoor and outdoor applications. Made from high-quality materials, the Balluster offers exceptional durability and longevity. Its smooth finish and clean lines exude sophistication, adding a touch of class to your surroundings. Whether you're renovating your home or designing a new project, the Balluster is the perfect choice to create a visually stunning and timeless atmosphere.`,
             descImg:[
-                '/images/products/home4.png',
-                
+                '/images/products99/stylish_balluster.avif',
+                '/images/products99/stylish_balluster2.avif',
+                '/images/products99/stylish_balluster3.avif',
+                '/images/products99/stylish_balluster4.avif'
             ]
-        },
+
+        }
+    ],
+    Road_Separator:[
         {
-            title:'REFRIGERATOR: DRAIN HOSES:',
-            thumImg:'/images/products/home3.png',
-            desc:"<h1>Refrigerator Drain Hoses</h1> <ul style='margin:0'> <li><strong>Function:</strong> Refrigerator drain hoses are integral for removing excess condensation and defrost water from the appliance.</li> <li><strong>Material:</strong> Typically made from flexible and durable materials such as PVC or rubber to withstand moisture and temperature variations.</li>  <li><strong>Design:</strong> Designed to efficiently channel water from the refrigerator's defrost cycle or condensation pan to a suitable drainage point.</li>  <li><strong>Compatibility:</strong> Available in various lengths and diameters to fit different refrigerator models and configurations.</li> <li><strong>Installation:</strong> Easy to install with standard fittings, usually connecting to the refrigerator's drainage outlet and a nearby drain or collection pan.</li> <li><strong>Maintenance:</strong> Regular cleaning and inspection help prevent blockages and ensure proper water drainage to maintain refrigerator efficiency.</li><li><strong>Safety:</strong> Constructed to ensure secure water removal without leaks, contributing to the safe and reliable operation of the refrigerator.</li> <li><strong>Application:</strong> Essential for both residential and commercial refrigerators, supporting optimal performance and preventing water damage.</li>  </ul>",
+            title:'Kerb Stones',
+            thumImg:'/images/products99/kerb_stones.avif',
+            desc:'Introducing our high-quality Kerb Stones in a size of 40*30*7.5CM. Crafted from durable granite, these Kerb Stones are designed to add a touch of elegance and functionality to your outdoor spaces. With their sturdy construction, they offer exceptional resistance to wear and tear, making them perfect for driveways, pathways, and garden borders. The 40*30*7.5CM size ensures easy installation and versatility, allowing you to create beautiful landscapes effortlessly. These Kerb Stones are a great choice for Indian customers, offering both aesthetic appeal and practicality. Enhance the beauty of your surroundings with our reliable and stylish Granite Kerb Stones.',
             descImg:[
-                '/images/products/home3.png',
-                
+                '/images/products99/kerb_stones.avif',           
             ]
-        },
+
+        }
+    ],
+    Windows:[
         {
-            title:'VARIOUS EXTRUDED AND FABRICATED PROFILES:',
-            thumImg:'/images/products/home5.jpg',
-            desc:' <h1>Various Extruded and Fabricated Profiles</h1>  <ul style="margin:0">  <li><strong>Product Range:</strong> Includes a diverse selection of profiles fabricated through extrusion and other manufacturing processes.</li> <li><strong>Materials:</strong> Utilizes materials such as aluminum, stainless steel, plastics (e.g., PVC, ABS), and composites to meet specific functional and aesthetic requirements.</li> <li><strong>Applications:</strong> Used in various home appliances for structural support, decorative trim, sealing, and functional components.</li> <li><strong>Customization:</strong> Offers flexibility in design, dimensions, and finishes to match specific appliance specifications and design aesthetics.</li>  <li><strong>Quality and Durability:</strong> Engineered for durability, weather resistance, and performance under typical home appliance conditions.</li> <li><strong>Installation:</strong> Designed for easy installation and integration into appliance assembly processes, enhancing manufacturing efficiency.</li> <li><strong>Industry Standards:</strong> Manufactured to meet industry standards and regulations for safety, reliability, and environmental impact.</li> <li><strong>Versatility:</strong> Suitable for a wide range of home appliances including refrigerators, washing machines, ovens, and more, enhancing functionality and appearance.</li> </ul>',
+            title:'Staircase Ventilator Grill, Ventilation Fixture',
+            thumImg:'/images/products99/staircase_grill.avif',
+            desc:'Introducing our Staircase Ventilator Grill, the perfect ventilation fixture for your home or workplace. Designed with both functionality and aesthetics in mind, this grill ensures proper air circulation while adding a touch of elegance to your staircase area. Crafted from high-quality materials, it guarantees durability and long-lasting performance. With its sleek and modern design, it seamlessly blends into any interior decor. The ventilator grill effectively removes stale air, odors, and moisture, creating a healthier and more comfortable environment. Easy to install and maintain, this product is a must-have for anyone seeking optimum ventilation and improved indoor air quality. Enhance your space with our Staircase Ventilator Grill today!',
             descImg:[
-                '/images/products/home5.jpg',
-                
-            ]
-        },
+                '/images/products99/staircase_grill.avif',
+                        ]
+
+        }
+    ],
+    Garden_Trellis:[
         {
-            title:'DRAIN PIPE ASSEMBLY:IDU',
-            thumImg:'/images/products/home6.jpg',
-            desc:' <h1>Drain Pipe Assembly (IDU)</h1>  <ul style="margin:0">  <li><strong>Function:</strong> The drain pipe assembly (IDU) facilitates the removal of condensate water from the indoor unit (IDU) of split air conditioners.</li>  <li><strong>Components:</strong> Typically includes a flexible or rigid pipe, fittings, and a drain pan to effectively channel and manage condensation.</li>  <li><strong>Material:</strong> Made from durable materials such as PVC, ensuring resistance to moisture and corrosion.</li>    <li><strong>Design:</strong> Engineered for easy installation and reliable water drainage from the indoor unit, preventing water leakage and damage.</li>   <li><strong>Compatibility:</strong> Designed to fit various models and configurations of split air conditioners, ensuring compatibility and efficient operation.</li>    <li><strong>Maintenance:</strong> Requires periodic inspection and cleaning to prevent clogs and maintain optimal drainage performance.</li>    <li><strong>Safety:</strong> Constructed to meet safety standards, ensuring secure water disposal without risks of leakage or overflow.</li>   <li><strong>Application:</strong> Essential component in split air conditioning systems, contributing to efficient operation and maintaining indoor air quality.</li>   </ul>',
+            title:'Garden Trellis for Stylish and Functional Garden Design',
+            thumImg:'/images/products99/garden_design1.avif',
+            specification:'   <table border="1">        <tr>            <th>Country of Origin</th>            <td>India</td>        </tr>    </table>',
             descImg:[
-                '/images/products/home6.jpg',
-                
+                '/images/products99/garden_design1.avif',
+                '/images/products99/garden_design2.avif',
+                '/images/products99/garden_design3.avif',
+                '/images/products99/garden_design4.avif'
             ]
-        },
-        {
-            title:'PRECISION ENGINEERING PLASTIC COMPONENTS:INJECTION MOLDING',
-            thumImg:'/images/products/home7.jpg',
-            desc:"<h1>Precision Engineering Plastic Components: Injection Molding</h1>  <h2>Vent Kit for Clothes Dryers</h2>  <ul style='margin:0'>    <li><strong>Function:</strong> Facilitates safe venting of hot air and moisture from clothes dryers to the outside environment.</li>    <li><strong>Components:</strong> Typically includes vent hoses, clamps, and exterior vents designed to fit various dryer models and installation configurations.</li>     <li><strong>Material:</strong> Constructed from durable materials such as plastic and metal alloys for heat resistance and durability.</li>    <li><strong>Installation:</strong> Designed for easy setup and compatibility with different dryer types, ensuring efficient air exhaust to prevent moisture buildup indoors.</li>    </ul>   <h2>Precision Engineering Plastic Components for Dryers</h2>   <ul style='margin:0'>     <li><strong>Purpose:</strong> These components are integral parts of the dryer's structure and operation, manufactured with precision using engineering-grade plastics like ABS, PC, or PA.</li>    <li><strong>Examples:</strong> Include housing parts, knobs, handles, and structural supports that contribute to the functionality and aesthetics of the dryer.</li>    <li><strong>Features:</strong> Engineered for durability, resistance to heat and moisture, and precise fit to ensure reliable performance over the dryer's lifespan.</li>    <li><strong>Customization:</strong> Available in various designs, dimensions, and finishes to match specific dryer models and brand requirements.</li>    </ul>   <h2>Filter Guard for Clothes Dryers</h2>    <ul style='margin:0'>    <li><strong>Role:</strong> Protects the dryer's internal components and ventilation system by preventing lint and debris from clogging the filters.</li>    <li><strong>Design:</strong> Typically a mesh or perforated guard placed over the lint filter, allowing airflow while trapping lint for easy cleaning.</li>     <li><strong>Material:</strong> Made from sturdy materials like plastic or metal, ensuring longevity and resistance to heat and moisture.</li>     <li><strong>Maintenance:</strong> Easy to clean and maintain, enhancing the efficiency and lifespan of the dryer's filtration system.</li>   </ul>    <h2>Filter Air Cleaner for Front Loading Clothes Dryer</h2>    <ul style='margin:0'>    <li><strong>Function:</strong> Enhances air quality by capturing lint, dust, and other particles from the dryer's exhaust air before it exits the appliance.</li>    <li><strong>Usage:</strong> Installed in the dryer's ventilation system or attached to the exhaust hose to trap contaminants.</li>    <li><strong>Benefits:</strong> Improves indoor air quality by reducing airborne particles and lint buildup in the laundry area.</li>    <li><strong>Materials:</strong> Typically features high-efficiency filter materials enclosed in a durable housing for effective filtration and easy maintenance.</li>   </ul>",
-            descImg:[
-                '/images/products/home7.jpg',
-                '/images/products/home8.jpg',
-                '/images/products/home9.jpg',
-                '/images/products/home10.jpg'
-            ]
-        },
-        {
-            title:'ENGINEERING PLASTIC COMPONENTS FOR HOME APPLIANCES',
-            thumImg:'/images/products/home11.png',
-            desc:'  <ul style="margin:0">       <li><strong>GUTTER FOR FLT CLOTHES WASHING MACHINE</strong></li>        <li><strong>STIRRER USED IN FLT CLOTHES WASHERS</strong></li>        <li><strong>ADJUSTABLE FOOT FOR FLT CLOTHES WASHERS</strong></li>        <li><strong> FAUCET FOR WATER PURIFIER</strong></li>        <li>CONNECTING ELBOW FOR FLT CLOTHES WASHERS</strong></li></li>        <li><strong>COMPONENTS FOR DOMESTIC WATER PURIFIERS</strong></li></li>    </ul>         <h1>Engineering Plastic Components for Home Appliances</h1>      <ul style="margin:0">    <li><strong>Purpose:</strong> Essential parts fabricated from engineering-grade plastics like ABS, PC, or PA for various home appliances.</li>    <li><strong>Examples:</strong> Includes structural components, housings, knobs, handles, and other intricate parts that require durability, precision, and aesthetic appeal.</li>    <li><strong>Features:</strong> Engineered to withstand environmental factors such as heat, moisture, and mechanical stress encountered in household applications.</li>    <li><strong>Customization:</strong> Available in different designs, sizes, and finishes to match specific appliance requirements and brand standards.</li>   </ul>    <h2>Gutter for FLT Clothes Washing Machine</h2>    <ul style="margin:0">     <li><strong>Function:</strong> Channels wastewater and excess water away from the washing machine during operation.</li>    <li><strong>Design:</strong> Typically made from durable plastics or metals, designed to fit under the washing machine to collect and direct water to the drain.</li>    <li><strong>Installation:</strong> Easy to install and clean, ensuring efficient water management and preventing leaks or spills in the laundry area.</li>   </ul>    <h2>Stirrer Used in FLT Clothes Washers</h2>    <ul style="margin:0">    <li><strong>Purpose:</strong> Enhances washing performance by agitating clothes and detergent solution for thorough cleaning.</li>    <li><strong>Material:</strong> Constructed from robust plastics or metals, designed to withstand rotational forces and maintain operational efficiency.</li>    <li><strong>Compatibility:</strong> Designed to fit specific models of front-loading (FLT) clothes washers, ensuring effective washing cycles.</li>    </ul>   <h2>Adjustable Foot for FLT Clothes Washers</h2>   <ul style="margin:0">    <li><strong>Role:</strong> Provides stability and allows for leveling of the washing machine on uneven surfaces.</li>    <li><strong>Material:</strong> Made from durable plastics or metals with adjustable height mechanisms for easy installation and adjustment.</li>        <li><strong>Features:</strong> Designed to support the weight of the washer while minimizing vibration during operation, enhancing user experience and appliance longevity.</li>    </ul>    <h2>Faucet for Water Purifier</h2>    <ul style="margin:0">    <li><strong>Function:</strong> Provides controlled water flow for dispensing purified water from the water purifier unit.</li>    <li><strong>Design:</strong> Typically made from high-quality plastics or metals, featuring ergonomic handles and durable valves for reliable operation.</li>    <li><strong>Installation:</strong> Easily connects to the water purifier unit and plumbing system, ensuring safe and efficient water dispensing.</li>    </ul>    <h2>Connecting Elbow for FLT Clothes Washers</h2>   <ul style="margin:0">    <li><strong>Purpose:</strong> Facilitates plumbing connections between the washer and water supply lines or drainage systems.</li>    <li><strong>Material:</strong> Constructed from sturdy plastics or metals, ensuring leak-free connections and durability under water pressure.</li>    <li><strong>Design:</strong> Available in various angles and configurations to accommodate different installation setups and plumbing requirements.</li>    </ul>    <h2>Components for Domestic Water Purifiers</h2>    <ul style="margin:0">        <li><strong>Usage:</strong> Includes various parts such as filter cartridges, housings, fittings, and tubing used in domestic water purification systems.</li>        <li><strong>Material:</strong> Manufactured from food-grade plastics or corrosion-resistant metals to maintain water quality and system integrity.</li>        <li><strong>Function:</strong> Ensures effective filtration, purification, and dispensing of clean, safe drinking water for household use.</li>    </ul> ',
-            descImg:[
-                '/images/products/home11.png',
-                
-            ]
-        },
-        {
-            title:'Cable and Wire Fasteners:',
-            thumImg:'/images/products/home12.jpg',
-            desc:'  <h1>Our Product Range: Cable and Wire Fasteners</h1>    <p>Explore our comprehensive range of cable and wire fasteners at ATC Industries:</p>        <h2>Press Fit Fastening Devices</h2>    <ul style="margin:0">        <li><strong>Material:</strong> Precision-engineered from materials like Polyamide 66, Poly Acetal, Polypropylene, and Polyethylene.</li>        <li><strong>Purpose:</strong> Ideal for securing panels and other components.</li>    </ul>    <h2>Grommets</h2>    <ul style="margin:0">        <li><strong>Design:</strong> Designed for use with power cords, cables, and other applications.</li>        <li><strong>Purpose:</strong> Ensures safety and organization.</li>    </ul>    <h2>Cable Marking Ferrules and Ties</h2>    <ul style="margin:0">        <li><strong>Purpose:</strong> Enhance cable management with our durable and efficient marking solutions.</li>    </ul>    <p>Discover how our innovative products can optimize your operations and ensure reliability.</p> ',
-            descImg:[
-                '/images/products/home12.jpg',
-                
-            ]
-        },
+
+        }
     ],
     
-    telecom:[
-        {
-            title:'4FT FABRIC RADOME FOR MICROWAVE ANTENNAS',
-            thumImg:'/images/products/telecomm1.jpg',
-            desc:' <h1>4ft Fabric Radome for Microwave Antennas</h1> <ul style="margin:0">   <li><strong>Purpose:</strong> The 4ft fabric radome serves as a protective cover for microwave antennas used in telecom infrastructure.</li>        <li><strong>Material:</strong> Constructed from durable, weather-resistant fabric designed to withstand outdoor conditions.</li>        <li><strong>Function:</strong> Protects antenna equipment from environmental elements such as wind, rain, snow, and UV radiation, ensuring consistent performance and longevity.</li>        <li><strong>Design:</strong> Lightweight and flexible, facilitating easy installation and maintenance without compromising antenna signal transmission.</li>        <li><strong>Benefits:</strong> Enhances antenna durability and reliability, maintaining signal integrity and minimizing maintenance requirements in telecommunications networks.</li>    </ul>',
-            descImg:[
-                '/images/products/telecomm1.jpg',
-                
-            ]
-        },
-        {
-            title:'Thermoformed Radomes',
-            thumImg:'/images/products/telecomm2.jpg',
-            desc:' <h1>Thermoformed Radomes</h1>    <ul style="margin:0">        <li><strong>Available Sizes:</strong> We offer thermoformed radomes in 2ft, 3ft, 4ft, and 6ft diameters.</li>  <ul style="margin:0"><p>Discover how our high-quality thermoformed radomes optimize performance and reliability in telecom infrastructure.</p>',
-            descImg:[
-                '/images/products/telecomm2.jpg',
-                
-            ]
-        },
-        {
-            title:'THERMOFORMED EPS PALLETS:',
-            thumImg:'/images/products/telecomm4.jpg',
-            desc:'<h1>Thermoformed EPS Pallets</h1>    <ul style="margin:0">        <li><strong>Product Description:</strong> Thermoformed EPS pallets are designed using HIPS sheet material, providing a sturdy and lightweight solution for material handling and logistics.</li>        <li><strong>Material Composition:</strong> EPS (Expanded Polystyrene) offers excellent cushioning properties, while HIPS sheet enhances strength and durability.</li>        <li><strong>Features:</strong>             These pallets are lightweight, resistant to moisture, and capable of withstanding heavy loads, making them suitable for various industrial applications.       </li>        <li><strong>Benefits:</strong>: They offer cost-effectiveness, ease of handling, and recyclability, contributing to sustainable packaging solutions.       </li>        <li><strong>Applications:</strong> Ideal for use in warehouses, distribution centers, and transportation industries where lightweight, durable pallets are required for efficient logistics and storage.</li>    </ul>',
-            descImg:[
-                '/images/products/telecomm4.jpg',
-                '/images/products/telecomm5.jpg'
-            ]
-        },
-        {
-            title:'RADOMES FOR TELECOM SECTOR',
-          thumImg:'/images/products/telecomm6.jpg',
-            desc:'<h1>Radomes for Telecom Sector</h1>     <ul style="margin:0">       <li><strong>Purpose:</strong> Radomes are essential protective enclosures used to shield sensitive telecom equipment, such as antennas and transmitters, from environmental factors.</li>        <li><strong>Function: </strong>They safeguard equipment from rain, wind, snow, and UV radiation without impeding signal transmission.</li>        <li><strong>Material: </strong> Typically made from durable materials like fiberglass or composite materials that are weather-resistant and transparent to radio waves</li>        <li><strong>Benefits: </strong> Radomes ensure reliable operation of telecom infrastructure by maintaining signal integrity and minimizing maintenance downtime.</li>        <li><strong>Applications: </strong> Widely deployed in both terrestrial and satellite communication systems, ensuring uninterrupted communication services in diverse environmental conditions.</li>    </ul>',
-            descImg:[
-                '/images/products/telecomm6.jpg',
-                
-            ]
-        },
-        {
-            title:'POLYCARBONATE RADOME FOR BASE STATION ANTENNAS',
-            thumImg:'/images/products/telecomm7.jpg',
-            desc:'<ul><li>OUR ENDEVOUR IS ALWAYS TO SUPPORT OUR CUSTOMERS FOR VARIOUS PROJECTS AS ENVISAGED BY THEM.</li><li>WE PUT IN ALL EFFORTS TO ACHIEVE THE OBJECTIVES AS WOULD BE EXPECTED FROM US.</li><li>ONE OF THE INITIATIVES WE HAD SUPPORTED FOR NPI WAS PC BSA ANTENNA.</li>',
-            descImg:[
-                '/images/products/telecomm7.jpg',
-                '/images/products/telecomm8.jpg',
-            ]
-        },
+Garden_Border_Fence:[
+    {
+        title:'Laser Sensor Accurate Distance Measurement',
+        thumImg:'/images/products99/garden_border_fence1.avif',
+        desc:`Introducing our Laser Sensor Accurate Distance Measurement, the perfect tool for precise distance calculations. This advanced sensor utilizes cutting-edge laser technology to deliver accurate measurements with minimal error. Whether you're in construction, engineering, or any industry that requires precise distance calculations, this product is a must-have. Its compact design and user-friendly interface make it easy to use and highly portable. With a wide range of applications, this laser sensor is suitable for indoor and outdoor use. Experience unmatched accuracy and efficiency with our Laser Sensor Accurate Distance Measurement, and take your measurements to the next level. Invest in quality and precision today!`,
+        descImg:[
+            '/images/products99/garden_border_fence1.avif',
+            '/images/products99/garden_border_fence2.jpg',
+            '/images/products99/garden_border_fence3.avif',
+            '/images/products99/garden_border_fence4.avif'
+        ]
+
+    }
+],
+
+Fly_Ash_Brick:[
+    {
+        title:'High-Quality Fly Ash Bricks',
+        thumImg:'/images/products99/fly_ash_brick1.jpg',
+        specification:'<table border="1">        <tr>            <th>Brand</th>            <td>Fly Ash</td>        </tr>    </table>',
+        desc:`Introducing Fly Ash's High-Quality Fly Ash Bricks, the perfect solution for your construction needs. These bricks are built to withstand the test of time, offering exceptional durability and strength. Made from premium quality fly ash, they are eco-friendly and contribute to sustainable construction practices. With their precise dimensions and uniform shape, these bricks ensure easy installation and a seamless finish. Whether you're constructing residential or commercial buildings, these Fly Ash Bricks provide excellent thermal insulation and soundproofing properties. Trust in the brand's commitment to superior quality and reliability. Choose Fly Ash's High-Quality Fly Ash Bricks for a sturdy and sustainable construction project`,
+        descImg:[
+            '/images/products99/fly_ash_brick1.jpg',
+            '/images/products99/fly_ash_brick2.avif',
+            '/images/products99/fly_ash_brick3.avif',
+            '/images/products99/fly_ash_brick4.avif'
+        ]
+
+    }
+],
+Fencing_Trellis_and_Gates :[
+    {
+        title:'Ornamental Mild Steel Decorative Pillar Element',
+        thumImg:'/images/products99/ornamental_mild_steel.jpg',
+        specification:'<table border="1">        <tr>            <th>Material</th>            <td>Mild Steel</td>        </tr>    </table>',
+        desc:'Introducing our exquisite Decorative Pillar Element, the perfect fusion of elegance and functionality. Crafted with meticulous attention to detail, this ornamental structural support is designed to enhance the beauty of any space. Made from high-quality materials, it showcases intricate patterns and captivating motifs, adding a touch of sophistication to your interior or exterior decor. This pillar element not only serves as a stunning focal point but also provides sturdy support, ensuring stability and durability. Whether used in homes, offices, or commercial settings, our Decorative Pillar Element is a timeless addition that effortlessly elevates any architectural design. Transform your space with this remarkable piece today.',
+        descImg:[
+            '/images/products99/ornamental_mild_steel.jpg',
+            '/images/products99/ornamental_mild_steel2.avif'
+        ]
+
+    },
+    {
+        title:'Decorative Marble Pillar - Aesthetic and Sturdy Architectural Element',
+        thumImg:'/images/products99/marble_pillar.jpg',
+        desc:'Introducing our exquisite Decorative Marble Pillar, a perfect blend of aesthetics and durability. Crafted with precision and finesse, this architectural element adds a touch of elegance to any space. Made from high-quality marble, it boasts a stunning design that instantly captivates the eye. This pillar not only enhances the beauty of your interiors but also provides structural support, ensuring longevity. Whether used as a standalone piece or incorporated into a larger design, it exudes sophistication and class. Elevate your decor with this sturdy and visually appealing marble pillar, a timeless addition that effortlessly elevates any space.',
+        descImg:[
+            '/images/products99/marble_pillar.jpg',
+            '/images/products99/marble_pillar2.jpg',
+            '/images/products99/marble_pillar3.jpg',
+            '/images/products99/marble_pillar4.jpg'
+        ]
+
+    },
+    {
+        title:'Compound Aluminium Parapet Grill for Exterior Stylish and Protective Edging',
+        thumImg:'',
+        desc:`Introducing our Parapet Grill, the perfect solution for both style and protection. Crafted with utmost precision, this grill is designed to enhance the aesthetics of your building's parapet while providing a reliable barrier for added safety. Made from high-quality materials, it offers exceptional durability and resistance to harsh weather conditions. The sleek design seamlessly blends with any architectural style, making it a versatile choice for both residential and commercial properties. Easy to install and maintain, our Parapet Grill ensures a hassle-free experience. Trust in its ability to safeguard your property while adding a touch of elegance to your edging.`,
+        descImg:[
+            '',
+            '',
+            '',
+        ]
+
+    },
+    {
+        title:'',
+        thumImg:'',
+        desc:'',
+        descImg:[
+            '',
+            '',
+            '',
+            ''
+        ]
+
+    },
+    {
+        title:'',
+        thumImg:'',
+        desc:'',
+        descImg:[
+            '',
+            '',
+            '',
+            ''
+        ]
+
+    },
+    {
+        title:'',
+        thumImg:'',
+        desc:'',
+        descImg:[
+            '',
+            '',
+            '',
+            ''
+        ]
+
+    },
+    {
+        title:'',
+        thumImg:'',
+        desc:'',
+        descImg:[
+            '',
+            '',
+            '',
+            ''
+        ]
+
+    }
+]
 
 
-    ],
-    extraparts:[
-        {
-            title:'Cable Fasteners',
-            thumImg:'/images/products/transportation_tube.jpg',
-            descImg:[
-                
-                {imgSrc:'/images/products/transportation_tube.jpg',title:'TRANSPORTATION TUBE'},
-                {imgSrc:'/images/products/cable3.png',title:'SS HOSE CLAMP 840'},
-                {imgSrc:'/images/products/cable_clip_push.jpg',title:'CABLE CLIP PUSH MOUNT'},
-                {imgSrc:'/images/products/cable2.png',title:'HOOK & LOOP WITH BUCKLE'},
-                {imgSrc:'/images/products/ss_insect_gaurd.jpg',title:'SS INSECT GUARD MESH'},
-                {imgSrc:'/images/products/cable1.png',title:'KNOB WITH CIRCLIP'},
-                {imgSrc:'/images/products/tape_insulation.jpg',title:'TAPE INSULATION ADHESIVE'},
-                {imgSrc:'/images/products/spiral_cable.jpg',title:'SPIRAL CABLE WRAP'}
-
-            ]
-        },
-        {
-            title:'Radomes',
-            thumImg:'/images/products/BRASS_FRP_HOLDERS.jpg',
-            descImg:[
-                {imgSrc:'/images/products/BRASS_FRP_HOLDERS.jpg',title:'BRASS FRP HOLDERS'},
-                {imgSrc:'/images/products/fibre_ferrules.jpg',title:'FIBRE FERRULES'},
-                { imgSrc: '/images/products/corrugatted_tube.jpg', title: 'CORRUGATTED TUBE' },
-            { imgSrc: '/images/products/heat_shrink.jpg', title: 'HEAT SHRINK SLEEVES' },
-            { imgSrc: '/images/products/wire1.png', title: 'EARTHING CABLE' },
-            { imgSrc: '/images/products/PET_clam_shell.jpg', title: 'PET CLAM SHELL' },
-            { imgSrc: '/images/products/wire5.png', title: 'WALL MOUNTING PARTS' },
-            { imgSrc: '/images/products/wire2.png', title: 'CROCODILE CLIP CABLE' },
-            { imgSrc: '/images/products/cable_ties.jpg', title: 'CABLE TIES' },
-            { imgSrc: '/images/products/reels_fibre_cable.jpg', title: 'REELS FOR FIBRE CABLE' },
-
-            
-            ]
-        },
-    ]
 }
 
