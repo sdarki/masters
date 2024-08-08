@@ -180,14 +180,15 @@
     background: white;
     
     border-radius: 10px;
-    width: 100%;
+    width: 25%;
     height: auto;
     max-width: 1200px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     position: relative;
 }
 
 .closeButton {
+    color: black;
     position: absolute;
     top: 10px;
     right: 10px;
@@ -247,4 +248,102 @@
     background-size: cover;
     
 }
+
+
+
+
+/* form */
+
+
+
+
+.form_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.enquiry_form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 400px;
+}
+
+.form_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form_header h2 {
+    margin: 0;
+}
+
+.close_btn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.form_group {
+    margin-bottom: 15px;
+}
+
+.form_group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form_group input,
+.form_group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.mobile_input {
+    display: flex;
+}
+
+.country_code {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    border-right: none;
+}
+
+.mobile_input input {
+    border-radius: 0 5px 5px 0;
+}
+
+.char_count {
+    font-size: 0.875rem;
+    color: #777;
+    text-align: right;
+}
+
+.submit_btn {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff6b6b;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.submit_btn:hover {
+    background-color: #ff4c4c;
+}
+
+
 
