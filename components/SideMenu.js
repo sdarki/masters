@@ -1,12 +1,12 @@
 import React from 'react';
 
-const SideMenu = ({ menuItems, onSelectProduct }) => {
+const SideMenu = ({ categories, onSelectCategory }) => {
   return (
     <div className="side-menu">
       <ul>
-        {menuItems.map(item => (
-          <li key={item.id} onClick={() => onSelectProduct(item.id)}>
-            {item.name}
+        {categories.map(category => (
+          <li key={category.id} onClick={() => onSelectCategory(category.id)}>
+            {category.name}
           </li>
         ))}
       </ul>
