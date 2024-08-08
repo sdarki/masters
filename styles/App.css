@@ -1,0 +1,52 @@
+.app {
+    display: flex;
+  }
+  
+  .side-menu {
+    width: 200px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .side-menu ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .side-menu li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .side-menu li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .product-list ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .product-list li {
+    padding: 10px;
+    cursor: pointer;
+   
+  }
+  .product-list ul li{
+    display: flex;
+    flex-direction: column;
+  }
+  .product-list li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .product-details {
+    padding: 20px;
+  }
+  

@@ -19,7 +19,7 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
         </div>
       )
     return (
-        <div className='main_top_nav bg-red-c' style={{ display: isFixed !== null ? 'none' : 'block' }}>
+        <div className='main_top_nav' style={{ display: isFixed !== null ? 'none' : 'block',backgroundColor:'#0dcaf0' }}>
             <div className='container clearfix'>
                 <div className='top-extra-nav'>
                     <div className='container'>
@@ -42,7 +42,7 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
                                         <i className="fa fa-envelope" aria-hidden="true"></i>
                                     </div>
 
-                                    <h6>apurvaengineering23@gmail.com
+                                    <h6>masterashok65@gmail.com
 </h6>
                                 </a>
                             </li>
@@ -52,7 +52,7 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
                                     <i className="fa fa-phone" aria-hidden="true"></i>
                                     </div>
 
-                                    <h6>+91 7841069245</h6>
+                                    <h6>+91-9421304620</h6>
                                 </a>
                                 
                                 
@@ -63,7 +63,7 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
                                     <i className="fa fa-map-marker" aria-hidden="true"></i>
                                     </div>
 
-                                    <h6>VERNA INDUSTRIAL ESTATE VERNA- GOA</h6>
+                                    <h6>Ponda-Goa</h6>
                                 </a>
                                
                                 
@@ -73,7 +73,7 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
                             <div className='klab-topbar-right header-nav'>
                             
                                 <ul className='nav navbar-nav'>
-                                    <li><a >Client List <i class="fa fa-chevron-down"></i></a>
+                                    <li><a style={{color:'white'}}>Client List <i class="fa fa-chevron-down"></i></a>
                                     <ul className="sub-menu">
                                     <li><a>MICR Electronics Ltd( ONIDA )</a></li>
                                     <li><a>Ion Exchange India Ltd</a></li>

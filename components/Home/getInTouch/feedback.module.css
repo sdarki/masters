@@ -1,0 +1,25 @@
+.feedbackcard {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 10px;
+  }
+  
+  .ratingstar {
+    font-size: 1.2rem;
+  }
+  
+  .ratingstar span {
+    color: #fff;
+  }
+  
+  .feedbackcard p {
+    font-size: 0.9rem;
+  }
+  
+  .feedbackcard img {
+    width: 40px;
+    height: 40px;
+  }
+  

@@ -12170,6 +12170,7 @@ footer.footer-white .footer-bottom a {
 }
 .section-full {
    position: relative;
+
    /* height: 70vh; */
 }
 .section-full:last-child {
@@ -12221,6 +12222,36 @@ footer.footer-white .footer-bottom a {
    .section-full {
        background-attachment: scroll !important;
    }
+}
+.section-full{
+   position: relative;
+   
+  
+}
+.Section-contentainer h1{
+   color:whitesmoke;
+   font-weight: bold;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.sectionBtn{
+   padding: 10px 20px;
+   border-radius: 20px;
+   background-color: grey;
+   color: white;
+   border: none;
+   background-color: rgb(63, 63, 63);
+}
+.new-area {
+  fill-opacity: initial;
+}
+.Section-contentainer{
+   position: absolute;
+   top: 270px;
+   right: 150px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
 }
 @media only screen and (max-width: 991px) {
    .page-content {
