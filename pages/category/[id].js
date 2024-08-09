@@ -34,7 +34,7 @@ const CategoryPage = () => {
       </div>
     </div>
     </>
-   
+     
   );
 };
 

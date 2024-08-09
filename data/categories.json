@@ -1,65 +1,270 @@
 [
   {
-    "id": 1,
-    "name": "Category 1",
+    "id": 16,
+    "name": "SLAB",
     "products": [
       {
-        "id": 101,
-        "name": "Product 1-1",
-        "image": "/images/products99/stone5.jpg"
+        "id": 161,
+        "name": "Gutter slabs (heavy Duty)",
+        "image": "/images/products99/gutter_slab(heavy_duty).avif"
       },
       {
-        "id": 102,
-        "name": "Product 1-2",
-       "image": "/images/products99/stone5.jpg"
+        "id": 162,
+        "name": "Gutter Slabs (Medium Duty) Durable Medium-Duty Construction)",
+       "image": "/images/products99/gutter_slab(medium_duty).avif"
       },
       {
-        "id": 103,
-        "name": "Product 1-3",
-        "image": "/images/products99/stone5.jpg"
+        "id": 163,
+        "name": "Gutter slabs (light duty) - Lightweight and Efficient Rainwater Management",
+        "image": "/images/products99/gutter_slab(light_duty).jpg"
       }
     ]
   },
   {
-    "id": 2,
-    "name": "Category 2",
+    "id": 17,
+    "name": "Stone",
     "products": [
       {
-        "id": 201,
-        "name": "Product 2-1",
-        "image": "/images/products99/stone2.jpg"
-      },
+        "id": 171,
+        "name": "Outdoor Kerb Stone for Functional and Aesthetic Landscaping",
+        "image": "/images/products99/stone1.avif"
+      }
+     
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Window Ventilator",
+    "products": [
       {
-        "id": 202,
-        "name": "Product 2-2",
-      "image": "/images/products99/stone2.jpg"
-      },
-      {
-        "id": 203,
-        "name": "Product 2-3",
-       "image": "/images/products99/stone2.jpg"
+        "id": 181,
+        "name": "Window Ventilator Grill (louver type) - Adjustable Airflow",
+        "image": "/images/products99/window_ventilator_grill.jpg"
       }
     ]
   },
   {
-    "id": 3,
-    "name": "Category 3",
+    "id": 19,
+    "name": "Gutter Slab",
     "products": [
       {
-        "id": 301,
-        "name": "Product 3-1",
-        "image": "/images/products99/stone3.avif"
+        "id": 191,
+        "name": "Gutter Slab(light duty) 40*50*5 CM",
+        "image": "/images/products99/gutter_slab.avif"
       },
       {
-        "id": 302,
-        "name": "Product 3-2",
-         "image": "/images/products99/stone3.avif"
-      },
-      {
-        "id": 303,
-        "name": "Product 3-3",
-         "image": "/images/products99/stone3.avif"
+        "id": 192,
+        "name": "Gutter Slab (Heavy Duty) (Robust Heavy-Duty Design)",
+        "image": "/images/products99/gutter_slab.avif"
       }
     ]
+  },
+  {
+    "id": 20,
+    "name": "Grill",
+    "products": [
+      {
+        "id": 221,
+        "name": "Exterior Cement Compound Grill (Outdoor Durability)",
+        "image": "/images/products99/grill1.avif"
+      },
+      {
+        "id": 222,
+        "name": "ACC Block - 4' Lightweight Construction Block ",
+        "image": "/images/products99/grill2.jpg"
+      },
+      {
+        "id": 223,
+        "name": "Compound Grill 100X60cm - Outdoor Grilling Equipment",
+        "image": "/images/products99/grill3.jpg"
+      },
+      {
+        "id": 224,
+        "name": "Spacious Compound Grill (100X135cm) (Security Feature)",
+        "image": "/images/products99/grill4.jpg"
+      },
+      {
+        "id": 225,
+        "name": "ACC Block - 8' Aerated Concrete Block",
+        "image": "/images/products99/grill5.jpg"
+      },
+      {
+        "id": 226,
+        "name": "Charcoal BBQ Grill for Outdoor Cooking Enthusiasts",
+        "image": "/images/products99/grill6.jpg"
+      },
+      {
+        "id": 227,
+        "name": "Stylish Grill Compound Stylish Compound Grilling (Security Feature)",
+        "image": "/images/products99/grill7.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 21,
+    "name": "Block",
+    "products": [
+      {
+        "id": 231,
+        "name": "Versatile Blocks for Construction Multipurpose Building Units",
+        "image": "/images/products99/Block1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Concrete Manhole Cover",
+    "products": [
+      {
+        "id": 241,
+        "name": "Concrete Manhole Cover",
+        "image": "/images/products99/concrete_manhole1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Bricks",
+    "products": [
+      {
+        "id": 251,
+        "name": "Construction Bricks Material - Building Component Material",
+        "image": "/images/products99/brick1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Compound Grill",
+    "products": [
+      {
+        "id": 261,
+        "name": "White Compound Grill for Elegant Fencing",
+        "image": "/images/products99/compound_grill.jpg"
+      },
+      {
+        "id": 262,
+        "name": "Ornate Design Compound Grills for Aesthetic Appeal",
+        "image": "/images/products99/compound_grill2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Concrete",
+    "products": [
+      {
+        "id": 271,
+        "name": "Concrete Drain Cover Slab (Robust Drainage Solution)",
+        "image": "/images/products99/concrete_drain1.avif"
+      },
+      {
+        "id": 272,
+        "name": "Concrete Door Frames for Durable and Stable Door Installations",
+        "image": "/images/products99/concrete_door1.avif"
+      },
+      {
+        "id": 273,
+        "name": "Gray Concrete Door Frame, Size/Dimension: 7x4 Feet",
+        "image": "/images/products99/gray_concreate_door.avif"
+      },
+      {
+        "id": 274,
+        "name": "Concrete Door Frame for Durable and Long-Lasting Entrances",
+        "image": "/images/products99/concrete_door_frame1.jpg"
+      },
+      {
+        "id": 275,
+        "name": "Garden Border Feature - Landscaping Boundary Solution",
+        "image": "/images/products99/garden_border_feature1.jpg"
+      }
+    ]
+  },
+    {
+      "id": 26,
+      "name": "Concrete Baluster",
+      "products": [
+        {
+          "id": 281,
+          "name": "Concrete Baluster Baluster for Stylish and Secure Balconies",
+          "image": "/images/products99/concrete_baluster1.jpg"
+        }
+      ]
+  },
+  {
+    "id": 27,
+      "name": "Concrete Block",
+      "products": [
+        {
+          "id": 291,
+          "name": "Solid Concrete Block for Various Applications",
+          "image": "/images/products99/solid_concrete_block.jpg"
+        },
+        {
+          "id": 292,
+          "name": "Concrete Blocks for Strong and Versatile Construction",
+          "image": "/images/products99/60C5B40F8CB16A079D762CF599_1645428588031.jpeg"
+        },
+        {
+          "id": 293,
+          "name": "Rectangular Bricks Solid Blocks (Building Material)",
+          "image": "/images/products99/rectangle_bricks.jpg"
+        },
+        {
+          "id": 294,
+          "name": "Concrete Solid Re Blocks, For Side Walls",
+          "image": "/images/products99/concrete_solid1.jpg"
+        }
+      ]
+  },
+  {
+    "id": 28,
+    "name": "Concrete Drain Cover",
+    "products": [
+      {
+        "id": 321,
+        "name": "Concrete Drain Cover (Sturdy Concrete Material)",
+        "image": "/images/products99/concrete_drain_cover1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Concrete Paver",
+    "products": [
+      {
+        "id": 331,
+        "name": "Concrete Zig-Zag Paver Block (Decorative Zig-Zag Paving Block)",
+        "image": "/images/products99/concrete_zigzag.jpg"
+      },
+      {
+        "id": 332,
+        "name": "Concrete Paver Colour, Vibrant Color Selection",
+        "image": "/images/products99/concrete_paver1.jpg"
+      },
+      {
+        "id": 333,
+        "name": "20.01 Grey Brick Modern Grey Hue",
+        "image": "/images/products99/grey_brick1.jpg"
+      },
+      {
+        "id": 334,
+        "name": "Precast Concrete Paver - Durable Paving Material, 80 N/mm Compressive Strength",
+        "image": "/images/products99/brick1.jpg"
+      }
+    ]
+  },
+  {
+   "id": 30,
+    "name": "Grass Paver",
+    "products": [
+      {
+        "id": 341,
+        "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+        "image": "/images/products99/grass_paver1.jpg"
+      }
+    ] 
   }
+
 ]

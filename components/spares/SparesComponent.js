@@ -21,7 +21,7 @@ function SparesComponent() {
     }
   }, []);
 
-  const handleCardClick = (title) => {
+  const handleCardImage = (title) => {
     router.push(`/spares/${title}`);
   };
 
@@ -30,10 +30,10 @@ function SparesComponent() {
       <div className='spare-pro'>
         <Tabs defaultActiveKey='0' tabPosition={width < 900 ? 'top' : 'left'} style={{ fontSize: "10px" }}>
           {Object.keys(products).map((category, categoryIndex) => (
-            <TabPane tab={category.toUpperCase().replace('_', ' ')} key={categoryIndex}>
+            <TabPane tab={category.toUpperCase().replace('_', '')} key={categoryIndex}>
               <div className='row ml-0'>
                 {products[category].map((item, index) => (
-                  <div className='col-md-4' onClick={() => handleCardClick(item.title)} key={index}>
+                  <div className='col-md-4' onClick={() => handleCardImage(item.title)} key={index}>
                     <Card style={{ width: "315px" }} hoverable cover={<img style={{ padding: "10px", borderRadius: "25px" }} alt={item.title} src={item.thumImg} />}>
                       <Meta title={item.title} />
                     </Card>
