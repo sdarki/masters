@@ -3,7 +3,7 @@ import styles from './sparse.module.css'
 const SparesBreadcumb = () => {
   return (
     <>
-      <div className={styles.BackgImg}>
+      <div className={`kam-bnr-inr bg-pt ${styles.BackgImg}`}>
         <div className="container" style={{height:"210px"}}>
           <div className="kam-bnr-inr-entry p-relative">
             <div className="some-facts "></div>

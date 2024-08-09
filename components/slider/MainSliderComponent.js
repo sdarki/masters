@@ -1,34 +1,40 @@
-import React from 'react'
-import { Swiper, SwiperSlide } from "swiper/react";
-import { useMediaQuery } from 'react-responsive';
-//import { VideoCameraAddOutlined } from '@ant-design/icons';
+import React, { useState } from 'react';
+import { Container, Row, Col, Button } from 'react-bootstrap';
 import Image from 'next/image';
-import "swiper/css";
-import "swiper/css/pagination";
-import { MinusOutlined } from '@ant-design/icons';
-import { Pagination,Autoplay } from "swiper";
-import AboutTabComponent from '../Home/aboutus/AboutTabComponent';
-import AboutUsComponent from '../Home/aboutus/AboutUsComponent';
-import AboutUsResponsiveComponent from '../Home/AboutUsResponsiveComponent';
+import EnquiryPopup from '../EnquiryPopup'; // Import the popup component
+import styles from './MainSliderComponent.module.css';
 
 const MainSliderComponent = () => {
-  const isSmallScreen = useMediaQuery({ maxWidth: 476 });
- 
+  const [isPopupOpen, setIsPopupOpen] = useState(false);
+
+  const togglePopup = () => {
+    setIsPopupOpen(!isPopupOpen);
+  };
+
   return (
-    <>
-      <section className="section-full bg-gray slider-area new-area">
-        <div className='Section-contentainer'>
-        <h1>Services And Products</h1>
-       <h1>You Will Love</h1>
-       <button className='sectionBtn'>Enquire Now</button>
-        </div>
+    <div className={styles.mainSlider}>
+      <Image
+        src="/images/aebanner-min.jpg" 
+        alt="Warehouse"
+        layout="fill"
+        objectFit="cover"
+        className={styles.sliderImage}
+      />
+      <Container className={styles.container}>
+        <Row className="justify-content-center">
+          <Col md={8} className="text-center">
+            <h1 className={` ${styles.headd}`}>Services And Products You Will Love</h1>
+            <Button variant="dark" className={`mt-3 ${styles.backbtn}`} onClick={togglePopup}>
+              Enquire Now
+            </Button>
+          </Col>
+        </Row>
+      </Container>
       
-      </section>
-      {isSmallScreen ? <AboutUsResponsiveComponent /> : <AboutUsComponent />}
+      {/* Render the Enquiry Popup */}
+      <EnquiryPopup isOpen={isPopupOpen} onClose={togglePopup} />
+    </div>
+  );
+};
 
-    </>
-    
-  )
-}
-
-export default MainSliderComponent
+export default MainSliderComponent;

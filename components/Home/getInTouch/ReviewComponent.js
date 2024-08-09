@@ -8,11 +8,11 @@ import 'swiper/css/pagination';
 import SwiperCore, { Autoplay, Pagination } from 'swiper';
 import { CheckOutlined } from '@ant-design/icons';
 import CustomerFeedback from './CustomerFeedback';
-
+import { Button } from 'react-bootstrap';
 // Install Swiper modules
 SwiperCore.use([Autoplay, Pagination]);
 import {
-  Button,
+  
   message,
   Cascader,
   DatePicker,
@@ -214,9 +214,9 @@ function ReviewComponent() {
                   >
                     <Input.TextArea placeholder="Comment" />
                   </Form.Item>
-                  <Form.Item {...buttonItemLayout}
-                  >
-                    <Button type="primary" htmlType="submit">
+                  <Form.Item {...buttonItemLayout} className='text-center'>
+                  
+                    <Button type="primary" htmlType="submit" className="btn">
                       Talk to our Team <CheckOutlined />
                     </Button>
                     <p className='pt-1'>* We do not spam</p>

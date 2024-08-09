@@ -1,7 +1,7 @@
-.width {
+/* .width {
   width: 379px;
 }
-/* CustomStyles.module.css */
+
 
 .customList {
   list-style-type: none;
@@ -28,4 +28,12 @@
 .flexContainer {
   display: flex;
   align-items: center;
+} */
+.image{
+  height: 30px;
+  width:30px;
+  margin-right: 10px;
+}
+.whitelogo {
+  filter: invert(0) brightness(4);
 }

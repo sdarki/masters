@@ -1,8 +1,9 @@
 import React from 'react'
+import styles from '../spares/sparse.module.css'
 const ContactUsBreadcumb = () => {
   return (
     <>
-      <div className="kam-bnr-inr bg-pt about-breadcumb">
+      <div className={`kam-bnr-inr bg-pt ${styles.BackgImg}`}>
         <div className="container">
           <div className="kam-bnr-inr-entry p-relative">
             <div className="some-facts "></div>

@@ -245,6 +245,6 @@
     background-image: url('/images/building1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    
+    height: 200px;
 }
 

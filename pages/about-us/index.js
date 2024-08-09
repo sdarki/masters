@@ -20,16 +20,16 @@ const index = () => {
     <>
     <AboutBreadCumbComponent/>
     <AboutIhmComponent/>
-    <AboutApurvaComponent />
-    <VisionAndMission/>
-    <VisionComponent/>
+    {/* <AboutApurvaComponent /> */}
+    {/* <VisionAndMission/> */}
+    {/* <VisionComponent/> */}
     
     {/* <AboutLeadershipComponent /> */}
     {/*<AboutNetworkComponent />*/}
     {/* <AboutGetToComponent /> */}
     {/* <MissionComponent /> */}
     {/* <ClientsComponent/> */}
-    <Certificate />
+    {/* <Certificate /> */}
     <ReviewComponent/>
     </>
     

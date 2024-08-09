@@ -86,9 +86,8 @@ const MenuItemComponent = ({ setTabKey,ref1 }) => {
 {/* 
 					<li className={router.pathname == '/' ? "active" : ""} onClick={() => router.push('/')} ><a>Industries</a>
 					</li> */}
-<li className={router.pathname == '/machines' ? "active" : ""} onClick={() => router.push('/machines')} ><a>InfraStructures</a>
-</li>
-					<li className={router.pathname == '/spares' ? "active" : ""} onClick={() => router.push('/spares')} ><a>Engineered Products</a>
+
+					<li className={router.pathname == '/spares' ? "active" : ""} onClick={() => router.push('/categories')} ><a>Categories</a>
 					</li>
 					<li className={router.pathname == '/contat-us' ? "active" : ""} onClick={() => router.push('/contact-us')} ><a>Contact Us</a>
 					</li>

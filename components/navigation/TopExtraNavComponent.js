@@ -58,29 +58,29 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
                                 
                             </li>
                             <li>
-                            <a href="#">
+                                <a href="#">
                                     <div className='icon-box'>
-                                    <i className="fa fa-map-marker" aria-hidden="true"></i>
+                                    <i className="fa fa-phone" aria-hidden="true"></i>
                                     </div>
 
-                                    <h6>Ponda-Goa</h6>
+                                    <h6>+91-9421304620</h6>
                                 </a>
-                               
-                                
-                            </li>
+                                </li>
+                          
                         </ul>
                         </div>
                             <div className='klab-topbar-right header-nav'>
                             
-                                <ul className='nav navbar-nav'>
-                                    <li><a style={{color:'white'}}>Client List <i class="fa fa-chevron-down"></i></a>
+                                <ul>
+                                    <li><a style={{color:'white'}}> <i class=""></i></a>
+                                  
                                     <ul className="sub-menu">
-                                    <li><a>MICR Electronics Ltd( ONIDA )</a></li>
+                                    {/* <li><a>MICR Electronics Ltd( ONIDA )</a></li>
                                     <li><a>Ion Exchange India Ltd</a></li>
                                     <li><a>WHIRLPOOL of India Ltd</a></li>
                                     <li><a>IFB Industries Ltd Washing Machines & AC </a></li>
                                     <li><a>Commscope India Pvt. Ltd </a></li>
-                                    <li><a>Hyundai Construction Equipment Pvt. Ltd</a></li>
+                                    <li><a>Hyundai Construction Equipment Pvt. Ltd</a></li> */}
                                     {/* <li><a>SHAHI SHIPPING</a></li>
                                     <li><a>DEMPO SHIPBUILDING LTD </a></li>
                                     <li><a>MANDOVI DRY DOCKS</a></li>
@@ -97,14 +97,33 @@ Mrs. Raicar brings invaluable leadership and expertise to her role</p>
                                     <li><a>AK SHIPPING </a></li>
                                     <li><a>SHREEJI SHIPPING</a></li> */}
                                     </ul>
+                                    
                                     </li>
+                                    
                                     <li>
                                     {/* <Popover className='dirPop' content={dirContent} title="Mrs. Poonam Raicar">
                                         <a >Director Profile</a>
                                     </Popover> */}
                                         
                                     </li>
+                                    <li>
+                            <a href="#">
                                     
+                                    <i className="fa fa-solid fa-user"></i>
+                                    
+                                    <h6>Login</h6>
+                                </a>
+                               
+                                
+                            </li>
+                            <li>
+                            <a href="#">
+                                    <h6>Register</h6>
+                                </a>
+                               
+                                
+                            </li>
+                            
                                 </ul>
                             </div>
                         </div>
