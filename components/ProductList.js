@@ -10,7 +10,7 @@ const ProductList = ({ products }) => {
             <Link href={`/product/${product.id}`}>
               
               {/* {product.image} */}
-              <img src={product.image} alt={product.name} style={{ maxWidth: '100%', height: '250px' }} />
+              <img src={product.image} alt={product.name} style={{ maxWidth: '400px', height: '400px' }} />
               <h1>{product.name}</h1>
             </Link>
           </li>

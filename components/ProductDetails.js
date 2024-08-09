@@ -8,6 +8,7 @@ const ProductDetails = ({ product }) => {
   return (
     <div className="product-details">
       <h2>{product.name}</h2>
+     
       <p>{product.details}</p>
     </div>
   );

@@ -31,8 +31,23 @@ const ProductDetailPage = () => {
           {product ? (
             <>
               <h2>{product.name}</h2>
+
+
               <img src={product.image} alt={product.name} style={{ maxWidth: '100%', height: 'auto' }} />
+
+
+              { product.details && (
+                <>
+              <h2>Description</h2>
               <p>{product.details}</p>
+              </>
+             ) }
+             { product.specification && (
+              <>
+              <h2>Specification</h2>
+              <p>{product.specification}</p>
+              </>
+            ) }
             </>
           ) : (
             <p>Loading...</p>
