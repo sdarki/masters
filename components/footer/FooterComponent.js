@@ -304,7 +304,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-import { MdHeadset } from 'react-icons/md';
+// import { MdHeadset } from 'react-icons/md';
 import styles from './footer.module.css';
 const FooterComponent = () => {
   return (
@@ -356,7 +356,7 @@ const FooterComponent = () => {
           </Col>
           <Col md={4}>
             <div className="text-right">
-              <MdHeadset className="text-secondary" size={40} />
+              {/* <MdHeadset className="text-secondary" size={40} /> */}
             </div>
           </Col>
         </Row>
