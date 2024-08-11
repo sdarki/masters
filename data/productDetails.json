@@ -217,33 +217,133 @@
     "image": ["/images/products99/gray_concreate_door.avif"]
   },
   {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
+    "id": 274,
+    "name": "Concrete Door Frame for Durable and Long-Lasting Entrances",
+    "details": "Introducing our Concrete Door Frame, a perfect choice for creating durable and long-lasting entrances. This outdoor door frame stands tall at a height of 2100mm, making it suitable for various spaces. Crafted from high-quality steel, this rectangular frame measures 900x2100mm, providing ample space for easy access. Its modern style adds a touch of sophistication to any home or commercial setting. With its sturdy construction and weather-resistant material, this door frame ensures enhanced security and durability. Upgrade your entryway with our Concrete Door Frame and enjoy a reliable and stylish solution for years to come.",
+    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Outdoor</td>  </tr>  <tr>    <th>Size<th>    <td>900x2100 mm</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangle</td>  </tr>   <tr>    <th>Height</th>    <td>2100 mm</td>  </tr>     <tr>    <th>Material</th>    <td>Steel</td>  </tr>      <tr>    <th>Style</th>    <td>Modern</td>  </tr></table>",
+    "image": ["/images/products99/concrete41.jpg",
+    "/images/products99/concrete42.avif",
+  "/images/products99/concrete43.avif",
+  "/images/products99/concrete44.avif",
+  "/images/products99/concrete45.avif",
+  "/images/products99/concrete46.jpg"]
   },
   {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
+    "id": 275,
+    "name": "Garden Border Feature - Landscaping Boundary Solution",
+    "details": "Introducing our Garden Border Feature, the ultimate landscaping boundary solution for your outdoor space. Crafted with precision, this innovative garden accessory effortlessly enhances the aesthetics of your garden while providing a practical solution to define and separate different areas. Made from durable and weather-resistant materials, our Garden Border Feature ensures long-lasting performance and minimal maintenance. Its versatile design allows for easy installation, accommodating various garden styles and layouts. With its sleek and elegant appearance, this boundary solution adds a touch of sophistication to any landscape. Transform your garden into a stunning masterpiece with our Garden Border Feature, making it the envy of all your neighbors.",
+    "image": ["/images/products99/garden_border_feature1.jpg",
+              "/images/products99/garden_border1.avif",
+              "/images/products99/garden_border2.avif",
+              "/images/products99/garden_border3.avif"
+  ]
   },
   {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
+    "id": 281,
+   "name": "Concrete Baluster Baluster for Stylish and Secure Balconies",
+   "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>  <tr>    <th>Brand<th>    <td>Royal</td>  </tr>  </table>",
+    "image": ["/images/products99/concrete_baluster1.jpg",
+  "/images/products99/concrete_baluster2.avif",
+"/images/products99/concrete_baluster3.avif",
+"/images/products99/concrete_baluster4.avif"]
   },
   {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
+    "id": 291,
+    "name": "Solid Concrete Block for Various Applications",
+   "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>   </table>",
+    "image": ["/images/products99/solid_concrete_block.jpg",
+  "/images/products99/solid_concrete_block1.avif",
+"/images/products99/solid_concrete_block2.avif",
+"/images/products99/solid_concrete_block3.avif"]
   },
   {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
+    "id": 292,
+    "name": "Concrete Blocks for Strong and Versatile Construction",
+    "details": "Introducing our Concrete Blocks for Strong and Versatile Construction! These solid rectangular blocks, with a thickness of 8 inches, are the perfect choice for all your construction needs. With panel dimensions of 4x2 and a unit size of 16x8, these blocks are designed to provide maximum stability and durability. Made for load-bearing structures, they ensure a sturdy foundation. Our Concrete Blocks are ideal for various construction projects, offering ease of use and a reliable solution. Whether you're building walls, beams, or any other structure, these blocks, with a recommended beam size of 200, are your go-to option. Build with confidence and strength using our Concrete Blocks!",
+    "specification": "<table border='1'>  <tr>    <th>Type</th>    <td>Solid</td>  </tr>  <tr>    <th>Use</th>    <td>Construction</td>  </tr>  <tr>    <th>Built Type</th>    <td>Load-bearing</td>  </tr>  <tr>    <th>Unit Size</th    <td>16x8 in</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangular</td>  </tr>  <tr>    <th>Beam Size</th>    <td>200 mm</td>  </tr>  <tr>    <th>Panel Dimensions</th>    <td>4x2 ft</td>  </tr>  <tr>    <th>Thickness</th>    <td>8 in</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+    "image": ["/images/products99/60C5B40F8CB16A079D762CF599_1645428588031.jpeg",
+  "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-kcs0b302.avif",
+"/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-ldwdjkiv.avif",
+"/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-1hinlme2.avif",
+"/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-fs14evs6.jpg",
+"/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-gr369ix6.jpg",
+"/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-bfdrq0hg.avif"]
   },
   {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
+    "id": 293,
+    "name": "Rectangular Bricks Solid Blocks (Building Material)",
+    "details": "Introducing our Rectangular Bricks Solid Blocks, the perfect choice for your construction needs. These solid blocks are designed to provide exceptional strength and durability. With a thickness of 4 inches, they are ideal for load-bearing structures. The rectangular shape and panel dimensions of 2x1 ensure easy installation and a seamless finish. Each unit measures 8x4, offering a convenient size for construction projects. Made from high-quality materials, these blocks are built to withstand the test of time. Whether you're building walls, columns, or beams, our Rectangular Bricks Solid Blocks are the reliable choice for your construction requirements.",
+    "specification": "<table border='1'>  <tr>    <th>Type</th>    <td>Solid</td>  </tr>  <tr>    <th>Use</th>    <td>Construction</td>  </tr>  <tr>    <th>Built Type</th>    <td>Load-bearing</td>  </tr>  <tr>    <th>Unit Size</th    <td>8x4 in</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangular</td>  </tr>  <tr>    <th>Beam Size</th>    <td>200 mm</td>  </tr>  <tr>    <th>Panel Dimensions</th>    <td>2x1 ft</td>  </tr>  <tr>    <th>Thickness</th>    <td>4 in</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+    "image": ["/images/products99/rectangle_bricks.jpg",
+  "/images/products99/rectangle_bricks1.jpg",
+"/images/products99/rectangle_bricks2.avif",
+"/images/products99/rectangle_bricks3.avif"]
+  },
+  {
+    "id": 294,
+    "name": "Concrete Solid Re Blocks, For Side Walls",
+    "details": "Introducing our Concrete Solid Re Blocks, the perfect choice for side walls in Indian homes. These rectangular blocks have a solid construction with a thickness of 8 units. Designed to withstand heavy loads, they are reinforced for added strength and durability. With panel dimensions of 4x2 units and a unit size of 16x8, these blocks are easy to handle and install. Whether you're constructing a new wall or renovating an existing one, our Concrete Solid Re Blocks offer the ideal solution. Trust in their reliable performance and make your walls stand the test of time.",
+    "specification": "<table border='1'>  <tr>    <th>Type</th>    <td>Solid</td>  </tr>  <tr>    <th>Use</th>    <td>side walls</td>  </tr>  <tr>    <th>Built Type</th>    <td>reinforced</td>  </tr>  <tr>    <th>Unit Size</th    <td>16x8 in</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangular</td>  </tr>  <tr>    <th>Beam Size</th>    <td>200 mm</td>  </tr>  <tr>    <th>Panel Dimensions</th>    <td>4x2 ft</td>  </tr>  <tr>    <th>Thickness</th>    <td>8 in</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+    "image": ["/images/products99/concrete_solid1.jpg",
+  "/images/products99/concrete_solid2.avif",
+"/images/products99/concrete_solid3.jpg"]
+  },
+  {
+    "id": 321,
+    "name": "Concrete Drain Cover (Sturdy Concrete Material)",
+    "details": "Introducing our Concrete Drain Cover, crafted with utmost precision using sturdy concrete material. This durable product serves as the perfect solution for protecting drains from debris and ensuring efficient water flow. Its robust construction guarantees long-lasting performance, withstanding heavy loads and resisting wear and tear. Designed with practicality in mind, the drain cover seamlessly blends into any outdoor environment, offering a seamless appearance. Its easy installation process allows for hassle-free maintenance, saving you time and effort. Invest in our Concrete Drain Cover today and experience its exceptional quality, reliability, and functionality. Enhance the drainage system of your property with this top-notch product.",
+    "image": ["/images/products99/concrete_drain_cover1.jpg",
+  "/images/products99/concrete_drain_cover2.avif",
+"/images/products99/concrete_drain_cover3.avif",
+"/images/products99/concrete_drain_cover4.jpg"]
+  },
+  {
+    "id": 331,
+    "name": "Concrete Zig-Zag Paver Block (Decorative Zig-Zag Paving Block)",
+    "details": "Introducing our Concrete Zig-Zag Paver Block, the perfect solution for all your decorative paving needs. Made from durable concrete material, these blocks are built to withstand the test of time. With a thickness of 60 mm and a size of 200x200 mm, they are ideal for creating stunning zig-zag patterns that add a touch of elegance to any outdoor space. Whether you're revamping your garden or enhancing your patio, these paver blocks are versatile and easy to install. Transform your surroundings with our high-quality Concrete Zig-Zag Paver Blocks today and enjoy a beautiful, long-lasting finish.",
+    "specification":"<table border='1' >  <tr>    <th>Size</th>    <td>200x200</td>  </tr>  <tr>    <th>Use</th>    <td>Decorative Paving</td>  </tr>  <tr>    <th>Thickness</th>    <td>60 mm</td>  </tr>  <tr>    <th>Material</th>    <td>Concrete</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+    "image": ["/images/products99/concrete_zigzag.jpg"]
+  },
+  {
+    "id": 332,
+    "name": "Concrete Paver Colour, Vibrant Color Selection",
+    "details": "Introducing our Concrete Paver Colour collection, a stunning range of vibrant colors that will transform any outdoor space into a visual masterpiece. Crafted with precision and durability in mind, these pavers are perfect for driveways, walkways, and patios. With a wide selection of hues to choose from, you can create a unique and personalized design that complements your home's architecture. Our Concrete Paver Colour collection not only adds aesthetic charm but also offers exceptional strength and resistance to harsh weather conditions. Give your outdoor area a vibrant makeover with our versatile and long-lasting concrete pavers today.",
+    "image": ["/images/products99/concrete_paver1.jpg",
+  "/images/products99/concrete_paver2.avif",
+"/images/products99/concrete_paver3.avif",
+"/images/products99/concrete_paver4.avif"]
+  },
+  {
+    "id": 333,
+    "name": "20.01 Grey Brick Modern Grey Hue",
+    "details": "Introducing the 20.01 Grey Brick Modern Grey Hue, a versatile and stylish addition to any home. This high-quality brick offers a contemporary touch with its sleek grey hue, making it perfect for modern interiors. Crafted with attention to detail, the 20.01 Grey Brick features a smooth texture and precise dimensions, ensuring easy installation and a seamless finish. Whether used as a focal point or as an accent, this brick adds depth and sophistication to any space. Its durable construction guarantees longevity, while its neutral color allows for endless design possibilities. Elevate your home decor with the 20.01 Grey Brick Modern Grey Hue.",
+    "image": ["/images/products99/grey_brick1.jpg",
+    "/images/products99/grey_brick2.avif",
+    "/images/products99/grey_brick3.avif",
+    "/images/products99/grey_brick4.avif",
+    "/images/products99/grey_brick5.avif",
+    "/images/products99/grey_brick6.jpg"
+  ]
+  },
+  {
+    "id": 334,
+    "name": "Precast Concrete Paver - Durable Paving Material, 80 N/mm Compressive Strength",
+    "details": "Introducing our Concrete Paver Material, the ultimate solution for durable and long-lasting paving projects. Crafted with precision, this high-quality product ensures superior strength and resilience, making it perfect for both residential and commercial applications. Constructed from top-grade materials, our Concrete Paver Material guarantees exceptional durability, capable of withstanding heavy foot traffic and harsh weather conditions. Its interlocking design allows for easy installation, ensuring a seamless and secure surface. Whether you're revamping your patio, walkway, or driveway, our Concrete Paver Material offers unparalleled reliability and aesthetic appeal. Invest in this reliable paving solution and create a stunning outdoor space that will stand the test of time.",
+    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Compressive Strength</th>    <td>80 N/mm²</td>  </tr></table>",
+    "image": ["/images/products99/brick1.jpg",
+  "/images/products99/brick2.avif",
+"/images/products99/brick3.avif",
+"/images/products99/brick4.jpg"]
+  },
+  {
+    "id": 341,
+    "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+    "details": "Introducing our Grass Paver - Rubber Mould, the perfect environmentally friendly paving solution for your outdoor spaces. Made from high-quality rubber, this innovative product allows grass to grow through its permeable design, blending seamlessly with the surrounding landscape. Our Grass Paver provides excellent stability and durability, making it ideal for driveways, walkways, and parking areas. It effectively reduces soil erosion and stormwater runoff while enhancing the aesthetic appeal of your property. Easy to install and maintain, this eco-friendly alternative is a sustainable choice that promotes a greener environment. Upgrade your outdoor spaces with our Grass Paver - Rubber Mould and enjoy a beautiful, sustainable, and long-lasting paving solution.",
+    "image": ["/images/products99/grass_paver1.jpg",
+    "/images/products99/grass_paver2.avif",
+    "/images/products99/grass_paver3.avif",
+    "/images/products99/grass_paver4.avif"
+  ]
   }
+ 
 ]
