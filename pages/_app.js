@@ -7,6 +7,7 @@ import '../public/css/plugin.css';
 import '../public/css/templete.css';
 import '../public/css/responsive.css';
 import "swiper/css/bundle";
+import "../components/SideMenu.css";
 import Head from 'next/head';
 import { useStore } from 'react-redux';
 import { PersistGate } from 'redux-persist/integration/react'
