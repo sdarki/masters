@@ -1,0 +1,67 @@
+.side-menu {
+    background-color: #ffffff; /* Light background */
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for elevation */
+  }
+  
+  .side-menu ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .side-menu-item {
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 4px;
+    margin-bottom: 5px;
+  }
+  
+  .side-menu-item:hover {
+    background-color: #007bff; /* Blue background on hover */
+    color: #ffffff; /* White text on hover */
+  }
+  
+  .side-menu-item:active {
+    background-color: #0056b3; /* Darker blue on click */
+  }
+  
+  .side-menu-item + .side-menu-item {
+    margin-top: 5px;
+  }
+  
+  /* Custom scrollbar styling */
+  .side-menu::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .side-menu::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  .side-menu::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+  }
+  
+  .side-menu::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  .product-page {
+    display: flex;
+    min-height: 100vh; /* Ensure the full height of the viewport */
+  }
+  
+  .side-menu {
+    flex: 1;
+    max-width: 300px; /* Fixed width for the side menu */
+    background-color: #f8f9fa;
+    border-right: 1px solid #ddd;
+  }
+  
+  .main-content {
+    flex: 3;
+    padding: 20px;
+    overflow: auto; /* Allows content to scroll if it overflows */
+    background-color: #fff;
+  }
+  

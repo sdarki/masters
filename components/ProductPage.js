@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import SideMenu from './SideMenu';
@@ -5,7 +6,9 @@ import ProductList from './ProductList';
 import categories from '../data/categories.json';
 
 const ProductPage = () => {
-  const [selectedCategoryId, setSelectedCategoryId] = useState(null);
+  
+  const slabCategory = categories.find(c => c.name.toLowerCase() === 'slab');
+  const [selectedCategoryId, setSelectedCategoryId] = useState(slabCategory ? slabCategory.id : null);
   const [products, setProducts] = useState([]);
   const router = useRouter();
 
@@ -21,7 +24,7 @@ const ProductPage = () => {
   };
 
   return (
-    <div className="app">
+    <div className="product-page">
       <SideMenu categories={categories} onSelectCategory={setSelectedCategoryId} />
       <div className="main-content">
         {selectedCategoryId !== null && <ProductList products={products} onSelectProduct={handleProductSelect} />}
@@ -31,3 +34,4 @@ const ProductPage = () => {
 };
 
 export default ProductPage;
+
