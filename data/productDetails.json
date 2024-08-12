@@ -1,249 +1,585 @@
 [
   {
-    "id": 161,
-    "name": "Gutter slabs (heavy Duty)",
-    "details": "Introducing our Heavy Duty Gutter Slabs, the ultimate solution for your gutter system needs. Crafted with high-quality materials, these slabs are designed to withstand heavy rainfall and provide long-lasting durability. With their superior strength, they ensure efficient water flow and prevent clogging, protecting your property from potential damage. Our Heavy Duty Gutter Slabs are easy to install, saving you time and effort. Whether you're a homeowner or a contractor, these slabs are the perfect choice for any gutter installation project. Upgrade your gutter system with our Heavy Duty Gutter Slabs and enjoy peace of mind, rain or shine.",
-    "specification":"<table border='1' >  <tr>    <th>Type</th>    <th>heavy duty<th>  </tr>",
-   "image": [
-      "/images/products99/gutter_slab(heavy_duty).avif",
-      "/images/products99/gutter-slabs1.avif",
-      "/images/products99/gutter-slabs2.avif",
-      "/images/products99/gutter-slabs3.avif"
+    "id": 101,
+    "name":"Bluster",
+    "details": "Introducing our Balcony White Concrete Balusters, the perfect addition to your balcony railing. Crafted with precision, these railing balusters boast a height of 36 inches, a diameter of 4 inches, and a thickness of 20 millimeters. Featuring a delightful floral pattern, these traditional design balusters are made from top-grade concrete material with a smooth surface finish. With a square shape and a density of 2400, these balusters are built to last. Measuring 1000x100x100 millimeters, they are ideal for floor mounting on your balcony. Enhance your space with these decorative balusters and add a touch of elegance to your home.",
+    "image": [
+      "/images/products99/cat1p1.avif"
+    ]
+      
+  },
+  {
+    "id": 102,
+    "name":"Baluster Molding Design, Ornamental Railing Design",
+    "details": "Introducing our exquisite Baluster Molding Design, perfect for adding elegance and sophistication to any space. This ornamental railing design is crafted with meticulous attention to detail, ensuring a stunning visual impact. Made from high-quality materials, it boasts durability and longevity. The intricate patterns and intricate curves of the balusters create a timeless appeal that complements various architectural styles. Whether used for indoor or outdoor applications, this stunning design is sure to impress guests and enhance the overall aesthetic of your home or commercial space. Elevate your decor with our Baluster Molding Design and experience the beauty of fine craftsmanship.",
+    "image":[
+
+      "/images/products99/cat1p2.avif"
+    ]
+  },
+  
+  {
+    "id": 201,
+    "name": "Precast Concrete Baluster Railing (Durable Baluster)",
+    "details": "Introducing our durable Precast Concrete Baluster Railing, designed to enhance the beauty and safety of your space. Crafted from high-quality precast concrete, this baluster showcases exceptional strength with a compressive strength of 70 N/mm. Whether you're looking to upgrade your home or commercial property, our baluster railing is a perfect choice. Its sturdy construction ensures long-lasting durability, making it ideal for withstanding the Indian climate and everyday wear and tear. With a simple yet elegant design, this precast concrete baluster railing will add a touch of sophistication to any outdoor or indoor setting. Elevate your space with this reliable and attractive baluster railing today.",
+     "image":[
+
+       "/images/products99/cat2p1.avif"
      ]
-   
   },
   {
-    "id": 162,
-    "name": "Gutter Slabs (Medium Duty) Durable Medium-Duty Construction)",
-    "details": "Introducing our high-quality Gutter Slabs (Medium Duty), designed to withstand the test of time. Crafted with durable medium-duty construction, these slabs are built to last and ensure long-term functionality. Engineered to handle moderate loads, they provide excellent support for gutters, making them perfect for residential and commercial applications. Our Gutter Slabs are easy to install and require minimal maintenance, saving you time and effort. With their robust design, they offer reliable protection against heavy rainfall and debris overflow. Invest in our Gutter Slabs (Medium Duty) for a sturdy and reliable solution that will keep your gutters in top-notch condition for years to come.",
+    "id": 202,
+    "name":"Precast Drain Slabs for Efficient Drainage",
+    "details": "Introducing our high-quality precast drain slabs for efficient drainage. Made from durable polyethylene material, these slabs are built to last. With a wall thickness of 6.5, our drain slabs provide exceptional strength and reliability. Designed for wound drainage, they offer an effective solution for managing excess liquids. These drain slabs are perfect for various applications, ensuring smooth water flow and preventing waterlogging. Easy to install and maintain, they are ideal for both residential and commercial use. Invest in our precast drain slabs to achieve efficient drainage and keep your surroundings dry and clean. Experience hassle-free water management today!",
+     "image":[
+       "/images/products99/cat2p2.avif"
+       ]
+      
+  },
+  {
+    "id": 203,
+    "name":"Concrete Window Frame Mould Durable Frame Mold",
+    "details": "Introducing our Concrete Window Frame Mould - a durable and reliable frame mold designed specifically for precast concrete windows. Crafted with precision, this mold ensures the production of high-quality window frames that are built to last. Made from premium materials, it guarantees durability and strength, making it an ideal choice for construction projects. With a compressive strength of 70 N/mm, this mold ensures the frames can withstand the test of time. Whether you are a contractor or a DIY enthusiast, our Concrete Window Frame Mould is a must-have tool to create sturdy and long-lasting window frames for your building needs.",
+   "image": [
+
+     "/images/products99/cat2p3.jpg"
+   ]
+  },
+  {
+    "id": 204,
+    "name":"Sturdy Precast Concrete Window Frame Mould",
+    "details": "Introducing our Sturdy Precast Concrete Window Frame Mould, perfect for all your construction needs. Made with high-quality precast concrete, this mould ensures durability and longevity. With a compressive strength of 80 N/mm, it guarantees exceptional stability and resistance. Crafted with precision, this mould creates window frames that are strong and reliable, suitable for Indian construction standards. Its easy-to-use design allows for efficient installation, saving you time and effort. Whether for residential or commercial projects, this mould provides the perfect solution for creating robust and long-lasting window frames. Invest in our Sturdy Precast Concrete Window Frame Mould and experience the reliability and quality it offers.",
+   "image":[
+
+     "public/images/products99/cat2p4.jpg"
+   ]
+  },
+  {
+    "id": 205,
+    "name":"Classic Casement Aluminum Window Frames, Powder Coated, Customizable, 2.5in Thickness",
+    "details": "Introducing our high-quality Precast Window Frames, designed for quick construction in India. Crafted with precision, these casement frames are made from durable aluminum material, ensuring strength and longevity. The powder coated finish adds a touch of elegance, perfectly complementing the classic style. With customizable measurements and a frame thickness of 2.5 inches, these frames can be tailored to your specific requirements. Built to the IS 2062 material grade standard, these frames offer exceptional reliability. The tilt and turn opening pattern provides versatility and ease of use. Invest in our Precast Window Frames with a root size of 600 mm for a sturdy and attractive window solution.",
+   "image": [
+
+     "/images/products99/cat2p5.jpg"
+   ]
+  },
+
+  {
+    "id": 301,
+    "name": "Interlocking Brick Design - Modular Building Material",
+    "details": "Introducing our revolutionary Interlocking Brick Design, the ultimate modular building material for all your construction needs. With its innovative interlocking system, this product offers unmatched ease of installation, allowing you to create sturdy structures quickly and efficiently. Crafted from high-quality materials, these bricks are built to last, ensuring durability and longevity for your projects. Whether you're constructing a garden wall, pathway, or even a complete building, our Interlocking Brick Design provides endless possibilities. Its versatile nature allows for easy customization and adaptation to any design concept. Invest in this game-changing modular building material and experience the future of construction today.",
     "image": [
-      "/images/products99/gutter_slab(medium_duty).avif",
-      "/images/products99/gutter_slab(medium_duty)1.avif",
-      "/images/products99/gutter_slab(medium_duty)2.avif",
-      "/images/products99/gutter_slab(medium_duty)3.avif"
+
+      "/images/products99/cat3p1.avif"
     ]
-   
   },
   {
-    "id": 163,
-    "name": "Gutter slabs (light duty) - Lightweight and Efficient Rainwater Management",
-    "details": "Introducing our lightweight and efficient gutter slabs (light duty), the perfect solution for effective rainwater management. Made from high-quality materials, these slabs are designed to withstand the harshest weather conditions while providing reliable performance. Their lightweight construction makes installation a breeze, saving you time and effort. With a sleek and modern design, our gutter slabs seamlessly blend with any architectural style, enhancing the overall aesthetic appeal of your property. Say goodbye to water damage and hello to efficient rainwater management with our top-of-the-line gutter slabs. Invest in a durable solution that will protect your property for years to come.",
+    "id": 401,
+    "name": "Kerb stone - Durable Kerb Stone",
+    "details": "Introducing our Durable Kerb Stone, the ideal solution for enhancing the safety and aesthetics of your outdoor spaces. Crafted with utmost precision, this high-quality kerb stone is built to withstand the test of time. Made from durable materials, it offers exceptional strength and resilience, ensuring longevity and minimal maintenance. Its sleek design seamlessly blends with any landscape, providing a visually appealing solution for defining boundaries and preventing vehicle encroachment. Whether used in parking lots, driveways, or walkways, our Durable Kerb Stone guarantees reliable performance and utmost safety. Invest in this versatile and long-lasting kerb stone to elevate the look and functionality of your surroundings today!",
     "image": [
-      "/images/products99/gutter_slab(light_duty).jpg",
-      "/images/products99/gutter_slab(light_duty)1.avif"
+
+      "/images/products99/cat4p1.avif"
     ]
+  },
+  {
+    "id": 501,
+    "name": "I Shape Paver Block (Unique Pavement Design)",
+    "details": "Introducing the I Shape Paver Block (Unique Pavement Design), a high-quality concrete block perfect for your paving needs. Made from durable cement material, these rectangular blocks measure 200x100x60 mm. With a density of 2200 kg/m3, these blocks are strong and reliable, ensuring long-lasting performance. The unique pavement design of these paver blocks adds a touch of elegance to any outdoor space. Whether you're looking to enhance your driveway, walkway, or patio, these I Shape Paver Blocks are the ideal choice. Create a beautiful and functional outdoor area with these versatile and sturdy blocks.",
+     "image":[
+      "/images/products99/cat5p1.jpg"
+     ]
+  },
+  {
+    "id": 502,
+    "name":"Paver Block Red and Grey Durable Paving Block",
+    "details": "Introducing our Red and Grey Durable Paving Block, the perfect choice for your outdoor spaces. Crafted with precision and designed to withstand the test of time, these Paver Blocks are built to last. The striking combination of red and grey adds a touch of elegance to any landscape. Made from high-quality materials, these blocks are highly durable, ensuring longevity and resistance to wear and tear. With their interlocking design, they provide excellent stability and ease of installation. Enhance the beauty of your driveways, pathways, or patio with our Red and Grey Durable Paving Block, delivering both style and functionality.",
+     "image": [
+
+       "/images/products99/cat5p2.jpg"
+     ]
+  },
+  {
+    "id": 503,
+    "name":"Ficus Brick Natural and Textured Wall Cladding",
+    "details": "Introducing the Ficus Brick Natural and Textured product, a stunning addition to your interior dÃƒÂ©cor. Crafted with utmost precision, this product showcases a beautiful combination of natural elements and intricate textures. Made from premium materials, the Ficus Brick offers durability and longevity, ensuring it will stand the test of time. Its unique design effortlessly blends into any space, whether it be a modern or traditional setting. With its rich earthy tones and captivating textures, this product adds depth and character to any room. Elevate your home's aesthetic with the Ficus Brick Natural and Textured, a true masterpiece of craftsmanship.",
+   "image":[
+
+     "/images/products99/cat5p3.jpg"
+   ]
+  },
+  {
+    "id": 601,
+    "name":"Flexible Rubber Kerbstone Rubber Mould",
+    "details": "Introducing our innovative Kerbstone-Rubber Mould, a flexible rubber mould designed to revolutionize your construction projects. Crafted with precision, this product guarantees high-quality results while saving time and effort. Made from durable rubber, it offers exceptional flexibility, ensuring easy demoulding without any damage. Our Kerbstone-Rubber Mould is ideal for creating a variety of kerbstones with intricate patterns and designs. Its versatility allows it to be used for both residential and commercial applications. With this mould, you can achieve consistent and professional-looking kerbstones effortlessly. Invest in our Kerbstone-Rubber Mould today and experience a seamless construction process with exceptional results.",
+   "image": [
+
+     "/images/products99/cat6p1.jpg"
+   ]
+  },
+  {
+    "id": 701,
+    "name":"Paver Block Colours Mixer Vibrant Color Blending",
+    "details": "Introducing our Paver Block Colours Mixer, the ultimate solution for achieving vibrant color blending in your paving projects. This innovative machine is designed to mix various colors of paver blocks effortlessly, resulting in stunning and eye-catching patterns. With its powerful motor and advanced technology, the mixer ensures a thorough and consistent blending of colors, allowing you to create unique designs that enhance the visual appeal of any outdoor space. Whether you're a professional landscaper or a DIY enthusiast, our Paver Block Colours Mixer is a must-have tool to bring your creative vision to life. Make a statement with your paving projects and unlock endless possibilities with our reliable and efficient mixer.",
+   "image":[
+
+     "/images/products99/cat7p1.jpg"
+   ]
+  },
+  {
+    "id": 801,
+    "name":"Ferrocement Planters for Unique and Artistic Greenery",
+    "details": " Introducing our Ferrocement Planters, the perfect addition to your space for creating a unique and artistic greenery display. Crafted with precision, these planters are made from a blend of cement and steel mesh, ensuring durability and longevity. With their sleek and contemporary design, they effortlessly enhance any indoor or outdoor area. These planters are not only visually appealing, but also practical, as they provide excellent drainage and insulation for your plants. Whether you're a gardening enthusiast or a design lover, our Ferrocement Planters are a must-have to showcase your green thumb and elevate the aesthetics of your surroundings.",
+   "image": 
+   [
+     
+     "/images/products99/cat8p1.jpg"
+  ]
+    
+  },
+  {
+    "id": 901,
+    "name": "Rectangular Cement RCC Door Frame (Sturdy Framework)",
+    "details": "Introducing our Rectangular Cement RCC Door Frame (Sturdy Framework), perfect for indoor use. With a height of 2100mm and a size of 900x2100mm, this modern-style door frame is built to impress. Crafted from durable cement, it guarantees longevity and strength. Its rectangular shape adds a touch of elegance to any space. Whether it's for your home or office, this sturdy door frame is designed to withstand everyday wear and tear. Upgrade your interiors with this reliable and stylish door frame that complements Indian homes effortlessly.",
+     "image":  [
+
+       "/images/products99/cat9p1.avif"
+     ]
+  },
+  {
+    "id": 902,
+    "name":"Vertical RCC Concrete Door Frame Sturdy Concrete Frame",
+    "details": "Introducing our Vertical RCC Concrete Door Frame, a sturdy and reliable addition to any indoor space. With a height of 2100mm, this rectangular concrete frame is designed to fit doors measuring 900x2100mm. Crafted from high-quality concrete material, it ensures durability and long-lasting performance. The modern style of this door frame adds a touch of elegance to your home or office decor. Its strong construction guarantees enhanced security and stability. Upgrade your interiors with this robust and stylish concrete door frame, perfect for Indian households. Experience the perfect blend of functionality and contemporary design today.",
+     "image": "/images/products99/cat9p2.jpg"
+  },
+  {
+    "id": 903,
+    "name":"RCC Door Frame for Sturdy Door Installations",
+    "details": "Introducing our high-quality RCC Door Frame, designed for sturdy door installations. With a height of 2100mm, it is perfect for indoor use. Crafted from durable steel material, this rectangular frame measures 900mm in width and 2100mm in height, ensuring a precise fit for your doors. Its modern style adds a touch of elegance to any interior decor. Built to last, this RCC Door Frame provides exceptional strength and security. Give your home or office a reliable and aesthetically pleasing door installation with our top-notch RCC Door Frame. Upgrade your space today with this must-have product!",
+   "image": [
+
+     "/images/products99/cat9p3.jpg"
+   ]
+  },
+  {
+    "id": 1001,
+    "name":" Staircase Ventilator Grill, Ventilation Fixture",
+    "details": "Introducing our Staircase Ventilator Grill, the perfect ventilation fixture for your home or workplace. Designed with both functionality and aesthetics in mind, this grill ensures proper air circulation while adding a touch of elegance to your staircase area. Crafted from high-quality materials, it guarantees durability and long-lasting performance. With its sleek and modern design, it seamlessly blends into any interior decor. The ventilator grill effectively removes stale air, odors, and moisture, creating a healthier and more comfortable environment. Easy to install and maintain, this product is a must-have for anyone seeking optimum ventilation and improved indoor air quality. Enhance your space with our Staircase Ventilator Grill today!",
+   "image": [
+     "/images/products99/cat10p1.avif"
+
+   ]
+  },
+  {
+    "id": 1101,
+    "name":"Gray RCC Compound Grill (Sturdy Construction)",
+    "details": "Introducing the Gray RCC Compound Grill, a robust and reliable exterior accessory for your home. Crafted with high-quality stainless steel, this compound grill ensures durability and long-lasting performance. Its sturdy construction guarantees strength and stability, making it perfect for enhancing the security of your property. Designed to withstand the harsh Indian weather conditions, this grill is capable of protecting your premises without compromising on aesthetics. With its sleek gray finish, it seamlessly blends into any exterior setting. Upgrade your home's security and add a touch of elegance with the Gray RCC Compound Grill, an essential addition to your property.",
+   "image":[
+
+     "/images/products99/cat11p1.jpg"
+   ]
+  },
+  {
+    "id": 1201,
+    "name":"Smooth Transportation 2 Lane Asphalt Road Construction - 12ft Width, IRI < 95, 6-Month Timeline",
+    "details": "Introducing our top-notch 2 Lane Road Construction Services, designed to ensure smooth and hassle-free transportation. With our team of skilled professionals and cutting-edge technology, we deliver high-quality roads that withstand heavy traffic and adverse weather conditions. Our construction process focuses on durability, sustainability, and efficiency, resulting in long-lasting roads that require minimal maintenance. Whether it's a highway, urban road, or rural lane, our services guarantee improved traffic flow and reduced congestion. Experience the difference with our seamless construction techniques, meticulous planning, and timely project completion. Trust our 2 Lane Road Construction Services for a safer, smoother, and more enjoyable transportation experience. Contact us today to discuss your road construction needs. ",
+   "image":[
+
+     "/images/products99/cat12p1.jpg"
+   ]
+  },
+  {
+    "id": 1301,
+    "name":"Royal Corinthian Baluster - Ornate and Durable Balustrade Element",
+    "details": "Introducing the Royal Corinthian Baluster, an exquisite and long-lasting balustrade element that effortlessly combines ornate design with exceptional durability. Crafted with meticulous attention to detail, this baluster is sure to elevate the aesthetic appeal of any space. Its regal Corinthian style features intricate patterns and delicate curves, adding a touch of elegance to your home or outdoor area. Made from high-quality materials, this baluster is built to withstand the test of time, ensuring years of reliable use. Whether used in staircases, balconies, or gardens, the Royal Corinthian Baluster is the perfect choice for those seeking a sophisticated and resilient balustrade solution.",
+   "image": [
+
+     "/images/products99/cat13p1.jpg"
+   ]
+  },
+  {
+    "id": 1401,
+    "name":"Paver Blocks- Rubber Mould, Durable Paving Solution",
+    "details": "Introducing our high-quality Paver Blocks - Rubber Mould, the ultimate durable paving solution for all your outdoor needs. Crafted with precision using premium rubber material, these blocks are designed to withstand heavy foot traffic, extreme weather conditions, and regular wear and tear. Our rubber mould paver blocks offer excellent slip resistance and are easy to install, making them a perfect choice for driveways, walkways, patios, and more. With their interlocking design, they ensure a secure and seamless fit, enhancing the overall aesthetics of your space. Choose our Paver Blocks - Rubber Mould for long-lasting durability and a visually appealing paving solution",
+   "image": 
+   [
+
+     "/images/products99/cat14p1.jpg "
+   ]
+  },
+  {
+    "id": 1501,
+    "name": "Gutter slabs (heavy Duty)",
+    "details": "Introducing our Rectangular Cement RCC Door Frame (Sturdy Framework), perfect for indoor use. With a height of 2100mm and a size of 900x2100mm, this modern-style door frame is built to impress. Crafted from durable cement, it guarantees longevity and strength. Its rectangular shape adds a touch of elegance to any space. Whether it's for your home or office, this sturdy door frame is designed to withstand everyday wear and tear. Upgrade your interiors with this reliable and stylish door frame that complements Indian homes effortlessly.",
+     "image": [
+
+       "/images/products99/cat9p1.avif.crdownload"
+     ]
+  },
+  {
+    "id": 1502,
+    "name":"Vertical RCC Concrete Door Frame Sturdy Concrete Frame",
+    "details": "Introducing our Vertical RCC Concrete Door Frame, a sturdy and reliable addition to any indoor space. With a height of 2100mm, this rectangular concrete frame is designed to fit doors measuring 900x2100mm. Crafted from high-quality concrete material, it ensures durability and long-lasting performance. The modern style of this door frame adds a touch of elegance to your home or office decor. Its strong construction guarantees enhanced security and stability. Upgrade your interiors with this robust and stylish concrete door frame, perfect for Indian households. Experience the perfect blend of functionality and contemporary design today.",
+     "image": [
+
+       "/images/products99/cat9p2.avif"
+     ]
+  },
+  {
+    "id": 1503,
+    "name":"RCC Door Frame for Sturdy Door Installations",
+    "details": "Introducing our high-quality RCC Door Frame, designed for sturdy door installations. With a height of 2100mm, it is perfect for indoor use. Crafted from durable steel material, this rectangular frame measures 900mm in width and 2100mm in height, ensuring a precise fit for your doors. Its modern style adds a touch of elegance to any interior decor. Built to last, this RCC Door Frame provides exceptional strength and security. Give your home or office a reliable and aesthetically pleasing door installation with our top-notch RCC Door Frame. Upgrade your space today with this must-have product!",
+  
+    "image": [
+
+     "/images/products99/cat9p3.avif"
+   ]
+  },
+ {
+      "id": 161,
+      "name": "Gutter slabs (heavy Duty)",
+      "details": "Introducing our Heavy Duty Gutter Slabs, the ultimate solution for your gutter system needs. Crafted with high-quality materials, these slabs are designed to withstand heavy rainfall and provide long-lasting durability. With their superior strength, they ensure efficient water flow and prevent clogging, protecting your property from potential damage. Our Heavy Duty Gutter Slabs are easy to install, saving you time and effort. Whether you're a homeowner or a contractor, these slabs are the perfect choice for any gutter installation project. Upgrade your gutter system with our Heavy Duty Gutter Slabs and enjoy peace of mind, rain or shine.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <th>heavy duty<th>  </tr>",
+     "image": [
+        "/images/products99/gutter_slab(heavy_duty).avif",
+        "/images/products99/gutter-slabs1.avif",
+        "/images/products99/gutter-slabs2.avif",
+        "/images/products99/gutter-slabs3.avif"
+       ]
+     
+    },
+    {
+      "id": 162,
+      "name": "Gutter Slabs (Medium Duty) Durable Medium-Duty Construction)",
+      "details": "Introducing our high-quality Gutter Slabs (Medium Duty), designed to withstand the test of time. Crafted with durable medium-duty construction, these slabs are built to last and ensure long-term functionality. Engineered to handle moderate loads, they provide excellent support for gutters, making them perfect for residential and commercial applications. Our Gutter Slabs are easy to install and require minimal maintenance, saving you time and effort. With their robust design, they offer reliable protection against heavy rainfall and debris overflow. Invest in our Gutter Slabs (Medium Duty) for a sturdy and reliable solution that will keep your gutters in top-notch condition for years to come.",
+      "image": [
+        "/images/products99/gutter_slab(medium_duty).avif",
+        "/images/products99/gutter_slab(medium_duty)1.avif",
+        "/images/products99/gutter_slab(medium_duty)2.avif",
+        "/images/products99/gutter_slab(medium_duty)3.avif"
+      ]
+     
+    },
+    {
+      "id": 163,
+      "name": "Gutter slabs (light duty) - Lightweight and Efficient Rainwater Management",
+      "details": "Introducing our lightweight and efficient gutter slabs (light duty), the perfect solution for effective rainwater management. Made from high-quality materials, these slabs are designed to withstand the harshest weather conditions while providing reliable performance. Their lightweight construction makes installation a breeze, saving you time and effort. With a sleek and modern design, our gutter slabs seamlessly blend with any architectural style, enhancing the overall aesthetic appeal of your property. Say goodbye to water damage and hello to efficient rainwater management with our top-of-the-line gutter slabs. Invest in a durable solution that will protect your property for years to come.",
+      "image": [
+        "/images/products99/gutter_slab(light_duty).jpg",
+        "/images/products99/gutter_slab(light_duty)1.avif"
+      ]
+     
+    },
+    {
+      "id": 171,
+      "name": "Outdoor Kerb Stone for Functional and Aesthetic Landscaping",
+      "details": "Introducing our Outdoor Kerb Stone, the perfect solution for both functional and aesthetic landscaping projects. Crafted with durability in mind, these kerb stones are designed to withstand the elements, ensuring long-lasting performance. Whether you're defining pathways, creating borders, or constructing retaining walls, our kerb stones provide a sturdy and reliable solution. Available in a range of sizes and colors, they can seamlessly blend into any outdoor environment, enhancing the overall appeal of your landscape. With their versatility and timeless design, our Outdoor Kerb Stones are an essential addition to any landscaping project, offering both practicality and beauty. Transform your outdoor space today!",
+      "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <th>India<th>  </tr>",
+       "image": ["/images/products99/stone1.avif",
+       "/images/products99/stone2.avif",
+       "/images/products99/stone3.avif",
+       "/images/products99/stone4.avif"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Window Ventilator Grill (louver type) - Adjustable Airflow",
+      "details": "Introducing our Adjustable Louver Window Ventilator, designed to enhance airflow and ventilation in your space. Made of high-quality Stainless Steel with a sleek Chrome Plated finish, this Window Ventilator Grill is both durable and stylish. With a size of 12x6 inches, it fits perfectly in most windows. The adjustable louvers allow you to control the airflow according to your needs, ensuring maximum comfort. Whether you want to bring in fresh air or expel stale odors, this Window Ventilator Grill is the perfect solution. Improve the air quality in your home or office with this easy-to-install and user-friendly product.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Adjustable Louver Window Ventilator</td>  </tr>  <tr>    <th>Size</th>    <td>12x6 (in inches)</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>  <tr>    <th>Use</th>    <td>Improving Airflow and Ventilation</td>  </tr>  <tr>    <th>Finish</th>    <td>Chrome Plated</td>  </tr>  <tr>    <th>Material</th>    <td>Stainless Steel</td>  </tr></table>",
+       "image": ["/images/products99/window_ventilator_grill.jpg"]
+    },
+    {
+      "id": 191,
+      "name": "Gutter Slab(light duty) 40*50*5 CM",
+     "image": ["/images/products99/gutter_slab.avif"]
+    },
+    {
+      "id": 192,
+      "name": "Gutter Slab (Heavy Duty) (Robust Heavy-Duty Design)",
+      "details": "Introducing our Heavy Duty Gutter Slab, a reliable solution for all your gutter installation needs. Crafted with a robust heavy-duty design, this product ensures durability and longevity. Made from high-quality materials, our Gutter Slab guarantees exceptional strength to withstand heavy rainfall and debris. Its heavy-duty construction ensures stability, preventing any damage or sagging over time. Easy to install and maintain, this product is perfect for both residential and commercial applications. With its heavy-duty design, it provides reliable protection against water damage, ensuring a well-maintained and efficient gutter system. Upgrade to our Heavy Duty Gutter Slab and experience unparalleled performance and longevity.",
+     "specification":"<table border='1' >  <tr>    <th>Type</th>    <th>heavy duty<th>  </tr>",
+      "image": ["/images/products99/gutter_slab.avif",
+    "/images/products99/gutter_slab1.avif",
+  "/images/products99/gutter_slab2.avif",
+  "/images/products99/gutter_slab3.avif"]
+    },
+    {
+      "id": 221,
+      "name": "Exterior Cement Compound Grill (Outdoor Durability)",
+      "details": "Introducing our Exterior Cement Compound Grill, the perfect solution for adding style and durability to your outdoor spaces. Crafted with high-quality stainless steel, this Compound Grill withstands tough weather conditions, ensuring long-lasting performance. Its superior construction makes it an ideal choice for exterior applications. Enhance the aesthetics of your outdoor area while enjoying the benefits of a sturdy and reliable grill. Designed to withstand the elements, this grill is perfect for Indian climates. Upgrade your outdoor living spaces with our durable and stylish Exterior Cement Compound Grill, and enjoy countless gatherings and moments of culinary delight.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Compound Grill</td>  </tr>  <tr>    <th>Position<th>    <td>Exterior</td>  </tr>  <tr>    <th>Material</th>    <td>Stainless Steel</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+      "image": ["/images/products99/grill1.avif"]
+    },
+    {
+      "id": 222,
+      "name": "ACC Block - 4' Lightweight Construction Block ",
+      "details": "Introducing the ACC Block - 4' Lightweight Construction Block, the perfect solution for your construction needs. With its lightweight design, this block offers ease of handling and transportation, ensuring a seamless building process. Crafted with precision, the ACC Block guarantees exceptional strength and durability, providing a sturdy foundation for your structures. Its unique composition promotes energy efficiency, effectively reducing heat transfer and enhancing insulation properties. This versatile block is ideal for various applications, including walls, partitions, and more. Trust in the ACC Block - 4' Lightweight Construction Block to deliver superior performance and reliability, making it the go-to choice for construction professionals and DIY enthusiasts alike.",
+      "image": ["/images/products99/grill2.jpg",
+                "/images/products99/grill21.avif",
+                "/images/products99/grill22.avif",
+                "/images/products99/grill23.avif"
+                ]
+    },
+    {
+      "id": 223,
+      "name": "Compound Grill 100X60cm - Outdoor Grilling Equipment",
+      "details": "Introducing the Compound Grill 100X60cm - your ultimate outdoor grilling equipment for memorable cookouts! Crafted with precision, this grill offers a generous 100X60cm cooking surface, providing ample space to prepare delicious meals for your family and friends. Its sturdy construction ensures durability and longevity, while the adjustable height feature allows you to customize your grilling experience. The Compound Grill's innovative design promotes even heat distribution, resulting in perfectly grilled meats and vegetables every time. Whether you're hosting a backyard barbecue or camping in the great outdoors, this grill is your go-to companion for mouthwatering culinary adventures. Upgrade your grilling game today!",
+      "image": ["/images/products99/grill3.jpg",
+  "/images/products99/grill31.avif",
+  "/images/products99/grill32.avif",
+  "/images/products99/grill33.avif",
+  "/images/products99/grill34.avif",
+  "/images/products99/grill35.avif"
+  ]
+    },
+    {
+      "id": 224,
+      "name": "Spacious Compound Grill (100X135cm) (Security Feature)",
+      "details": "Introducing our Spacious Compound Grill (100X135cm) - the perfect outdoor cooking companion for your next gathering. Crafted with durability in mind, this grill offers ample space to cook delicious meals for family and friends. Its generous dimensions of 100X135cm provide enough room to grill multiple items simultaneously, saving you time and effort. Designed with convenience in mind, it features adjustable temperature control and a sturdy construction that ensures even heat distribution for perfectly cooked dishes. Whether you're hosting a backyard barbecue or enjoying a day at the park, our Spacious Compound Grill is your go-to solution for mouthwatering grilled delicacies.",
+      "image": ["/images/products99/grill4.jpg",
+    "/images/products99/grill41.jpg",
+  "/images/products99/grill41.avif",
+  "/images/products99/grill42.avif",
+  "/images/products99/grill43.avif",
+  "/images/products99/grill44.avif"]
+    },
+    {
+      "id": 225,
+      "name": "ACC Block - 8' Aerated Concrete Block",
+      "details": "Introducing the ACC Block - 8' Aerated Concrete Block, a versatile and sustainable building material perfect for your construction needs. Crafted with precision, this lightweight block offers exceptional strength and thermal insulation properties. Its aerated structure ensures excellent sound absorption, making it ideal for noise reduction in residential and commercial spaces. The 8' size provides ample coverage, reducing installation time and costs. With its eco-friendly composition, the ACC Block promotes energy efficiency and reduces carbon footprint. Whether you're constructing walls, partitions, or flooring, trust the ACC Block to deliver durability, efficiency, and sustainability for your building projects. Choose quality, choose the ACC Block - 8' Aerated Concrete Block.",
+      "image": ["/images/products99/grill5.jpg",
+      "/images/products99/grill51.jpg",
+      "/images/products99/grill52.jpg",
+      "/images/products99/grill53.jpg"
+    ]
+    },
+    {
+      "id": 226,
+      "name": "Charcoal BBQ Grill for Outdoor Cooking Enthusiasts",
+      "details": "Introducing our Charcoal BBQ Grill, designed for outdoor cooking enthusiasts who crave an authentic grilling experience. Crafted with premium materials, this grill combines durability and functionality, ensuring optimal performance for years to come. Its spacious cooking surface allows you to prepare delicious meals for family gatherings or backyard parties effortlessly. The charcoal-powered design infuses your food with that unmistakable smoky flavor, taking your grilling game to the next level. Featuring adjustable vents for temperature control and a removable ash catcher for easy cleanup, this BBQ grill offers convenience without compromising on taste. Elevate your outdoor cooking adventures with our Charcoal BBQ Grill today!",
+      "image": ["/images/products99/grill6.jpg",
+    "/images/products99/grill61.avif",
+  "/images/products99/grill62.avif",
+  "/images/products99/grill63.avif"]
+    },
+    {
+      "id": 227,
+      "name": "Stylish Grill Compound Stylish Compound Grilling (Security Feature)",
+      "details": "Introducing the Grill Compound Stylish Compound Grilling, the ultimate solution for all grilling enthusiasts. Crafted with precision and style, this innovative product takes your grilling experience to new heights. Its unique compound design allows for efficient heat distribution, ensuring perfectly grilled meals every time. The stylish exterior adds a touch of elegance to your outdoor space, making it an eye-catching addition to any backyard or patio. With adjustable temperature control and a spacious cooking surface, this grill compound offers versatility for cooking a variety of dishes. Elevate your grilling game with the Grill Compound Stylish Compound Grilling and enjoy unforgettable moments with family and friends.",
+      "image": ["/images/products99/grill7.jpg",
+    "/images/products99/grill71.jpg",
+    "/images/products99/grill72.avif",
+    "/images/products99/grill73.avif",
+    "/images/products99/grill74.jpg"
+  ]
+    },
+    {
+      "id": 231,
+      "name": "Versatile Blocks for Construction Multipurpose Building Units",
+      "details": "Introducing our Versatile Blocks for Construction, the ultimate solution for all your building needs. Crafted with precision and durability in mind, these blocks are designed to provide exceptional strength and flexibility. Whether you're constructing walls, foundations, or even intricate architectural designs, our blocks offer unmatched adaptability. Made from high-quality materials, they ensure long-lasting performance in any weather condition. With their interlocking design, installation becomes a breeze, saving you time and effort. The versatility of these blocks allows for endless possibilities, making them a must-have for both professional builders and DIY enthusiasts. Transform your construction projects with our Versatile Blocks today!",
+      "image": ["/images/products99/Block1.jpg",
+    "/images/products99/Block2.avif",
+  "/images/products99/Block3.avif",
+  "/images/products99/Block4.jpg",
+  "/images/products99/Block5.avif",
+  "/images/products99/Block6.jpg"]
+    },
+    {
+      "id": 241,
+      "name": "Concrete Manhole Cover",
+      "details": "Introducing our high-quality Chember Cover with Frames, the ultimate accessory for efficient drainage systems. Crafted with precision, this product ensures optimal functionality and durability. The sturdy frames provide exceptional support, preventing any damage or distortion. Made from premium materials, our Chember Cover guarantees long-lasting performance, even in harsh weather conditions. Its sleek design seamlessly blends with any surroundings, making it an ideal choice for both residential and commercial settings. With easy installation and maintenance, this accessory simplifies the cleaning process, saving you valuable time and effort. Invest in our Chember Cover with Frames today, and experience hassle-free drainage like never before.",
+      "image": ["/images/products99/concrete_manhole1.jpg",
+      "/images/products99/oncrete_manhole2.avif",
+      "/images/products99/oncrete_manhole3.avif"]
+    },
+    {
+      "id": 251,
+      "name": "Construction Bricks Material - Building Component Material",
+      "details": "Introducing our high-quality Construction Bricks Material, the ultimate building component material for all your construction needs. Crafted with precision and durability in mind, these bricks are designed to withstand the test of time and provide a solid foundation for any structure. Made from top-grade materials, our construction bricks offer exceptional strength and resilience, ensuring long-lasting performance. With their uniform size and shape, they allow for easy installation, saving you time and effort. Whether you're constructing a residential or commercial project, our Construction Bricks Material guarantees excellent structural integrity and aesthetic appeal. Trust in our product to lay the groundwork for your construction success.",
+      "image": ["/images/products99/brick1.jpg",
+    "/images/products99/brick2.avif",
+  "/images/products99/brick3.avif",
+  "/images/products99/brick4.avif",
+  "/images/products99/brick5.avif",
+  "/images/products99/brick6.avif"]
+    },
+    {
+      "id": 261,
+      "name": "White Compound Grill for Elegant Fencing",
+      "details": "Introducing our White Compound Grill, the perfect addition to create an elegant and sophisticated fencing solution. Crafted with precision, this grill combines durability and style, making it an ideal choice for both residential and commercial properties. Its white color adds a touch of elegance, seamlessly blending with any architectural design. Constructed with high-quality materials, this compound grill is built to withstand the test of time, ensuring long-lasting performance. Easy to install and maintain, it offers a secure and visually appealing solution for enhancing privacy and security. Upgrade your fencing with our White Compound Grill and elevate the aesthetic appeal of your property.",
+      "image": ["/images/products99/compound_grill.jpg",
+      "/images/products99/compound_gril1.avif",
+      "/images/products99/compound_gril2.avif",
+      "/images/products99/compound_gril3.avif"
+    ]
+    },
+    {
+      "id": 262,
+      "name": "Ornate Design Compound Grills for Aesthetic Appeal",
+      "details": "Introducing our Ornate Design Compound Grills, the perfect addition to enhance the aesthetic appeal of any space. Crafted with utmost precision, these grills feature an intricate and ornate design that effortlessly blends elegance and functionality. Made from high-quality materials, our compound grills are built to last, offering durability and longevity. Whether you're looking to elevate the look of your home or commercial establishment, these grills are sure to make a statement. With their exquisite detailing and unique patterns, they add a touch of sophistication and charm to any setting. Upgrade your space with our Ornate Design Compound Grills and experience the epitome of beauty and style.",
+      "image": ["/images/products99/compound_grill2.avif",
+    "/images/products99/compound_grill21.avif",
+  "/images/products99/compound_grill22.avif",
+  "/images/products99/compound_grill23.avif",
+  "/images/products99/compound_grill24.avif",
+  "/images/products99/compound_grill25.avif",
+  "/images/products99/compound_grill26.avif"]
+    },
+    {
+      "id": 271,
+      "name": "Concrete Drain Cover Slab (Robust Drainage Solution)",
+      "details": "Introducing our Concrete Drain Cover Slab, the ultimate solution for robust drainage needs. This precast concrete slab is specifically designed to withstand heavy loads and provide exceptional durability. With a compressive strength of 70 N/mm, it ensures long-lasting performance even in the harshest conditions. Its sturdy construction guarantees a reliable drainage solution, making it ideal for use in residential, commercial, and industrial settings. The Concrete Drain Cover Slab offers hassle-free installation and requires minimal maintenance, saving you time and effort. Invest in this high-quality product to ensure efficient drainage and peace of mind.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Country of Origin<th>    <td>India</td>  </tr>  <tr>    <th>Compressive Strength</th>    <td>70 N/mm</td>  </tr>  </table>",
+      "image": ["/images/products99/concrete_drain1.avif"]
+    },
+    {
+      "id": 272,
+      "name": "Concrete Door Frames for Durable and Stable Door Installations",
+      "details": "Introducing our durable and stable Concrete Door Frames, specifically designed for indoor use. With a height of 2100mm, these frames are perfect for standard door installations. Made from high-quality steel, they ensure long-lasting performance and excellent strength. With a rectangular shape and modern style, these frames effortlessly blend into any interior decor. Measuring 900mm in width and 2100mm in height, they perfectly accommodate most door sizes. Trust our Concrete Door Frames to provide stability and security to your doors, while adding a touch of contemporary elegance to your Indian home. Upgrade your door installations today!",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Indoor</td>  </tr>  <tr>    <th>Size<th>    <td>900X2100 mm</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangle</td>  </tr>   <tr>    <th>Height</th>    <td>2100 mm</td>  </tr>     <tr>    <th>Material</th>    <td>Steel</td>  </tr>      <tr>    <th>Style</th>    <td>Modern</td>  </tr></table>",
+      "image": ["/images/products99/concrete_door1.avif",
+    "/images/products99/concrete_door2.avif",
+  "/images/products99/concrete_door3.avif",
+  "/images/products99/concrete_door4.avif",
+  "/images/products99/concrete_door5.avif",
+  "/images/products99/concrete_door6.jpg",
+  "/images/products99/concrete_door7.avif"]
+    },
+    {
+      "id": 273,
+      "name": "Gray Concrete Door Frame, Size/Dimension: 7x4 Feet",
+      "details": "Introducing our Gray Concrete Door Frame, designed to enhance the aesthetics and durability of your space. Crafted with high-quality precast concrete, this door frame boasts a size of 7x4 feet, making it suitable for various door sizes. With a compressive strength of 70 N/mm, it ensures long-lasting stability and resistance against wear and tear. The gray color adds a modern touch to any interior or exterior design. Easy to install, this door frame is perfect for Indian homes and commercial spaces. Upgrade your doors with our reliable and cost-effective Gray Concrete Door Frame.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Country of Origin<th>    <td>India</td>  </tr>  <tr>    <th>Compressive Strength</th>    <td>70 N/mm</td>  </tr>  </table>",
+      "image": ["/images/products99/gray_concreate_door.avif"]
+    },
+    {
+      "id": 274,
+      "name": "Concrete Door Frame for Durable and Long-Lasting Entrances",
+      "details": "Introducing our Concrete Door Frame, a perfect choice for creating durable and long-lasting entrances. This outdoor door frame stands tall at a height of 2100mm, making it suitable for various spaces. Crafted from high-quality steel, this rectangular frame measures 900x2100mm, providing ample space for easy access. Its modern style adds a touch of sophistication to any home or commercial setting. With its sturdy construction and weather-resistant material, this door frame ensures enhanced security and durability. Upgrade your entryway with our Concrete Door Frame and enjoy a reliable and stylish solution for years to come.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Outdoor</td>  </tr>  <tr>    <th>Size<th>    <td>900x2100 mm</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangle</td>  </tr>   <tr>    <th>Height</th>    <td>2100 mm</td>  </tr>     <tr>    <th>Material</th>    <td>Steel</td>  </tr>      <tr>    <th>Style</th>    <td>Modern</td>  </tr></table>",
+      "image": ["/images/products99/concrete41.jpg",
+      "/images/products99/concrete42.avif",
+    "/images/products99/concrete43.avif",
+    "/images/products99/concrete44.avif",
+    "/images/products99/concrete45.avif",
+    "/images/products99/concrete46.jpg"]
+    },
+    {
+      "id": 275,
+      "name": "Garden Border Feature - Landscaping Boundary Solution",
+      "details": "Introducing our Garden Border Feature, the ultimate landscaping boundary solution for your outdoor space. Crafted with precision, this innovative garden accessory effortlessly enhances the aesthetics of your garden while providing a practical solution to define and separate different areas. Made from durable and weather-resistant materials, our Garden Border Feature ensures long-lasting performance and minimal maintenance. Its versatile design allows for easy installation, accommodating various garden styles and layouts. With its sleek and elegant appearance, this boundary solution adds a touch of sophistication to any landscape. Transform your garden into a stunning masterpiece with our Garden Border Feature, making it the envy of all your neighbors.",
+      "image": ["/images/products99/garden_border_feature1.jpg",
+                "/images/products99/garden_border1.avif",
+                "/images/products99/garden_border2.avif",
+                "/images/products99/garden_border3.avif"
+    ]
+    },
+    {
+      "id": 281,
+     "name": "Concrete Baluster Baluster for Stylish and Secure Balconies",
+     "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>  <tr>    <th>Brand<th>    <td>Royal</td>  </tr>  </table>",
+      "image": ["/images/products99/concrete_baluster1.jpg",
+    "/images/products99/concrete_baluster2.avif",
+  "/images/products99/concrete_baluster3.avif",
+  "/images/products99/concrete_baluster4.avif"]
+    },
+    {
+      "id": 291,
+      "name": "Solid Concrete Block for Various Applications",
+     "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>   </table>",
+      "image": ["/images/products99/solid_concrete_block.jpg",
+    "/images/products99/solid_concrete_block1.avif",
+  "/images/products99/solid_concrete_block2.avif",
+  "/images/products99/solid_concrete_block3.avif"]
+    },
+    {
+      "id": 292,
+      "name": "Concrete Blocks for Strong and Versatile Construction",
+      "details": "Introducing our Concrete Blocks for Strong and Versatile Construction! These solid rectangular blocks, with a thickness of 8 inches, are the perfect choice for all your construction needs. With panel dimensions of 4x2 and a unit size of 16x8, these blocks are designed to provide maximum stability and durability. Made for load-bearing structures, they ensure a sturdy foundation. Our Concrete Blocks are ideal for various construction projects, offering ease of use and a reliable solution. Whether you're building walls, beams, or any other structure, these blocks, with a recommended beam size of 200, are your go-to option. Build with confidence and strength using our Concrete Blocks!",
+      "specification": "<table border='1'>  <tr>    <th>Type</th>    <td>Solid</td>  </tr>  <tr>    <th>Use</th>    <td>Construction</td>  </tr>  <tr>    <th>Built Type</th>    <td>Load-bearing</td>  </tr>  <tr>    <th>Unit Size</th    <td>16x8 in</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangular</td>  </tr>  <tr>    <th>Beam Size</th>    <td>200 mm</td>  </tr>  <tr>    <th>Panel Dimensions</th>    <td>4x2 ft</td>  </tr>  <tr>    <th>Thickness</th>    <td>8 in</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+      "image": ["/images/products99/60C5B40F8CB16A079D762CF599_1645428588031.jpeg",
+    "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-kcs0b302.avif",
+  "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-ldwdjkiv.avif",
+  "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-1hinlme2.avif",
+  "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-fs14evs6.jpg",
+  "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-gr369ix6.jpg",
+  "/images/products99/concrete-blocks-for-strong-and-versatile-construction-2164913522-bfdrq0hg.avif"]
+    },
+    {
+      "id": 293,
+      "name": "Rectangular Bricks Solid Blocks (Building Material)",
+      "details": "Introducing our Rectangular Bricks Solid Blocks, the perfect choice for your construction needs. These solid blocks are designed to provide exceptional strength and durability. With a thickness of 4 inches, they are ideal for load-bearing structures. The rectangular shape and panel dimensions of 2x1 ensure easy installation and a seamless finish. Each unit measures 8x4, offering a convenient size for construction projects. Made from high-quality materials, these blocks are built to withstand the test of time. Whether you're building walls, columns, or beams, our Rectangular Bricks Solid Blocks are the reliable choice for your construction requirements.",
+      "specification": "<table border='1'>  <tr>    <th>Type</th>    <td>Solid</td>  </tr>  <tr>    <th>Use</th>    <td>Construction</td>  </tr>  <tr>    <th>Built Type</th>    <td>Load-bearing</td>  </tr>  <tr>    <th>Unit Size</th    <td>8x4 in</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangular</td>  </tr>  <tr>    <th>Beam Size</th>    <td>200 mm</td>  </tr>  <tr>    <th>Panel Dimensions</th>    <td>2x1 ft</td>  </tr>  <tr>    <th>Thickness</th>    <td>4 in</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+      "image": ["/images/products99/rectangle_bricks.jpg",
+    "/images/products99/rectangle_bricks1.jpg",
+  "/images/products99/rectangle_bricks2.avif",
+  "/images/products99/rectangle_bricks3.avif"]
+    },
+    {
+      "id": 294,
+      "name": "Concrete Solid Re Blocks, For Side Walls",
+      "details": "Introducing our Concrete Solid Re Blocks, the perfect choice for side walls in Indian homes. These rectangular blocks have a solid construction with a thickness of 8 units. Designed to withstand heavy loads, they are reinforced for added strength and durability. With panel dimensions of 4x2 units and a unit size of 16x8, these blocks are easy to handle and install. Whether you're constructing a new wall or renovating an existing one, our Concrete Solid Re Blocks offer the ideal solution. Trust in their reliable performance and make your walls stand the test of time.",
+      "specification": "<table border='1'>  <tr>    <th>Type</th>    <td>Solid</td>  </tr>  <tr>    <th>Use</th>    <td>side walls</td>  </tr>  <tr>    <th>Built Type</th>    <td>reinforced</td>  </tr>  <tr>    <th>Unit Size</th    <td>16x8 in</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangular</td>  </tr>  <tr>    <th>Beam Size</th>    <td>200 mm</td>  </tr>  <tr>    <th>Panel Dimensions</th>    <td>4x2 ft</td>  </tr>  <tr>    <th>Thickness</th>    <td>8 in</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+      "image": ["/images/products99/concrete_solid1.jpg",
+    "/images/products99/concrete_solid2.avif",
+  "/images/products99/concrete_solid3.jpg"]
+    },
+    {
+      "id": 321,
+      "name": "Concrete Drain Cover (Sturdy Concrete Material)",
+      "details": "Introducing our Concrete Drain Cover, crafted with utmost precision using sturdy concrete material. This durable product serves as the perfect solution for protecting drains from debris and ensuring efficient water flow. Its robust construction guarantees long-lasting performance, withstanding heavy loads and resisting wear and tear. Designed with practicality in mind, the drain cover seamlessly blends into any outdoor environment, offering a seamless appearance. Its easy installation process allows for hassle-free maintenance, saving you time and effort. Invest in our Concrete Drain Cover today and experience its exceptional quality, reliability, and functionality. Enhance the drainage system of your property with this top-notch product.",
+      "image": ["/images/products99/concrete_drain_cover1.jpg",
+    "/images/products99/concrete_drain_cover2.avif",
+  "/images/products99/concrete_drain_cover3.avif",
+  "/images/products99/concrete_drain_cover4.jpg"]
+    },
+    {
+      "id": 331,
+      "name": "Concrete Zig-Zag Paver Block (Decorative Zig-Zag Paving Block)",
+      "details": "Introducing our Concrete Zig-Zag Paver Block, the perfect solution for all your decorative paving needs. Made from durable concrete material, these blocks are built to withstand the test of time. With a thickness of 60 mm and a size of 200x200 mm, they are ideal for creating stunning zig-zag patterns that add a touch of elegance to any outdoor space. Whether you're revamping your garden or enhancing your patio, these paver blocks are versatile and easy to install. Transform your surroundings with our high-quality Concrete Zig-Zag Paver Blocks today and enjoy a beautiful, long-lasting finish.",
+      "specification":"<table border='1' >  <tr>    <th>Size</th>    <td>200x200</td>  </tr>  <tr>    <th>Use</th>    <td>Decorative Paving</td>  </tr>  <tr>    <th>Thickness</th>    <td>60 mm</td>  </tr>  <tr>    <th>Material</th>    <td>Concrete</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+      "image": ["/images/products99/concrete_zigzag.jpg"]
+    },
+    {
+      "id": 332,
+      "name": "Concrete Paver Colour, Vibrant Color Selection",
+      "details": "Introducing our Concrete Paver Colour collection, a stunning range of vibrant colors that will transform any outdoor space into a visual masterpiece. Crafted with precision and durability in mind, these pavers are perfect for driveways, walkways, and patios. With a wide selection of hues to choose from, you can create a unique and personalized design that complements your home's architecture. Our Concrete Paver Colour collection not only adds aesthetic charm but also offers exceptional strength and resistance to harsh weather conditions. Give your outdoor area a vibrant makeover with our versatile and long-lasting concrete pavers today.",
+      "image": ["/images/products99/concrete_paver1.jpg",
+    "/images/products99/concrete_paver2.avif",
+  "/images/products99/concrete_paver3.avif",
+  "/images/products99/concrete_paver4.avif"]
+    },
+    {
+      "id": 333,
+      "name": "20.01 Grey Brick Modern Grey Hue",
+      "details": "Introducing the 20.01 Grey Brick Modern Grey Hue, a versatile and stylish addition to any home. This high-quality brick offers a contemporary touch with its sleek grey hue, making it perfect for modern interiors. Crafted with attention to detail, the 20.01 Grey Brick features a smooth texture and precise dimensions, ensuring easy installation and a seamless finish. Whether used as a focal point or as an accent, this brick adds depth and sophistication to any space. Its durable construction guarantees longevity, while its neutral color allows for endless design possibilities. Elevate your home decor with the 20.01 Grey Brick Modern Grey Hue.",
+      "image": ["/images/products99/grey_brick1.jpg",
+      "/images/products99/grey_brick2.avif",
+      "/images/products99/grey_brick3.avif",
+      "/images/products99/grey_brick4.avif",
+      "/images/products99/grey_brick5.avif",
+      "/images/products99/grey_brick6.jpg"
+    ]
+    },
+    {
+      "id": 334,
+      "name": "Precast Concrete Paver - Durable Paving Material, 80 N/mm Compressive Strength",
+      "details": "Introducing our Concrete Paver Material, the ultimate solution for durable and long-lasting paving projects. Crafted with precision, this high-quality product ensures superior strength and resilience, making it perfect for both residential and commercial applications. Constructed from top-grade materials, our Concrete Paver Material guarantees exceptional durability, capable of withstanding heavy foot traffic and harsh weather conditions. Its interlocking design allows for easy installation, ensuring a seamless and secure surface. Whether you're revamping your patio, walkway, or driveway, our Concrete Paver Material offers unparalleled reliability and aesthetic appeal. Invest in this reliable paving solution and create a stunning outdoor space that will stand the test of time.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Compressive Strength</th>    <td>80 N/mm²</td>  </tr></table>",
+      "image": ["/images/products99/brick1.jpg",
+    "/images/products99/brick2.avif",
+  "/images/products99/brick3.avif",
+  "/images/products99/brick4.jpg"]
+    },
+    {
+      "id": 341,
+      "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+      "details": "Introducing our Grass Paver - Rubber Mould, the perfect environmentally friendly paving solution for your outdoor spaces. Made from high-quality rubber, this innovative product allows grass to grow through its permeable design, blending seamlessly with the surrounding landscape. Our Grass Paver provides excellent stability and durability, making it ideal for driveways, walkways, and parking areas. It effectively reduces soil erosion and stormwater runoff while enhancing the aesthetic appeal of your property. Easy to install and maintain, this eco-friendly alternative is a sustainable choice that promotes a greener environment. Upgrade your outdoor spaces with our Grass Paver - Rubber Mould and enjoy a beautiful, sustainable, and long-lasting paving solution.",
+      "image": ["/images/products99/grass_paver1.jpg",
+      "/images/products99/grass_paver2.avif",
+      "/images/products99/grass_paver3.avif",
+      "/images/products99/grass_paver4.avif"
+    ]
+    }
    
-  },
-  {
-    "id": 171,
-    "name": "Outdoor Kerb Stone for Functional and Aesthetic Landscaping",
-    "details": "Introducing our Outdoor Kerb Stone, the perfect solution for both functional and aesthetic landscaping projects. Crafted with durability in mind, these kerb stones are designed to withstand the elements, ensuring long-lasting performance. Whether you're defining pathways, creating borders, or constructing retaining walls, our kerb stones provide a sturdy and reliable solution. Available in a range of sizes and colors, they can seamlessly blend into any outdoor environment, enhancing the overall appeal of your landscape. With their versatility and timeless design, our Outdoor Kerb Stones are an essential addition to any landscaping project, offering both practicality and beauty. Transform your outdoor space today!",
-    "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <th>India<th>  </tr>",
-     "image": ["/images/products99/stone1.avif",
-     "/images/products99/stone2.avif",
-     "/images/products99/stone3.avif",
-     "/images/products99/stone4.avif"
-    ]
-  },
-  {
-    "id": 181,
-    "name": "Window Ventilator Grill (louver type) - Adjustable Airflow",
-    "details": "Introducing our Adjustable Louver Window Ventilator, designed to enhance airflow and ventilation in your space. Made of high-quality Stainless Steel with a sleek Chrome Plated finish, this Window Ventilator Grill is both durable and stylish. With a size of 12x6 inches, it fits perfectly in most windows. The adjustable louvers allow you to control the airflow according to your needs, ensuring maximum comfort. Whether you want to bring in fresh air or expel stale odors, this Window Ventilator Grill is the perfect solution. Improve the air quality in your home or office with this easy-to-install and user-friendly product.",
-    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Adjustable Louver Window Ventilator</td>  </tr>  <tr>    <th>Size</th>    <td>12x6 (in inches)</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>  <tr>    <th>Use</th>    <td>Improving Airflow and Ventilation</td>  </tr>  <tr>    <th>Finish</th>    <td>Chrome Plated</td>  </tr>  <tr>    <th>Material</th>    <td>Stainless Steel</td>  </tr></table>",
-     "image": ["/images/products99/window_ventilator_grill.jpg"]
-  },
-  {
-    "id": 191,
-    "name": "Gutter Slab(light duty) 40*50*5 CM",
-   "image": ["/images/products99/gutter_slab.avif"]
-  },
-  {
-    "id": 192,
-    "name": "Gutter Slab (Heavy Duty) (Robust Heavy-Duty Design)",
-    "details": "Introducing our Heavy Duty Gutter Slab, a reliable solution for all your gutter installation needs. Crafted with a robust heavy-duty design, this product ensures durability and longevity. Made from high-quality materials, our Gutter Slab guarantees exceptional strength to withstand heavy rainfall and debris. Its heavy-duty construction ensures stability, preventing any damage or sagging over time. Easy to install and maintain, this product is perfect for both residential and commercial applications. With its heavy-duty design, it provides reliable protection against water damage, ensuring a well-maintained and efficient gutter system. Upgrade to our Heavy Duty Gutter Slab and experience unparalleled performance and longevity.",
-   "specification":"<table border='1' >  <tr>    <th>Type</th>    <th>heavy duty<th>  </tr>",
-    "image": ["/images/products99/gutter_slab.avif",
-  "/images/products99/gutter_slab1.avif",
-"/images/products99/gutter_slab2.avif",
-"/images/products99/gutter_slab3.avif"]
-  },
-  {
-    "id": 221,
-    "name": "Exterior Cement Compound Grill (Outdoor Durability)",
-    "details": "Introducing our Exterior Cement Compound Grill, the perfect solution for adding style and durability to your outdoor spaces. Crafted with high-quality stainless steel, this Compound Grill withstands tough weather conditions, ensuring long-lasting performance. Its superior construction makes it an ideal choice for exterior applications. Enhance the aesthetics of your outdoor area while enjoying the benefits of a sturdy and reliable grill. Designed to withstand the elements, this grill is perfect for Indian climates. Upgrade your outdoor living spaces with our durable and stylish Exterior Cement Compound Grill, and enjoy countless gatherings and moments of culinary delight.",
-    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Compound Grill</td>  </tr>  <tr>    <th>Position<th>    <td>Exterior</td>  </tr>  <tr>    <th>Material</th>    <td>Stainless Steel</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
-    "image": ["/images/products99/grill1.avif"]
-  },
-  {
-    "id": 222,
-    "name": "ACC Block - 4' Lightweight Construction Block ",
-    "details": "Introducing the ACC Block - 4' Lightweight Construction Block, the perfect solution for your construction needs. With its lightweight design, this block offers ease of handling and transportation, ensuring a seamless building process. Crafted with precision, the ACC Block guarantees exceptional strength and durability, providing a sturdy foundation for your structures. Its unique composition promotes energy efficiency, effectively reducing heat transfer and enhancing insulation properties. This versatile block is ideal for various applications, including walls, partitions, and more. Trust in the ACC Block - 4' Lightweight Construction Block to deliver superior performance and reliability, making it the go-to choice for construction professionals and DIY enthusiasts alike.",
-    "image": ["/images/products99/grill2.jpg",
-              "/images/products99/grill21.avif",
-              "/images/products99/grill22.avif",
-              "/images/products99/grill23.avif"
-              ]
-  },
-  {
-    "id": 223,
-    "name": "Compound Grill 100X60cm - Outdoor Grilling Equipment",
-    "details": "Introducing the Compound Grill 100X60cm - your ultimate outdoor grilling equipment for memorable cookouts! Crafted with precision, this grill offers a generous 100X60cm cooking surface, providing ample space to prepare delicious meals for your family and friends. Its sturdy construction ensures durability and longevity, while the adjustable height feature allows you to customize your grilling experience. The Compound Grill's innovative design promotes even heat distribution, resulting in perfectly grilled meats and vegetables every time. Whether you're hosting a backyard barbecue or camping in the great outdoors, this grill is your go-to companion for mouthwatering culinary adventures. Upgrade your grilling game today!",
-    "image": ["/images/products99/grill3.jpg",
-"/images/products99/grill31.avif",
-"/images/products99/grill32.avif",
-"/images/products99/grill33.avif",
-"/images/products99/grill34.avif",
-"/images/products99/grill35.avif"
-]
-  },
-  {
-    "id": 224,
-    "name": "Spacious Compound Grill (100X135cm) (Security Feature)",
-    "details": "Introducing our Spacious Compound Grill (100X135cm) - the perfect outdoor cooking companion for your next gathering. Crafted with durability in mind, this grill offers ample space to cook delicious meals for family and friends. Its generous dimensions of 100X135cm provide enough room to grill multiple items simultaneously, saving you time and effort. Designed with convenience in mind, it features adjustable temperature control and a sturdy construction that ensures even heat distribution for perfectly cooked dishes. Whether you're hosting a backyard barbecue or enjoying a day at the park, our Spacious Compound Grill is your go-to solution for mouthwatering grilled delicacies.",
-    "image": ["/images/products99/grill4.jpg",
-  "/images/products99/grill41.jpg",
-"/images/products99/grill41.avif",
-"/images/products99/grill42.avif",
-"/images/products99/grill43.avif",
-"/images/products99/grill44.avif"]
-  },
-  {
-    "id": 225,
-    "name": "ACC Block - 8' Aerated Concrete Block",
-    "details": "Introducing the ACC Block - 8' Aerated Concrete Block, a versatile and sustainable building material perfect for your construction needs. Crafted with precision, this lightweight block offers exceptional strength and thermal insulation properties. Its aerated structure ensures excellent sound absorption, making it ideal for noise reduction in residential and commercial spaces. The 8' size provides ample coverage, reducing installation time and costs. With its eco-friendly composition, the ACC Block promotes energy efficiency and reduces carbon footprint. Whether you're constructing walls, partitions, or flooring, trust the ACC Block to deliver durability, efficiency, and sustainability for your building projects. Choose quality, choose the ACC Block - 8' Aerated Concrete Block.",
-    "image": ["/images/products99/grill5.jpg",
-    "/images/products99/grill51.jpg",
-    "/images/products99/grill52.jpg",
-    "/images/products99/grill53.jpg"
   ]
-  },
-  {
-    "id": 226,
-    "name": "Charcoal BBQ Grill for Outdoor Cooking Enthusiasts",
-    "details": "Introducing our Charcoal BBQ Grill, designed for outdoor cooking enthusiasts who crave an authentic grilling experience. Crafted with premium materials, this grill combines durability and functionality, ensuring optimal performance for years to come. Its spacious cooking surface allows you to prepare delicious meals for family gatherings or backyard parties effortlessly. The charcoal-powered design infuses your food with that unmistakable smoky flavor, taking your grilling game to the next level. Featuring adjustable vents for temperature control and a removable ash catcher for easy cleanup, this BBQ grill offers convenience without compromising on taste. Elevate your outdoor cooking adventures with our Charcoal BBQ Grill today!",
-    "image": ["/images/products99/grill6.jpg",
-  "/images/products99/grill61.avif",
-"/images/products99/grill62.avif",
-"/images/products99/grill63.avif"]
-  },
-  {
-    "id": 227,
-    "name": "Stylish Grill Compound Stylish Compound Grilling (Security Feature)",
-    "details": "Introducing the Grill Compound Stylish Compound Grilling, the ultimate solution for all grilling enthusiasts. Crafted with precision and style, this innovative product takes your grilling experience to new heights. Its unique compound design allows for efficient heat distribution, ensuring perfectly grilled meals every time. The stylish exterior adds a touch of elegance to your outdoor space, making it an eye-catching addition to any backyard or patio. With adjustable temperature control and a spacious cooking surface, this grill compound offers versatility for cooking a variety of dishes. Elevate your grilling game with the Grill Compound Stylish Compound Grilling and enjoy unforgettable moments with family and friends.",
-    "image": ["/images/products99/grill7.jpg",
-  "/images/products99/grill71.jpg",
-  "/images/products99/grill72.avif",
-  "/images/products99/grill73.avif",
-  "/images/products99/grill74.jpg"
-]
-  },
-  {
-    "id": 231,
-    "name": "Versatile Blocks for Construction Multipurpose Building Units",
-    "details": "Introducing our Versatile Blocks for Construction, the ultimate solution for all your building needs. Crafted with precision and durability in mind, these blocks are designed to provide exceptional strength and flexibility. Whether you're constructing walls, foundations, or even intricate architectural designs, our blocks offer unmatched adaptability. Made from high-quality materials, they ensure long-lasting performance in any weather condition. With their interlocking design, installation becomes a breeze, saving you time and effort. The versatility of these blocks allows for endless possibilities, making them a must-have for both professional builders and DIY enthusiasts. Transform your construction projects with our Versatile Blocks today!",
-    "image": ["/images/products99/Block1.jpg",
-  "/images/products99/Block2.avif",
-"/images/products99/Block3.avif",
-"/images/products99/Block4.jpg",
-"/images/products99/Block5.avif",
-"/images/products99/Block6.jpg"]
-  },
-  {
-    "id": 241,
-    "name": "Concrete Manhole Cover",
-    "details": "Introducing our high-quality Chember Cover with Frames, the ultimate accessory for efficient drainage systems. Crafted with precision, this product ensures optimal functionality and durability. The sturdy frames provide exceptional support, preventing any damage or distortion. Made from premium materials, our Chember Cover guarantees long-lasting performance, even in harsh weather conditions. Its sleek design seamlessly blends with any surroundings, making it an ideal choice for both residential and commercial settings. With easy installation and maintenance, this accessory simplifies the cleaning process, saving you valuable time and effort. Invest in our Chember Cover with Frames today, and experience hassle-free drainage like never before.",
-    "image": ["/images/products99/concrete_manhole1.jpg",
-    "/images/products99/oncrete_manhole2.avif",
-    "/images/products99/oncrete_manhole3.avif"]
-  },
-  {
-    "id": 251,
-    "name": "Construction Bricks Material - Building Component Material",
-    "details": "Introducing our high-quality Construction Bricks Material, the ultimate building component material for all your construction needs. Crafted with precision and durability in mind, these bricks are designed to withstand the test of time and provide a solid foundation for any structure. Made from top-grade materials, our construction bricks offer exceptional strength and resilience, ensuring long-lasting performance. With their uniform size and shape, they allow for easy installation, saving you time and effort. Whether you're constructing a residential or commercial project, our Construction Bricks Material guarantees excellent structural integrity and aesthetic appeal. Trust in our product to lay the groundwork for your construction success.",
-    "image": ["/images/products99/brick1.jpg",
-  "/images/products99/brick2.avif",
-"/images/products99/brick3.avif",
-"/images/products99/brick4.avif",
-"/images/products99/brick5.avif",
-"/images/products99/brick6.avif"]
-  },
-  {
-    "id": 261,
-    "name": "White Compound Grill for Elegant Fencing",
-    "details": "Introducing our White Compound Grill, the perfect addition to create an elegant and sophisticated fencing solution. Crafted with precision, this grill combines durability and style, making it an ideal choice for both residential and commercial properties. Its white color adds a touch of elegance, seamlessly blending with any architectural design. Constructed with high-quality materials, this compound grill is built to withstand the test of time, ensuring long-lasting performance. Easy to install and maintain, it offers a secure and visually appealing solution for enhancing privacy and security. Upgrade your fencing with our White Compound Grill and elevate the aesthetic appeal of your property.",
-    "image": ["/images/products99/compound_grill.jpg",
-    "/images/products99/compound_gril1.avif",
-    "/images/products99/compound_gril2.avif",
-    "/images/products99/compound_gril3.avif"
-  ]
-  },
-  {
-    "id": 262,
-    "name": "Ornate Design Compound Grills for Aesthetic Appeal",
-    "details": "Introducing our Ornate Design Compound Grills, the perfect addition to enhance the aesthetic appeal of any space. Crafted with utmost precision, these grills feature an intricate and ornate design that effortlessly blends elegance and functionality. Made from high-quality materials, our compound grills are built to last, offering durability and longevity. Whether you're looking to elevate the look of your home or commercial establishment, these grills are sure to make a statement. With their exquisite detailing and unique patterns, they add a touch of sophistication and charm to any setting. Upgrade your space with our Ornate Design Compound Grills and experience the epitome of beauty and style.",
-    "image": ["/images/products99/compound_grill2.avif",
-  "/images/products99/compound_grill21.avif",
-"/images/products99/compound_grill22.avif",
-"/images/products99/compound_grill23.avif",
-"/images/products99/compound_grill24.avif",
-"/images/products99/compound_grill25.avif",
-"/images/products99/compound_grill26.avif"]
-  },
-  {
-    "id": 271,
-    "name": "Concrete Drain Cover Slab (Robust Drainage Solution)",
-    "details": "Introducing our Concrete Drain Cover Slab, the ultimate solution for robust drainage needs. This precast concrete slab is specifically designed to withstand heavy loads and provide exceptional durability. With a compressive strength of 70 N/mm, it ensures long-lasting performance even in the harshest conditions. Its sturdy construction guarantees a reliable drainage solution, making it ideal for use in residential, commercial, and industrial settings. The Concrete Drain Cover Slab offers hassle-free installation and requires minimal maintenance, saving you time and effort. Invest in this high-quality product to ensure efficient drainage and peace of mind.",
-    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Country of Origin<th>    <td>India</td>  </tr>  <tr>    <th>Compressive Strength</th>    <td>70 N/mm</td>  </tr>  </table>",
-    "image": ["/images/products99/concrete_drain1.avif"]
-  },
-  {
-    "id": 272,
-    "name": "Concrete Door Frames for Durable and Stable Door Installations",
-    "details": "Introducing our durable and stable Concrete Door Frames, specifically designed for indoor use. With a height of 2100mm, these frames are perfect for standard door installations. Made from high-quality steel, they ensure long-lasting performance and excellent strength. With a rectangular shape and modern style, these frames effortlessly blend into any interior decor. Measuring 900mm in width and 2100mm in height, they perfectly accommodate most door sizes. Trust our Concrete Door Frames to provide stability and security to your doors, while adding a touch of contemporary elegance to your Indian home. Upgrade your door installations today!",
-    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Indoor</td>  </tr>  <tr>    <th>Size<th>    <td>900X2100 mm</td>  </tr>  <tr>    <th>Shape</th>    <td>Rectangle</td>  </tr>   <tr>    <th>Height</th>    <td>2100 mm</td>  </tr>     <tr>    <th>Material</th>    <td>Steel</td>  </tr>      <tr>    <th>Style</th>    <td>Modern</td>  </tr></table>",
-    "image": ["/images/products99/concrete_door1.avif",
-  "/images/products99/concrete_door2.avif",
-"/images/products99/concrete_door3.avif",
-"/images/products99/concrete_door4.avif",
-"/images/products99/concrete_door5.avif",
-"/images/products99/concrete_door6.jpg",
-"/images/products99/concrete_door7.avif"]
-  },
-  {
-    "id": 273,
-    "name": "Gray Concrete Door Frame, Size/Dimension: 7x4 Feet",
-    "details": "Introducing our Gray Concrete Door Frame, designed to enhance the aesthetics and durability of your space. Crafted with high-quality precast concrete, this door frame boasts a size of 7x4 feet, making it suitable for various door sizes. With a compressive strength of 70 N/mm, it ensures long-lasting stability and resistance against wear and tear. The gray color adds a modern touch to any interior or exterior design. Easy to install, this door frame is perfect for Indian homes and commercial spaces. Upgrade your doors with our reliable and cost-effective Gray Concrete Door Frame.",
-    "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Country of Origin<th>    <td>India</td>  </tr>  <tr>    <th>Compressive Strength</th>    <td>70 N/mm</td>  </tr>  </table>",
-    "image": ["/images/products99/gray_concreate_door.avif"]
-  },
-  {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
-  },
-  {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
-  },
-  {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
-  },
-  {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
-  },
-  {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
-  },
-  {
-    "id": 303,
-    "details": "Details of Product 3-3",
-    "image": ["/images/products99/product3-3.jpg"]
-  }
-]

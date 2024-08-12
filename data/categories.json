@@ -1,5 +1,206 @@
 [
   {
+    "id": 1,
+    "name": "Baluster",
+    "products": [
+      {
+        "id": 101,
+        "name": "Baluster",
+        "image": "/images/products99/cat1p1.avif"
+      },
+      {
+        "id": 102,
+        "name": "Baluster Molding Design, Ornamental Railing Design",
+       "image": "/images/products99/cat1p2.avif"
+      }
+      
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Precast Concrete",
+    "products": [
+      {
+        "id": 201,
+        "name": "Precast Concrete Baluster Railing (Durable Baluster)",
+        "image": "/images/products99/cat2p1.avif"
+      },
+      {
+        "id": 202,
+        "name": "Precast Drain Slabs for Efficient Drainage",
+      "image": "/images/products99/cat2p2.avif"
+      },
+      {
+        "id": 203,
+        "name": "Concrete Window Frame Mould Durable Frame Mold",
+       "image": "/images/products99/cat2p3.jpg"
+      },
+      {
+          "id":204,
+          "name": "Sturdy Precast Concrete Window Frame MouldSturdy Precast Concrete Window Frame Mould",
+          "image":"/images/products99/cat2p4.jpg"
+      },
+      {
+        "id": 205,
+        "name": "Classic Casement Aluminum Window Frames, Powder Coated, Customizable, 2.5in Thickness",
+       "image": "/images/products99/cat2p5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Interlocking Brick",
+    "products": [
+      {
+        "id": 301,
+        "name": "Interlocking Brick Design - Modular Building Material",
+        "image": "/images/products99/cat3p1.avif"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kerb Stone",
+    "products": [
+      {
+        "id": 401,
+        "name": "Kerb stone - Durable Kerb Stone",
+        "image": "/images/products99/cat4p1.avif"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "paver block",
+    "products": [
+      {
+        "id": 501,
+        "name": "I Shape Paver Block (Unique Pavement Design)",
+        "image": "/images/products99/cat5p1.jpg"
+      },
+      {
+        "id": 502,
+        "name": "Paver Block Red and Grey Durable Paving Block",
+      "image": "/images/products99/cat5p2.jpg"
+      },
+      {
+        "id": 503,
+        "name": "Ficus Brick Natural and Textured Wall Cladding",
+       "image": "/images/products99/cat5p3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kerbstone Rubber Mould",
+    "products": [
+      {
+        "id": 601,
+        "name": "Flexible Rubber Kerbstone Rubber Mould",
+        "image": "/images/products99/cat6p1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Paver Block Colours Mixer",
+    "products": [
+      {
+        "id": 701,
+        "name": "Paver Block Colours Mixer Vibrant Color Blending",
+        "image": "/images/products99/cat7p1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Planter",
+    "products": [
+      {
+        "id": 801,
+        "name": "Ferrocement Planters for Unique and Artistic Greenery",
+        "image": "/images/products99/cat8p1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "  RCC Door Frame",
+    "products": [
+      {
+        "id": 901,
+        "name": "Rectangular Cement RCC Door Frame (Sturdy Framework)",
+        "image": "/images/products99/cat9p1.avif"
+      },
+      {
+        "id": 902,
+        "name": "Paver Block Red and Grey Durable Paving Block",
+      "image": "/images/products99/cat9p2.jpg"
+      },
+      {
+        "id": 903,
+        "name": "RCC Door Frame for Sturdy Door Installations",
+       "image": "/images/products99/cat9p3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Grills",
+    "products": [
+      {
+        "id": 1001,
+        "name": "Staircase Ventilator Grill, Ventilation Fixture",
+        "image": "/images/products99/cat10p1.avif"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": " RCC Grill",
+    "products": [
+      {
+        "id": 1101,
+        "name": "Gray RCC Compound Grill (Sturdy Construction)",
+        "image": "/images/products99/cat11p1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Road Construction Machine",
+    "products": [
+      {
+        "id": 1201,
+        "name": "Smooth Transportation 2 Lane Asphalt Road Construction - 12ft Width, IRI < 95, 6-Month Timeline",
+        "image": "/images/products99/cat12p1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Royal Concrete Baluster",
+    "products": [
+      {
+        "id": 1301,
+        "name": "Royal Corinthian Baluster - Ornate and Durable Balustrade Element",
+        "image": "/images/products99/cat13p1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Rubber Paver Mould",
+    "products": [
+      {
+        "id": 1401,
+        "name": "Paver Blocks- Rubber Mould, Durable Paving Solution",
+        "image": "/images/products99/cat14p1.jpg"
+      }
+    ]
+  },
+  [
+  {
     "id": 16,
     "name": "SLAB",
     "products": [
@@ -265,6 +466,117 @@
         "image": "/images/products99/grass_paver1.jpg"
       }
     ] 
-  }
+  },
+  {
+    "id": 31,
+     "name": "Concrete Paver Block",
+     "products": [
+       {
+         "id": 351,
+         "name": "Concrete Paver Block for Durable Pavement Solutions",
+         "image": "/images/products99/concrete_paver_block.jpgg"
+       }
+     ] 
+   },
+   {
+    "id": 32,
+     "name": "Decorative Concrete",
+     "products": [
+       {
+         "id": 341,
+         "name": "Decorative Concrete Pillar Square for Aesthetic Landscaping",
+         "image": "/images/products99/decorative.avif"
+       }
+     ] 
+   },
+   {
+    "id": 33,
+     "name": "Decorative Glass Pillar",
+     "products": [
+       {
+         "id": 341,
+         "name": "Decorative Marble Pillar - Aesthetic and Sturdy Architectural Element",
+         "image": "/images/products99/decorative_marble1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   },
+   {
+    "id": 30,
+     "name": "Grass Paver",
+     "products": [
+       {
+         "id": 341,
+         "name": "Grass Paver- Rubber mould - Environmentally Friendly Paving Solution",
+         "image": "/images/products99/grass_paver1.jpg"
+       }
+     ] 
+   }
 
+  ]
 ]
