@@ -1,19 +1,19 @@
-import React from 'react';
+// import React from 'react';
 
-const ProductDetails = ({ product }) => {
-  if (!product) {
-    return <div>Select a product to see the details</div>;
-  }
+// const ProductDetails = ({ product }) => {
+//   if (!product) {
+//     return <div>Select a product to see the details</div>;
+//   }
 
 
-  return (
-    <div className="product-details">
-      <h2>{product.name}</h2>
+//   return (
+//     <div className="product-details">
+//       <h2>{product.name}</h2>
      
-      <p>{product.details}</p>
+//       <p>{product.details}</p>
       
-    </div>
-  );
-};
+//     </div>
+//   );
+// };
 
-export default ProductDetails;
+// export default ProductDetails;
