@@ -40,7 +40,7 @@ const SideMenu = ({ categories }) => {
             Categories
           </button>
           <div className={`dropdown-menu ${dropdownOpen ? 'show' : ''}`}>
-            {categories.slice(0, 20).map(category => (
+            {categories.slice(0, 39).map(category => (
               <button 
                 key={category.id} 
                 className="dropdown-item" 
@@ -52,8 +52,8 @@ const SideMenu = ({ categories }) => {
           </div>
         </div>
       ) : (
-        <ul style={{ maxHeight: '400px', overflowY: 'auto', padding: '0', margin: '0' }}>
-          {categories.slice(0, 20).map(category => (
+        <ul style={{ maxHeight: '900px', overflowY: 'auto', padding: '0', margin: '0' }}>
+          {categories.slice(0, 39).map(category => (
             <li 
               key={category.id} 
               onClick={() => handleCategoryClick(category.id)} 
