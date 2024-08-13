@@ -52,8 +52,8 @@ const SideMenu = ({ categories }) => {
           </div>
         </div>
       ) : (
-        <ul style={{ maxHeight: '1000px', overflowY: 'auto', padding: '0', margin: '0' }}>
-          {categories.slice(0, 40).map(category => (
+        <ul style={{ maxHeight: '900px', overflowY: 'auto', padding: '0', margin: '0' }}>
+          {categories.slice(0, 39).map(category => (
             <li 
               key={category.id} 
               onClick={() => handleCategoryClick(category.id)} 

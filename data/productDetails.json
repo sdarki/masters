@@ -2,6 +2,7 @@
   {
     "id": 101,
     "name":"Bluster",
+    "specification": "<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Railing Balusters</td>  </tr>  <tr>    <td>Surface Finish</td>    <td>Smooth</td>  </tr> <tr>    <td>Method</td>    <td>Casting</td>  </tr>  <tr>    <td>Size</td>    <td>1000x100x100 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Use</td>    <td>Decorative</td>  </tr>  <tr>    <td>Shape</td>    <td>Square</td>  </tr>  <tr>    <td>Height</td>    <td>36 in</td>  </tr>  <tr>    <td>Diameter</td>    <td>4 in</td>  </tr>  <tr>    <td>Thickness</td>    <td>20 mm</td>  </tr>  <tr>    <td>Mounting Type</td>    <td>Floor Mount</td>  </tr>  <tr>    <td>Density</td>    <td>2400 Kg/m³</td>  </tr>  <tr>    <td>Position</td>    <td>Balcony</td>  </tr>  <tr>    <td>Material Grade</td>    <td>A</td>  </tr>  <tr>    <td>Material</td>   <td>Concrete</td>  </tr>  <tr>    <td>Design</td>    <td>Traditional</td>  </tr>  <tr>   <td>Unit Height</td>    <td>3 in</td>  </tr>  <tr>    <td>Pattern</td>    <td>Floral</td>  </tr></table>",
     "details": "Introducing our Balcony White Concrete Balusters, the perfect addition to your balcony railing. Crafted with precision, these railing balusters boast a height of 36 inches, a diameter of 4 inches, and a thickness of 20 millimeters. Featuring a delightful floral pattern, these traditional design balusters are made from top-grade concrete material with a smooth surface finish. With a square shape and a density of 2400, these balusters are built to last. Measuring 1000x100x100 millimeters, they are ideal for floor mounting on your balcony. Enhance your space with these decorative balusters and add a touch of elegance to your home.",
     "image": [
       "/images/products99/cat1p1.avif"
@@ -11,34 +12,44 @@
   {
     "id": 102,
     "name":"Baluster Molding Design, Ornamental Railing Design",
+   
     "details": "Introducing our exquisite Baluster Molding Design, perfect for adding elegance and sophistication to any space. This ornamental railing design is crafted with meticulous attention to detail, ensuring a stunning visual impact. Made from high-quality materials, it boasts durability and longevity. The intricate patterns and intricate curves of the balusters create a timeless appeal that complements various architectural styles. Whether used for indoor or outdoor applications, this stunning design is sure to impress guests and enhance the overall aesthetic of your home or commercial space. Elevate your decor with our Baluster Molding Design and experience the beauty of fine craftsmanship.",
     "image":[
-
-      "/images/products99/cat1p2.avif"
+      "/images/products99/cat1p2.avif",
+      "/images/products99/c1p2a.avif",
+      "/images/products99/c1p2b.avif",
+      "/images/products99/c1p2c.avif"
     ]
   },
   
   {
     "id": 201,
     "name": "Precast Concrete Baluster Railing (Durable Baluster)",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Precast Concrete</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>india</td>  </tr> <tr>    <td>Compressive Strength</td>    <td>70 N/mm</td>  </tr>  </table>",
     "details": "Introducing our durable Precast Concrete Baluster Railing, designed to enhance the beauty and safety of your space. Crafted from high-quality precast concrete, this baluster showcases exceptional strength with a compressive strength of 70 N/mm. Whether you're looking to upgrade your home or commercial property, our baluster railing is a perfect choice. Its sturdy construction ensures long-lasting durability, making it ideal for withstanding the Indian climate and everyday wear and tear. With a simple yet elegant design, this precast concrete baluster railing will add a touch of sophistication to any outdoor or indoor setting. Elevate your space with this reliable and attractive baluster railing today.",
      "image":[
 
        "/images/products99/cat2p1.avif"
+      
      ]
   },
   {
     "id": 202,
     "name":"Precast Drain Slabs for Efficient Drainage",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Use</td>    <td>Wound Drainage</td>  </tr>  <tr>    <td>Wall Thickness</td>    <td>6.5 mm</td>  </tr> <tr>    <td>Material</td>    <td>Polyethylene</td>  </tr>  </table>",
     "details": "Introducing our high-quality precast drain slabs for efficient drainage. Made from durable polyethylene material, these slabs are built to last. With a wall thickness of 6.5, our drain slabs provide exceptional strength and reliability. Designed for wound drainage, they offer an effective solution for managing excess liquids. These drain slabs are perfect for various applications, ensuring smooth water flow and preventing waterlogging. Easy to install and maintain, they are ideal for both residential and commercial use. Invest in our precast drain slabs to achieve efficient drainage and keep your surroundings dry and clean. Experience hassle-free water management today!",
      "image":[
-       "/images/products99/cat2p2.avif"
+       "/images/products99/cat2p2.avif",
+       "/images/products99/c2p2a.avif",
+       "/images/products99/c2p2b.avif",
+       "/images/products99/c2p2c.avif"
        ]
       
   },
   {
     "id": 203,
     "name":"Concrete Window Frame Mould Durable Frame Mold",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Precast Concrete</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>india</td>  </tr> <tr>    <td>Compressive Strength</td>    <td>70 N/mm</td>  </tr>  </table>",
     "details": "Introducing our Concrete Window Frame Mould - a durable and reliable frame mold designed specifically for precast concrete windows. Crafted with precision, this mold ensures the production of high-quality window frames that are built to last. Made from premium materials, it guarantees durability and strength, making it an ideal choice for construction projects. With a compressive strength of 70 N/mm, this mold ensures the frames can withstand the test of time. Whether you are a contractor or a DIY enthusiast, our Concrete Window Frame Mould is a must-have tool to create sturdy and long-lasting window frames for your building needs.",
    "image": [
 
@@ -48,19 +59,24 @@
   {
     "id": 204,
     "name":"Sturdy Precast Concrete Window Frame Mould",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Precast Concrete</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>india</td>  </tr> <tr>    <td>Compressive Strength</td>    <td>80 N/mm</td>  </tr>  </table>",
     "details": "Introducing our Sturdy Precast Concrete Window Frame Mould, perfect for all your construction needs. Made with high-quality precast concrete, this mould ensures durability and longevity. With a compressive strength of 80 N/mm, it guarantees exceptional stability and resistance. Crafted with precision, this mould creates window frames that are strong and reliable, suitable for Indian construction standards. Its easy-to-use design allows for efficient installation, saving you time and effort. Whether for residential or commercial projects, this mould provides the perfect solution for creating robust and long-lasting window frames. Invest in our Sturdy Precast Concrete Window Frame Mould and experience the reliability and quality it offers.",
    "image":[
 
-     "public/images/products99/cat2p4.jpg"
+     "/images/products99/cat2p4.jpg"
    ]
   },
   {
     "id": 205,
     "name":"Classic Casement Aluminum Window Frames, Powder Coated, Customizable, 2.5in Thickness",
+    "specification": "<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Casement</td>  </tr>  <tr>    <td>Finish</td>    <td>Powder coated</td>  </tr> <tr>    <td> root</td>    <td>600 mm</td>  </tr>  <tr>    <td>Measurements</td>    <td>Customizable</td>  </tr>  <tr>    <td>Material Grade</td>    <td>IS 2062</td>  </tr>  <tr>    <td>Opening Pattern</td>    <td>Tilt and Turn</td>  </tr>  <tr>    <td>Frame Thickness</td>    <td>2.5 inches (In in) in</td>  </tr>  <tr>    <td>Material</td>    <td>Aluminum</td>  </tr>  <tr>    <td>Style</td>    <td>Classic</td>  </tr> </table>",
     "details": "Introducing our high-quality Precast Window Frames, designed for quick construction in India. Crafted with precision, these casement frames are made from durable aluminum material, ensuring strength and longevity. The powder coated finish adds a touch of elegance, perfectly complementing the classic style. With customizable measurements and a frame thickness of 2.5 inches, these frames can be tailored to your specific requirements. Built to the IS 2062 material grade standard, these frames offer exceptional reliability. The tilt and turn opening pattern provides versatility and ease of use. Invest in our Precast Window Frames with a root size of 600 mm for a sturdy and attractive window solution.",
    "image": [
 
-     "/images/products99/cat2p5.jpg"
+     "/images/products99/cat2p5.jpg",
+     "/images/products99/c2p5a.jpg",
+     "/images/products99/c2p5b.jpg",
+     "/images/products99/c2p5c.jpg"
    ]
   },
 
@@ -70,7 +86,10 @@
     "details": "Introducing our revolutionary Interlocking Brick Design, the ultimate modular building material for all your construction needs. With its innovative interlocking system, this product offers unmatched ease of installation, allowing you to create sturdy structures quickly and efficiently. Crafted from high-quality materials, these bricks are built to last, ensuring durability and longevity for your projects. Whether you're constructing a garden wall, pathway, or even a complete building, our Interlocking Brick Design provides endless possibilities. Its versatile nature allows for easy customization and adaptation to any design concept. Invest in this game-changing modular building material and experience the future of construction today.",
     "image": [
 
-      "/images/products99/cat3p1.avif"
+      "/images/products99/cat3p1.avif",
+      "/images/products99/c3p1a.avif",
+      "/images/products99/c3p1b.avif",
+      "/images/products99/c3p1c.avif"
     ]
   },
   {
@@ -79,15 +98,25 @@
     "details": "Introducing our Durable Kerb Stone, the ideal solution for enhancing the safety and aesthetics of your outdoor spaces. Crafted with utmost precision, this high-quality kerb stone is built to withstand the test of time. Made from durable materials, it offers exceptional strength and resilience, ensuring longevity and minimal maintenance. Its sleek design seamlessly blends with any landscape, providing a visually appealing solution for defining boundaries and preventing vehicle encroachment. Whether used in parking lots, driveways, or walkways, our Durable Kerb Stone guarantees reliable performance and utmost safety. Invest in this versatile and long-lasting kerb stone to elevate the look and functionality of your surroundings today!",
     "image": [
 
-      "/images/products99/cat4p1.avif"
+      "/images/products99/cat4p1.avif",
+    
+      "/images/products99/c4p1a.jpg",
+      "/images/products99/c4p1b.avif",
+      "/images/products99/c4p1c.jpg",
+    "/images/products99/c4p1d.jpg" 
     ]
   },
   {
     "id": 501,
     "name": "I Shape Paver Block (Unique Pavement Design)",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Concrete Block</td>  </tr>  <tr>    <td>Size</td>    <td>200x100x60 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Shape</td>    <td>Rectangle</td>  </tr>  <tr>    <td>Density</td>    <td>2200 kg/m3</td>  </tr>  <tr>    <td>Material</td>    <td>Cement</td>  </tr>  </table>",
+
     "details": "Introducing the I Shape Paver Block (Unique Pavement Design), a high-quality concrete block perfect for your paving needs. Made from durable cement material, these rectangular blocks measure 200x100x60 mm. With a density of 2200 kg/m3, these blocks are strong and reliable, ensuring long-lasting performance. The unique pavement design of these paver blocks adds a touch of elegance to any outdoor space. Whether you're looking to enhance your driveway, walkway, or patio, these I Shape Paver Blocks are the ideal choice. Create a beautiful and functional outdoor area with these versatile and sturdy blocks.",
      "image":[
-      "/images/products99/cat5p1.jpg"
+      "/images/products99/cat5p1.jpg",
+      "/images/products99/c5p1a.avif",
+      "/images/products99/c5p1b.avif",
+      "/images/products99/c5p1c.avif"
      ]
   },
   {
@@ -96,7 +125,10 @@
     "details": "Introducing our Red and Grey Durable Paving Block, the perfect choice for your outdoor spaces. Crafted with precision and designed to withstand the test of time, these Paver Blocks are built to last. The striking combination of red and grey adds a touch of elegance to any landscape. Made from high-quality materials, these blocks are highly durable, ensuring longevity and resistance to wear and tear. With their interlocking design, they provide excellent stability and ease of installation. Enhance the beauty of your driveways, pathways, or patio with our Red and Grey Durable Paving Block, delivering both style and functionality.",
      "image": [
 
-       "/images/products99/cat5p2.jpg"
+       "/images/products99/cat5p2.jpg",
+       "/images/products99/c5p2a.avif",
+       "/images/products99/c5p2b.avif",
+       "/images/products99/c5p2c.avif"
      ]
   },
   {
@@ -111,10 +143,14 @@
   {
     "id": 601,
     "name":"Flexible Rubber Kerbstone Rubber Mould",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Frequency Range</td>    <td>nan</td>  </tr>  <tr>    <td>Motor</td>    <td>nan</td>  </tr> <tr>    <td>Material</td>    <td>Rubber</td>  </tr>  </table>",
     "details": "Introducing our innovative Kerbstone-Rubber Mould, a flexible rubber mould designed to revolutionize your construction projects. Crafted with precision, this product guarantees high-quality results while saving time and effort. Made from durable rubber, it offers exceptional flexibility, ensuring easy demoulding without any damage. Our Kerbstone-Rubber Mould is ideal for creating a variety of kerbstones with intricate patterns and designs. Its versatility allows it to be used for both residential and commercial applications. With this mould, you can achieve consistent and professional-looking kerbstones effortlessly. Invest in our Kerbstone-Rubber Mould today and experience a seamless construction process with exceptional results.",
    "image": [
 
-     "/images/products99/cat6p1.jpg"
+     "/images/products99/cat6p1.jpg",
+      "/images/products99/c6p1a.avif",
+      "/images/products99/c6p1b.avif",
+      "/images/products99/c6p1c.avif"
    ]
   },
   {
@@ -129,17 +165,24 @@
   {
     "id": 801,
     "name":"Ferrocement Planters for Unique and Artistic Greenery",
+    "specification":"<table border='1' >  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr>   </table>",
     "details": " Introducing our Ferrocement Planters, the perfect addition to your space for creating a unique and artistic greenery display. Crafted with precision, these planters are made from a blend of cement and steel mesh, ensuring durability and longevity. With their sleek and contemporary design, they effortlessly enhance any indoor or outdoor area. These planters are not only visually appealing, but also practical, as they provide excellent drainage and insulation for your plants. Whether you're a gardening enthusiast or a design lover, our Ferrocement Planters are a must-have to showcase your green thumb and elevate the aesthetics of your surroundings.",
    "image": 
    [
      
-     "/images/products99/cat8p1.jpg"
+     "/images/products99/cat8p1.jpg",
+     "/images/products99/c8p1a.avif",
+     "/images/products99/c8p1b.avif",
+     "/images/products99/c8p1c.avif.crdownload",
+      "/images/products99/c8p1d.avif"
   ]
     
   },
   {
     "id": 901,
     "name": "Rectangular Cement RCC Door Frame (Sturdy Framework)",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Indoor</td>  </tr>  <tr>    <td>Size</td>    <td>900x2100 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Shape</td>    <td>Rectangle</td>  </tr>  <tr>    <td>Height</td>    <td>2100 mm</td>  </tr>  <tr>    <td>Material</td>    <td>Cement</td>  </tr>  <tr>    <td>Style</td>    <td>Modern</td>  </tr>  </table>",
+
     "details": "Introducing our Rectangular Cement RCC Door Frame (Sturdy Framework), perfect for indoor use. With a height of 2100mm and a size of 900x2100mm, this modern-style door frame is built to impress. Crafted from durable cement, it guarantees longevity and strength. Its rectangular shape adds a touch of elegance to any space. Whether it's for your home or office, this sturdy door frame is designed to withstand everyday wear and tear. Upgrade your interiors with this reliable and stylish door frame that complements Indian homes effortlessly.",
      "image":  [
 
@@ -149,16 +192,32 @@
   {
     "id": 902,
     "name":"Vertical RCC Concrete Door Frame Sturdy Concrete Frame",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Indoor</td>  </tr>  <tr>    <td>Size</td>    <td>900x2100 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Shape</td>    <td>Rectangle</td>  </tr>  <tr>    <td>Height</td>    <td>2100 mm</td>  </tr>  <tr>    <td>Material</td>    <td>Concrete</td>  </tr>  <tr>    <td>Style</td>    <td>Modern</td>  </tr>  </table>",
+
     "details": "Introducing our Vertical RCC Concrete Door Frame, a sturdy and reliable addition to any indoor space. With a height of 2100mm, this rectangular concrete frame is designed to fit doors measuring 900x2100mm. Crafted from high-quality concrete material, it ensures durability and long-lasting performance. The modern style of this door frame adds a touch of elegance to your home or office decor. Its strong construction guarantees enhanced security and stability. Upgrade your interiors with this robust and stylish concrete door frame, perfect for Indian households. Experience the perfect blend of functionality and contemporary design today.",
-     "image": "/images/products99/cat9p2.jpg"
+     "image": [
+
+       "/images/products99/cat9p2.jpg",
+        "/images/products99/c9p2a.avif",
+         "/images/products99/c9p2b.avif"
+     ]
+     
   },
   {
     "id": 903,
     "name":"RCC Door Frame for Sturdy Door Installations",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Indoor</td>  </tr>  <tr>    <td>Size</td>    <td>900x2100 mm</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Shape</td>    <td>Rectangle</td>  </tr>  <tr>    <td>Height</td>    <td>2100 mm</td>  </tr>  <tr>    <td>Material</td>    <td>Concrete</td>  </tr>  <tr>    <td>Style</td>    <td>Modern</td>  </tr>  </table>",  
+
     "details": "Introducing our high-quality RCC Door Frame, designed for sturdy door installations. With a height of 2100mm, it is perfect for indoor use. Crafted from durable steel material, this rectangular frame measures 900mm in width and 2100mm in height, ensuring a precise fit for your doors. Its modern style adds a touch of elegance to any interior decor. Built to last, this RCC Door Frame provides exceptional strength and security. Give your home or office a reliable and aesthetically pleasing door installation with our top-notch RCC Door Frame. Upgrade your space today with this must-have product!",
    "image": [
 
-     "/images/products99/cat9p3.jpg"
+     "/images/products99/cat9p3.jpg",
+      "/images/products99/c9p3a.avif",
+       "/images/products99/c9p3b.jpg",
+        "/images/products99/c9p3c.avif",
+         "/images/products99/c9p3d.avif"
+          
+     
    ]
   },
   {
@@ -173,15 +232,21 @@
   {
     "id": 1101,
     "name":"Gray RCC Compound Grill (Sturdy Construction)",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Type</td>    <td>Compound Grill</td>  </tr>  <tr>    <td>Country of Origin</td>    <td>India</td>  </tr>  <tr>    <td>Position</td>    <td>Exterior</td>  </tr>  <tr>    <td>Material</td>    <td>Stainless Steel</td>  </tr>  </table>"
+,
     "details": "Introducing the Gray RCC Compound Grill, a robust and reliable exterior accessory for your home. Crafted with high-quality stainless steel, this compound grill ensures durability and long-lasting performance. Its sturdy construction guarantees strength and stability, making it perfect for enhancing the security of your property. Designed to withstand the harsh Indian weather conditions, this grill is capable of protecting your premises without compromising on aesthetics. With its sleek gray finish, it seamlessly blends into any exterior setting. Upgrade your home's security and add a touch of elegance with the Gray RCC Compound Grill, an essential addition to your property.",
    "image":[
 
-     "/images/products99/cat11p1.jpg"
+     "/images/products99/cat11p1.jpg",
+      "/images/products99/c11p1a.avif",
+       "/images/products99/c11p1b.avif"
    ]
   },
   {
     "id": 1201,
     "name":"Smooth Transportation 2 Lane Asphalt Road Construction - 12ft Width, IRI < 95, 6-Month Timeline",
+    "specification":"<table border='1'>  <tr>    <th>Specification</th>    <th>Details</th>  </tr>  <tr>    <td>Pavement Material</td>    <td>Asphalt</td>  </tr>  <tr>    <td>Surface Smoothness</td>    <td>International Roughness Index (IRI) < 95</td>  </tr>  <tr>    <td>Construction Timeframe</td>    <td>6 months</td>  </tr>  <tr>    <td>Traffic Management Plan</td>    <td>Yes</td>  </tr>  <tr>    <td>Lane Width</td>    <td>12 feet</td>  </tr>  </table>"
+,
     "details": "Introducing our top-notch 2 Lane Road Construction Services, designed to ensure smooth and hassle-free transportation. With our team of skilled professionals and cutting-edge technology, we deliver high-quality roads that withstand heavy traffic and adverse weather conditions. Our construction process focuses on durability, sustainability, and efficiency, resulting in long-lasting roads that require minimal maintenance. Whether it's a highway, urban road, or rural lane, our services guarantee improved traffic flow and reduced congestion. Experience the difference with our seamless construction techniques, meticulous planning, and timely project completion. Trust our 2 Lane Road Construction Services for a safer, smoother, and more enjoyable transportation experience. Contact us today to discuss your road construction needs. ",
    "image":[
 
@@ -194,7 +259,10 @@
     "details": "Introducing the Royal Corinthian Baluster, an exquisite and long-lasting balustrade element that effortlessly combines ornate design with exceptional durability. Crafted with meticulous attention to detail, this baluster is sure to elevate the aesthetic appeal of any space. Its regal Corinthian style features intricate patterns and delicate curves, adding a touch of elegance to your home or outdoor area. Made from high-quality materials, this baluster is built to withstand the test of time, ensuring years of reliable use. Whether used in staircases, balconies, or gardens, the Royal Corinthian Baluster is the perfect choice for those seeking a sophisticated and resilient balustrade solution.",
    "image": [
 
-     "/images/products99/cat13p1.jpg"
+     "/images/products99/cat13p1.jpg",
+      "/images/products99/c13p1a.avif",
+       "/images/products99/c13p1b.avif"
+
    ]
   },
   {
@@ -204,35 +272,9 @@
    "image": 
    [
 
-     "/images/products99/cat14p1.jpg "
-   ]
-  },
-  {
-    "id": 1501,
-    "name": "Gutter slabs (heavy Duty)",
-    "details": "Introducing our Rectangular Cement RCC Door Frame (Sturdy Framework), perfect for indoor use. With a height of 2100mm and a size of 900x2100mm, this modern-style door frame is built to impress. Crafted from durable cement, it guarantees longevity and strength. Its rectangular shape adds a touch of elegance to any space. Whether it's for your home or office, this sturdy door frame is designed to withstand everyday wear and tear. Upgrade your interiors with this reliable and stylish door frame that complements Indian homes effortlessly.",
-     "image": [
-
-       "/images/products99/cat9p1.avif.crdownload"
-     ]
-  },
-  {
-    "id": 1502,
-    "name":"Vertical RCC Concrete Door Frame Sturdy Concrete Frame",
-    "details": "Introducing our Vertical RCC Concrete Door Frame, a sturdy and reliable addition to any indoor space. With a height of 2100mm, this rectangular concrete frame is designed to fit doors measuring 900x2100mm. Crafted from high-quality concrete material, it ensures durability and long-lasting performance. The modern style of this door frame adds a touch of elegance to your home or office decor. Its strong construction guarantees enhanced security and stability. Upgrade your interiors with this robust and stylish concrete door frame, perfect for Indian households. Experience the perfect blend of functionality and contemporary design today.",
-     "image": [
-
-       "/images/products99/cat9p2.avif"
-     ]
-  },
-  {
-    "id": 1503,
-    "name":"RCC Door Frame for Sturdy Door Installations",
-    "details": "Introducing our high-quality RCC Door Frame, designed for sturdy door installations. With a height of 2100mm, it is perfect for indoor use. Crafted from durable steel material, this rectangular frame measures 900mm in width and 2100mm in height, ensuring a precise fit for your doors. Its modern style adds a touch of elegance to any interior decor. Built to last, this RCC Door Frame provides exceptional strength and security. Give your home or office a reliable and aesthetically pleasing door installation with our top-notch RCC Door Frame. Upgrade your space today with this must-have product!",
-  
-    "image": [
-
-     "/images/products99/cat9p3.avif"
+     "/images/products99/cat14p1.jpg ",
+      "/images/products99/c14p1a.avif",
+       "/images/products99/c14p1b.avif"
    ]
   },
  {
@@ -580,6 +622,179 @@
       "/images/products99/grass_paver3.avif",
       "/images/products99/grass_paver4.avif"
     ]
+    },
+    {
+      "id":351,
+      "name":"Concrete Paver Block for Durable Pavement Solutions",
+      "details":"Introducing our high-quality Concrete Paver Block, the ultimate solution for durable pavements. Crafted with precision, these pavers offer unmatched strength and resilience to withstand heavy foot traffic and vehicular loads. Engineered to last, our paver blocks are made from top-grade concrete, ensuring long-lasting durability and low maintenance requirements. With their interlocking design, installation is a breeze, providing a seamless and sturdy pavement surface. Perfect for driveways, walkways, and patio areas, these pavers offer exceptional slip resistance and weather resistance, making them ideal for both residential and commercial applications. Transform your outdoor space with our Concrete Paver Block and enjoy a reliable, long-lasting pavement solution.",
+      "image":[
+        "/images/products99/concrete_paver_block.jpg",
+        "/images/products99/concrete_paver_block1.avif",
+        "/images/products99/concrete_paver_block2.avif",
+        "/images/products99/concrete_paver_block3.avif"
+      ]
+    },
+    {
+      "id":361,
+      "name":"Decorative Concrete Pillar Square for Aesthetic Landscaping",
+      "details":"Introducing our Decorative Concrete Pillar Square, designed to enhance the aesthetics of your landscape. Made from high-quality precast concrete, this pillar adds a touch of elegance to any outdoor space. With a compressive strength of 70 N/mm, it ensures durability and longevity, even in harsh weather conditions. Its square shape complements modern and traditional designs alike, making it a versatile choice for Indian landscapes. Whether you want to define walkways, accentuate garden areas, or create a striking entrance, our Decorative Concrete Pillar Square is the ideal choice to elevate the beauty of your outdoor space.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Precast Concrete</td>  </tr>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr  <tr>    <th>Compressive Strength</th>    <td>70 N/mm²</td>  </tr></table>",
+      "image":[
+          "/images/products99/decorative.avif"
+      ]
+    },
+    {
+      "id":371,
+      "name":"Decorative Marble Pillar - Aesthetic and Sturdy Architectural Element",
+      "details":"Introducing our exquisite Decorative Marble Pillar, a perfect blend of aesthetics and durability. Crafted with precision and finesse, this architectural element adds a touch of elegance to any space. Made from high-quality marble, it boasts a stunning design that instantly captivates the eye. This pillar not only enhances the beauty of your interiors but also provides structural support, ensuring longevity. Whether used as a standalone piece or incorporated into a larger design, it exudes sophistication and class. Elevate your decor with this sturdy and visually appealing marble pillar, a timeless addition that effortlessly elevates any space.",
+      "image":[
+          "/images/products99/decorative_marble1.jpg",
+          "/images/products99/decorative_marble2.jpg",
+          "/images/products99/decorative_marble3.jpg",
+          "/images/products99/decorative_marble4.jpg"
+      ]
+    },
+    {
+      "id":381,
+      "name":"Ornamental Mild Steel Decorative Pillar Element",
+      "details":"Introducing our exquisite Decorative Pillar Element, the perfect fusion of elegance and functionality. Crafted with meticulous attention to detail, this ornamental structural support is designed to enhance the beauty of any space. Made from high-quality materials, it showcases intricate patterns and captivating motifs, adding a touch of sophistication to your interior or exterior decor. This pillar element not only serves as a stunning focal point but also provides sturdy support, ensuring stability and durability. Whether used in homes, offices, or commercial settings, our Decorative Pillar Element is a timeless addition that effortlessly elevates any architectural design. Transform your space with this remarkable piece today.",
+      "specification":"<table border='1' >  <tr>    <th>Material</th>    <td>Mild Steel</td>  </tr></table>",
+      "image":[
+          "/images/products99/ornamental1.jpg",
+          "/images/products99/ornamental2.avif"
+      ]
+    },
+    {
+      "id":382,
+      "name":"Decorative Marble Pillar - Aesthetic and Sturdy Architectural Element",
+      "details":"Introducing our exquisite Decorative Marble Pillar, a perfect blend of aesthetics and durability. Crafted with precision and finesse, this architectural element adds a touch of elegance to any space. Made from high-quality marble, it boasts a stunning design that instantly captivates the eye. This pillar not only enhances the beauty of your interiors but also provides structural support, ensuring longevity. Whether used as a standalone piece or incorporated into a larger design, it exudes sophistication and class. Elevate your decor with this sturdy and visually appealing marble pillar, a timeless addition that effortlessly elevates any space.",
+      "image":[
+          "/images/products99/decorative_marble1.jpg",
+              "/images/products99/decorative_marble2.jpg",
+                  "/images/products99/decorative_marble4.jpg",
+                      "/images/products99/decorative_marble3.jpg"
+      ]
+    },
+    {
+      "id":383,
+      "name":"Compound Aluminium Parapet Grill for Exterior Stylish and Protective Edging",
+      "details":"Introducing our Parapet Grill, the perfect solution for both style and protection. Crafted with utmost precision, this grill is designed to enhance the aesthetics of your building's parapet while providing a reliable barrier for added safety. Made from high-quality materials, it offers exceptional durability and resistance to harsh weather conditions. The sleek design seamlessly blends with any architectural style, making it a versatile choice for both residential and commercial properties. Easy to install and maintain, our Parapet Grill ensures a hassle-free experience. Trust in its ability to safeguard your property while adding a touch of elegance to your edging.",
+      "specification":"<table border='1'>  <tr>    <th>Type</th>    <td>Compound Grill</td>  </tr>  <tr>    <th>Size</th>    <td>60x60</td>  </tr>  <tr>    <th>Position</th>    <td>Exterior</td>  </tr>  <tr>    <th>Material</th>    <td>Aluminium</td>  </tr></table>",
+      "image":[
+          "/images/products99/compound_alumin1.jpg",
+          "/images/products99/compound_alumin2.avif",
+          "/images/products99/compound_alumin3.avif"
+      ]
+    },
+    {
+      "id":384,
+      "name":"Wrought Iron Compound Wall Railing, 0.25in Thickness, Modular Design",
+      "details":"Introducing our high-quality Compound Wall Railing, the ultimate safety feature for your property. Crafted with precision, this sturdy railing is designed to provide optimal protection and security, ensuring the safety of your loved ones. Made from durable materials, it guarantees long-lasting performance and resistance to harsh weather conditions. With its sleek and modern design, the Compound Wall Railing seamlessly blends with any architectural style, enhancing the overall aesthetics of your property. Easy to install and maintain, this railing is the perfect combination of functionality and style. Invest in the safety of your property today with our top-notch Compound Wall Railing.",
+      "specification":"<table border='1' >  <tr>    <th>Type</th>    <td>Wrought Iron</td>  </tr>  <tr>    <th>Built Type</th>    <td>Modular</td>  </tr>  <tr>    <th>Thickness</th>    <td>0.25 in</td>  </tr>  <tr>    <th>Material</th>    <td>Steel</td>  </tr></table>",
+      "image":[
+          "/images/products99/wrought_iron1.jpg",
+          "/images/products99/wrought_iron2.avif",
+          "/images/products99/wrought_iron3.avif",
+          "/images/products99/wrought_iron4.avif"
+      ]
+    },
+    {
+      "id":385,
+      "name":"White Compound Grill for Elegant Fencing",
+      "details":"Introducing our White Compound Grill, the perfect addition to create an elegant and sophisticated fencing solution. Crafted with precision, this grill combines durability and style, making it an ideal choice for both residential and commercial properties. Its white color adds a touch of elegance, seamlessly blending with any architectural design. Constructed with high-quality materials, this compound grill is built to withstand the test of time, ensuring long-lasting performance. Easy to install and maintain, it offers a secure and visually appealing solution for enhancing privacy and security. Upgrade your fencing with our White Compound Grill and elevate the aesthetic appeal of your property.",
+      "image":[
+          "/images/products99/white_compound_grill1.jpg",
+          "/images/products99/white_compound_grill2.avif",
+          "/images/products99/white_compound_grill3.avif",
+          "/images/products99/white_compound_grill4.avif"
+      ]
+    },
+    {
+      "id":386,
+      "name":"Ornate Design Compound Grills for Aesthetic Appeal",
+      "details":"Introducing our Ornate Design Compound Grills, the perfect addition to enhance the aesthetic appeal of any space. Crafted with utmost precision, these grills feature an intricate and ornate design that effortlessly blends elegance and functionality. Made from high-quality materials, our compound grills are built to last, offering durability and longevity. Whether you're looking to elevate the look of your home or commercial establishment, these grills are sure to make a statement. With their exquisite detailing and unique patterns, they add a touch of sophistication and charm to any setting. Upgrade your space with our Ornate Design Compound Grills and experience the epitome of beauty and style.",
+      "image":[
+          "/images/products99/ornate_design1.jpg",
+          "/images/products99/ornate_design2.avif",
+          "/images/products99/ornate_design3.avif",
+          "/images/products99/ornate_design4.avif",
+          "/images/products99/ornate_design5.avif",
+          "/images/products99/ornate_design6.avif",
+          "/images/products99/ornate_design7.avif"
+      ]
+    },
+    {
+      "id":387,
+      "name":"Laser Sensor Accurate Distance Measurement",
+      "details":"Introducing our Laser Sensor Accurate Distance Measurement, the perfect tool for precise distance calculations. This advanced sensor utilizes cutting-edge laser technology to deliver accurate measurements with minimal error. Whether you're in construction, engineering, or any industry that requires precise distance calculations, this product is a must-have. Its compact design and user-friendly interface make it easy to use and highly portable. With a wide range of applications, this laser sensor is suitable for indoor and outdoor use. Experience unmatched accuracy and efficiency with our Laser Sensor Accurate Distance Measurement, and take your measurements to the next level. Invest in quality and precision today!",
+      "image":[
+          "/images/products99/laser_sensor1.jpg",
+          "/images/products99/laser_sensor2.jpg",
+          "/images/products99/laser_sensor3.avif",
+          "/images/products99/laser_sensor4.avif"
+      ]
+    },
+    {
+      "id":391,
+      "name":"High-Quality Fly Ash Bricks",
+      "details":"Introducing Fly Ash's High-Quality Fly Ash Bricks, the perfect solution for your construction needs. These bricks are built to withstand the test of time, offering exceptional durability and strength. Made from premium quality fly ash, they are eco-friendly and contribute to sustainable construction practices. With their precise dimensions and uniform shape, these bricks ensure easy installation and a seamless finish. Whether you're constructing residential or commercial buildings, these Fly Ash Bricks provide excellent thermal insulation and soundproofing properties. Trust in the brand's commitment to superior quality and reliability. Choose Fly Ash's High-Quality Fly Ash Bricks for a sturdy and sustainable construction project.",
+      "specification":"<table border='1'>  <tr>    <th>Brand</th>    <td>Fly Ash</td>  </tr></table>",
+      "image":[
+          "/images/products99/fly_ash_brick1.jpg",
+           "/images/products99/fly_ash_brick2.avif",
+            "/images/products99/fly_ash_brick3.avif",
+             "/images/products99/fly_ash_brick4.avif"
+      ]
+    },
+    {
+      "id":441,
+      "name":"Laser Sensor Accurate Distance Measurement",
+      "details":"Introducing our Laser Sensor Accurate Distance Measurement, the perfect tool for precise distance calculations. This advanced sensor utilizes cutting-edge laser technology to deliver accurate measurements with minimal error. Whether you're in construction, engineering, or any industry that requires precise distance calculations, this product is a must-have. Its compact design and user-friendly interface make it easy to use and highly portable. With a wide range of applications, this laser sensor is suitable for indoor and outdoor use. Experience unmatched accuracy and efficiency with our Laser Sensor Accurate Distance Measurement, and take your measurements to the next level. Invest in quality and precision today!",
+      "image":[
+          "/images/products99/laser_sensor_accurate1.jpg",
+          "/images/products99/laser_sensor_accurate2.jpg",
+          "/images/products99/laser_sensor_accurate3.avif",
+          "/images/products99/laser_sensor_accurate4.avif"
+      ]
+    },
+    {
+      "id":442,
+      "name":"Garden Trellis for Stylish and Functional Garden Design",
+      "specification":"<table border='1'>  <tr>    <th>Country of Origin</th>    <td>India</td>  </tr></table>",
+      "image":[
+          "/images/products99/garden_trellis1.avif",
+          "/images/products99/garden_trellis2.avif",
+          "/images/products99/garden_trellis3.avif",
+          "/images/products99/garden_trellis4.avif"
+      ]
+    },
+    {
+      "id":443,
+      "name":"Staircase Ventilator Grill, Ventilation Fixture",
+      "details":"Introducing our Staircase Ventilator Grill, the perfect ventilation fixture for your home or workplace. Designed with both functionality and aesthetics in mind, this grill ensures proper air circulation while adding a touch of elegance to your staircase area. Crafted from high-quality materials, it guarantees durability and long-lasting performance. With its sleek and modern design, it seamlessly blends into any interior decor. The ventilator grill effectively removes stale air, odors, and moisture, creating a healthier and more comfortable environment. Easy to install and maintain, this product is a must-have for anyone seeking optimum ventilation and improved indoor air quality. Enhance your space with our Staircase Ventilator Grill today!",
+      "image":[
+            "/images/products99/staircase_grill.avif"
+      ]
+    },
+    {
+      "id":444,
+      "name":"Kerb Stones 40*30*7.5CM",
+      "details":"Introducing our high-quality Kerb Stones in a size of 40*30*7.5CM. Crafted from durable granite, these Kerb Stones are designed to add a touch of elegance and functionality to your outdoor spaces. With their sturdy construction, they offer exceptional resistance to wear and tear, making them perfect for driveways, pathways, and garden borders. The 40*30*7.5CM size ensures easy installation and versatility, allowing you to create beautiful landscapes effortlessly. These Kerb Stones are a great choice for Indian customers, offering both aesthetic appeal and practicality. Enhance the beauty of your surroundings with our reliable and stylish Granite Kerb Stones.",
+      "image":[
+            "/images/products99/kerb_stones.avif"
+      ]
+    },
+    {
+      "id":445,
+      "name":"Stylish Balluster for Decoration",
+      "details":"Introducing the Balluster - a stylish and contemporary addition to your home decor. Crafted with precision, this elegant balluster is designed to enhance the aesthetic appeal of any space. Its sleek and modern look effortlessly complements various architectural styles, making it a versatile choice for both indoor and outdoor applications. Made from high-quality materials, the Balluster offers exceptional durability and longevity. Its smooth finish and clean lines exude sophistication, adding a touch of class to your surroundings. Whether you're renovating your home or designing a new project, the Balluster is the perfect choice to create a visually stunning and timeless atmosphere.",
+      "image":[
+            "/images/products99/stylish_balluster.avif",
+            "/images/products99/stylish_balluster2.avif",
+            "/images/products99/stylish_balluster3.avif",
+            "/images/products99/stylish_balluster4.avif"
+      ]
     }
-   
+    
+
   ]
