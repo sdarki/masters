@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import SideMenu from './SideMenu';
@@ -6,7 +5,7 @@ import ProductList from './ProductList';
 import categories from '../data/categories.json';
 
 const ProductPage = () => {
-  
+  // Find the SLAB category ID
   const slabCategory = categories.find(c => c.name.toLowerCase() === 'slab');
   const [selectedCategoryId, setSelectedCategoryId] = useState(slabCategory ? slabCategory.id : null);
   const [products, setProducts] = useState([]);
@@ -34,4 +33,3 @@ const ProductPage = () => {
 };
 
 export default ProductPage;
-

@@ -5,11 +5,13 @@ const ProductDetails = ({ product }) => {
     return <div>Select a product to see the details</div>;
   }
 
+
   return (
     <div className="product-details">
       <h2>{product.name}</h2>
      
       <p>{product.details}</p>
+      
     </div>
   );
 };
