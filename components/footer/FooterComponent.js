@@ -306,7 +306,13 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 // import { MdHeadset } from 'react-icons/md';
 import styles from './footer.module.css';
+import { useRouter } from 'next/router';
 const FooterComponent = () => {
+   const router=useRouter()
+  function  click(a){
+    router.push(`${a}`)
+
+  }
   return (
     <footer className="bg-dark py-4">
       <Container>
@@ -315,16 +321,16 @@ const FooterComponent = () => {
             <h5>USEFUL LINKS</h5>
             <ul className="list-unstyled">
               <li><a href="#privacy-policy">PRIVACY POLICY</a></li>
-              <li><a href="/">SERVICES</a></li>
+              <li   onClick={() => click('/#services11')}><>SERVICES</></li>
               <li><a href="/">WHY US</a></li>
               <li><a href="/">TESTIMONIALS</a></li>
             </ul>
           </Col>
           <Col md={4}>
-            <h5>HOME</h5>
+            <a href='/'>HOME</a>
             <ul className="list-unstyled">
               <li><a href="/about-us">ABOUT US</a></li>
-              <li><a href="/">GALLERY</a></li>
+              <li   onClick={() => click('/#gallery11 ')}>GALLERY</li>
               <li><a href="/contact-us">CONTACT US</a></li>
             </ul>
           </Col>

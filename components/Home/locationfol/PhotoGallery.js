@@ -173,8 +173,8 @@ const productData = [
 
 const PhotoGallery = () => {
   return (
-    <div className="container my-5">
-      <h2 className="text-center mb-4">Product Photo Gallery</h2>
+    <div className="container my-5"  >
+      <h2 className="text-center mb-4" >Product Photo Gallery</h2>
       <div className="row">
         {productData.map((product) => (
           <div className="col-md-3" key={product.id}>

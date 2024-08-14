@@ -11,8 +11,10 @@ import CompaniesComponent from '../components/Home/forCompanies/CompaniesCompone
 import SliderComponent from '../components/Home/SliderComponent';
 import PhotoGallery from '../components/Home/locationfol/PhotoGallery';
 import MasterAbout from '../components/about-us/MasterAbout';
+import { useRouter } from 'next/router';
 // import ProductPage from '../components/ProductPage';
 const index = () => {
+  const Router=useRouter();
   return (
     <>
       <MainSliderComponent/>
@@ -21,6 +23,7 @@ const index = () => {
       {/* <TrialComponent /> */}
       {/* <CompaniesResponsiveComponent /> */}
       {/* <ProductComponent/> */}
+      <div id="services11"></div>
       <SliderComponent/>
       {/* <StandForComponent/> */}
       {/* <NetworkComponent /> */}
@@ -29,6 +32,7 @@ const index = () => {
 
       <ReviewComponent />
       {/* <ClientsComponent/> */}
+      <div id='gallery11'></div>
       <PhotoGallery />
       {/* <ProductPage /> */}
       {/* <ClientTestimonialComponent/> */}

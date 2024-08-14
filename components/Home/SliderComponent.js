@@ -89,8 +89,8 @@ const services = [
  
 const SliderComponent = () => (
 
-  <div className="container text-center my-5">
-    <h1 className="text-muted font-weight-bold mb-4">Services</h1>
+  <div className="container text-center my-5 " >
+    <h1 className="text-muted font-weight-bold mb-4" >Services</h1>
     <Carousel arrows infinite={false} className={`w-100 py-3 ${styles.Carousel}`} >
 
       {services.map((service, index) => (
