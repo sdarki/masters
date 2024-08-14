@@ -116,12 +116,14 @@ import SideMenu from '../../components/SideMenu';
 import productDetails from '../../data/productDetails.json';
 import categories from '../../data/categories.json';
 import SparesBreadcumb from '../../components/spares/SparesBreadcumb';
+import EnquiryModal from '../../components/contact-us/EnquiryModal'; 
 
 const ProductDetailPage = () => {
   const router = useRouter();
   const { id } = router.query;
   const [product, setProduct] = useState(null);
   const [selectedImage, setSelectedImage] = useState(null);
+  const [showModal, setShowModal] = useState(false); 
 
   useEffect(() => {
     if (id) {
@@ -129,7 +131,7 @@ const ProductDetailPage = () => {
       
       if (productDetail) {
         setProduct(productDetail);
-        setSelectedImage(productDetail.image?.[0]); // Set the first image as default
+        setSelectedImage(productDetail.image?.[0]); 
       }
     }
   }, [id]);
@@ -140,6 +142,10 @@ const ProductDetailPage = () => {
 
   const handleImageClick = (image) => {
     setSelectedImage(image);
+  };
+
+  const handleEnquireNow = () => {
+    setShowModal(true); 
   };
 
   return (
@@ -155,7 +161,7 @@ const ProductDetailPage = () => {
               {product ? (
                 <div className="row">
                   <div className="col-md-9">
-                    {/* Image and Description Section */}
+                    
                     <div className="d-flex flex-column align-items-center">
                       <div className="image-tabs d-flex justify-content-center mb-4 flex-wrap">
                         {product.image.map((image, index) => (
@@ -177,8 +183,13 @@ const ProductDetailPage = () => {
                         className="img-fluid"
                         style={{ maxHeight: '400px', width: '100%' }}
                       />
-                      <div className="mt-4">
-                        <h2 className="mb-3">{product.name}</h2>
+                      <div className="mt-4 w-100">
+                        <div className="d-flex flex-column flex-md-row justify-content-between align-items-md-center mb-3">
+                          <h2>{product.name}</h2>
+                          <button className="btn btn-dark mt-3 mt-md-0 ms-md-3" onClick={handleEnquireNow}>
+                            Enquire Now
+                          </button>
+                        </div>
                         {product.details && (
                           <>
                             <h3>Description</h3>
@@ -202,6 +213,13 @@ const ProductDetailPage = () => {
           </div>
         </div>
       </div>
+      {product && (
+        <EnquiryModal 
+          show={showModal} 
+          onClose={() => setShowModal(false)} 
+          productName={product.name} 
+        />
+      )}
     </>
   );
 };
